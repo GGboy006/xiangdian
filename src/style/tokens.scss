@@ -1,0 +1,20 @@
+:root,
+page {
+  --xd-paper: #f4ede0;
+  --xd-paper-deep: #ebe2d2;
+  --xd-ink: #2c2416;
+  --xd-ink-soft: #5c5346;
+  --xd-wood: #6b4f3a;
+  --xd-smoke: #8a7e6e;
+  --xd-seal: #a63d2f;
+  --xd-rule: #c4b8a4;
+  --xd-font-serif: 'Source Han Serif SC', 'Noto Serif SC', 'Songti SC', 'STSong', 'Songti TC', serif;
+  --xd-font-sans: 'Source Han Serif SC', 'Songti SC', 'PingFang SC', serif;
+}
+
+page {
+  background-color: var(--xd-paper);
+  color: var(--xd-ink);
+  font-family: var(--xd-font-serif);
+  line-height: 1.7;
+}
