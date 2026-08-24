@@ -6,17 +6,15 @@ import { followFormulas } from './formula-follow'
 import { followSteps, followUsage } from './formula-follow-steps'
 import { formulaStepOverrides, formulaUsageOverrides } from './formula-steps'
 import { formulas } from './formulas'
+import { materialPrepSteps } from './material-prep'
 import { materials } from './materials'
 import { sources } from './sources'
 
-/** 谱录静态入库，不走后端。占位方被真方替换后从此集合去掉。 */
-const replacedPlaceholderIds = new Set(['xunyi', 'peixiang', 'yinxian', 'tufu', 'jiangzhen', 'baihe', 'gongzhong'])
-
+/** 谱录静态入库，不走后端。 */
 const catalogFormulas = [
-  ...formulas.filter(item => item.id === 'zhangzhong'),
+  ...formulas,
   ...extraFormulas,
   ...followFormulas,
-  ...formulas.filter(item => item.id !== 'zhangzhong' && !replacedPlaceholderIds.has(item.id)),
 ]
 
 const catalogMaterials = [...materials, ...extraMaterials]
@@ -49,7 +47,11 @@ export function listMaterials(category?: MaterialCategory) {
 }
 
 export function getMaterial(id: string): Material | undefined {
-  return catalogMaterials.find(item => item.id === id)
+  const material = catalogMaterials.find(item => item.id === id)
+  if (!material)
+    return undefined
+  const prepSteps = materialPrepSteps[id]
+  return prepSteps ? { ...material, prepSteps } : material
 }
 
 export function listFormulas(use?: FormulaUse) {
@@ -116,7 +118,9 @@ export function searchCatalog(keyword: string): SearchHit[] {
 }
 
 export function todayPicks() {
-  const material = materials[0]
-  const formula = formulas[0]
+  const formula = getFormula(catalogFormulas[0].id)
+  const material = getMaterial(catalogMaterials[0].id)
+  if (!formula || !material)
+    throw new Error('谱录空缺')
   return { material, formula }
 }

@@ -74,6 +74,15 @@ onShareTimeline(() => {
       <view class="body">
         {{ material.prep }}
       </view>
+      <view v-if="material.prepSteps?.length" class="hint">
+        上为原文，下为今语。有实拍则配图。
+      </view>
+      <formula-step
+        v-for="(step, index) in material.prepSteps"
+        :key="index"
+        :step="step"
+        :mark="['一', '二', '三', '四', '五'][index] || String(index + 1)"
+      />
     </view>
     <view class="block">
       <view class="label">

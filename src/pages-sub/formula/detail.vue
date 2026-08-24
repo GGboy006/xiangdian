@@ -143,23 +143,12 @@ function markOf(index: number) {
       <view class="hint">
         上为原文，下为今语。有实拍则配图。
       </view>
-      <view
+      <formula-step
         v-for="(step, index) in steps"
         :key="index"
-        class="step"
-      >
-        <text class="step__mark">
-          {{ markOf(index) }}
-        </text>
-        <view class="step__body">
-          <view v-if="step.original" class="step__original">
-            {{ step.original }}
-          </view>
-          <view class="step__text">
-            {{ step.text }}
-          </view>
-        </view>
-      </view>
+        :step="step"
+        :mark="markOf(index)"
+      />
     </view>
 
     <view class="block">
