@@ -1,7 +1,8 @@
-/** 本典折算尺。十钱为两，十分为钱。不充古秤。 */
+/** 本典折算尺。十六两为斤，十钱为两，十分为钱。不充古秤。 */
 export const LIANG_TO_GRAM = 40
 export const QIAN_TO_GRAM = 4
 export const FEN_TO_GRAM = 0.4
+export const JIN_TO_GRAM = 16 * LIANG_TO_GRAM
 
 export const SCALE_NOTE = '本典以 1 两 = 40 克折算，便于入手，不充古秤。'
 

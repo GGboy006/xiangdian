@@ -38,7 +38,7 @@ onLoad((query) => {
       《香典》合《香乘》《香谱》《陈氏香谱》三书之公有领域记载，供查阅香材与香方。白话说明为自撰，不收录今人译注、手绘图与出版社专有编排。
     </view>
     <view class="body">
-      分两、制法诸谱互有出入。本典样例只记层次，不充精确复方手册。
+      分两按本典尺折成克，页上写明不充古秤。制法上为原文摘句，下为今语，供跟着做。原书只写少许、粒数的，不编克数。
     </view>
 
     <view v-for="item in list" :key="item.id" class="book" :class="{ 'is-on': current?.id === item.id }">

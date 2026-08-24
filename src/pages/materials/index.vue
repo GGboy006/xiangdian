@@ -20,7 +20,7 @@ definePage({
 onShareAppMessage(() => shareHome())
 onShareTimeline(() => shareHome())
 
-const categories: Array<MaterialCategory | undefined> = [undefined, 'wood', 'herb', 'resin', 'animal']
+const categories: Array<MaterialCategory | undefined> = [undefined, 'wood', 'herb', 'resin', 'animal', 'compound']
 const current = ref<MaterialCategory>()
 const list = computed(() => listMaterials(current.value))
 

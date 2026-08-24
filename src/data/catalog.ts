@@ -1,16 +1,27 @@
 import type { Formula, FormulaUse, Material, MaterialCategory, SourceRecord } from '@/types/canon'
 import { FORMULA_USE_LABEL } from '@/types/canon'
 import { extraFormulas } from './formula-extras'
+import { extraMaterials } from './material-extras'
+import { followFormulas } from './formula-follow'
+import { followSteps, followUsage } from './formula-follow-steps'
 import { formulaStepOverrides, formulaUsageOverrides } from './formula-steps'
 import { formulas } from './formulas'
 import { materials } from './materials'
 import { sources } from './sources'
 
+/** 谱录静态入库，不走后端。占位方被真方替换后从此集合去掉。 */
+const replacedPlaceholderIds = new Set(['xunyi', 'peixiang', 'yinxian', 'tufu', 'jiangzhen', 'baihe', 'gongzhong'])
+
 const catalogFormulas = [
   ...formulas.filter(item => item.id === 'zhangzhong'),
   ...extraFormulas,
-  ...formulas.filter(item => item.id !== 'zhangzhong'),
+  ...followFormulas,
+  ...formulas.filter(item => item.id !== 'zhangzhong' && !replacedPlaceholderIds.has(item.id)),
 ]
+
+const catalogMaterials = [...materials, ...extraMaterials]
+const stepOverrides = { ...formulaStepOverrides, ...followSteps }
+const usageOverrides = { ...formulaUsageOverrides, ...followUsage }
 
 function normalize(text: string) {
   return text.trim().toLowerCase()
@@ -33,12 +44,12 @@ export function getSource(id: string): SourceRecord | undefined {
 
 export function listMaterials(category?: MaterialCategory) {
   if (!category)
-    return materials
-  return materials.filter(item => item.category === category)
+    return catalogMaterials
+  return catalogMaterials.filter(item => item.category === category)
 }
 
 export function getMaterial(id: string): Material | undefined {
-  return materials.find(item => item.id === id)
+  return catalogMaterials.find(item => item.id === id)
 }
 
 export function listFormulas(use?: FormulaUse) {
@@ -51,8 +62,8 @@ export function getFormula(id: string): Formula | undefined {
   const formula = catalogFormulas.find(item => item.id === id)
   if (!formula)
     return undefined
-  const steps = formulaStepOverrides[id]
-  const usage = formulaUsageOverrides[id]
+  const steps = stepOverrides[id]
+  const usage = usageOverrides[id]
   return {
     ...formula,
     ...(steps ? { steps } : {}),
@@ -76,7 +87,7 @@ export function searchCatalog(keyword: string): SearchHit[] {
   if (!q)
     return []
 
-  const materialHits = materials
+  const materialHits = catalogMaterials
     .filter(item => matchesKeyword([item.name, item.summary, item.origin, ...item.aliases], q))
     .map<SearchHit>(item => ({
       kind: 'material',
