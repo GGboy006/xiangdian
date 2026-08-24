@@ -1,24 +1,33 @@
-import type { Formula } from '@/types/canon'
+import type { Formula, FormulaStep } from '@/types/canon'
+
+function stepsFromMethod(method: string): FormulaStep[] {
+  return [{ text: method }]
+}
 
 export const formulas: Formula[] = [
   {
     id: 'zhangzhong',
     name: '江南李王帐中香',
-    aliases: ['李王帐中香', '帐中香'],
+    aliases: ['李王帐中香', '帐中香', '苏合香浸沉香'],
+    pattern: '苏合香浸沉香',
     use: 'burn',
-    method: '甲香须先制去腥。沉、檀、栈锉末，入麝与龙脑后合，蜜或酒和，阴干再用。',
-    usage: '置炉中，隔火或直接焚之，宜寝室、帐中。',
-    ingredients: [
-      { materialId: 'chenxiang', amount: '诸谱不一', note: '君药，宜重' },
-      { materialId: 'tanxiang', amount: '减沉之半' },
-      { materialId: 'zhanxiang', amount: '与檀相近' },
-      { materialId: 'jiaxiang', amount: '少许', note: '须制过' },
-      { materialId: 'shexiang', amount: '极少' },
-      { materialId: 'longnao', amount: '后入' },
+    method: '沉香锉如炷大，投入苏合油中，磁器密封，浸满百日，取出爇之。入蔷薇水更佳。',
+    steps: [
+      { text: '沉香一两，锉如灯芯粗细。' },
+      { text: '苏合油盛于不渗漏的磁器中，勿用铜铁器。' },
+      { text: '沉香投入油内，密封。' },
+      { text: '浸满一百日，不可中途启封。' },
+      { text: '期满取出，炉中焚之。入蔷薇水更佳。' },
     ],
-    sourceId: 'xiangpu',
-    juan: '香之法',
-    summary: '南唐李后主帐中所用。以沉檀为体，麝脑为用，甲香固烟。后世合香多祖此格。',
+    usage: '封浸期满，取出爇于炉中。宜帐中、寝室。入蔷薇水则更清润。',
+    ingredients: [
+      { materialId: 'chenxiang', amount: '一两', grams: 40, note: '剉如炷大' },
+      { materialId: 'suhexiang', amount: '以不津磁器盛', note: '浸剂，不入折算' },
+    ],
+    sourceId: 'chenshi',
+    juan: '法和众妙香',
+    summary: '南唐李后主帐中所用之一格。以苏合油养沉香，不和众末。谱中帐中香有数则，本典先取此格，便于按步制作。',
+    original: '沉香一两（剉如炷大）　苏合油（以不津磁器盛）。右以香投油，封浸百日爇之，入蔷薇水更佳。',
   },
   {
     id: 'gongzhong',
@@ -26,6 +35,7 @@ export const formulas: Formula[] = [
     aliases: ['内中香'],
     use: 'burn',
     method: '沉檀为主，乳香助烟，龙脑后入。和以炼蜜，作饼阴干。',
+    steps: stepsFromMethod('沉檀为主，乳香助烟，龙脑后入。和以炼蜜，作饼阴干。'),
     usage: '殿阁焚熏，取烟缓而持久。',
     ingredients: [
       { materialId: 'chenxiang', amount: '重' },
@@ -43,6 +53,7 @@ export const formulas: Formula[] = [
     aliases: ['薰衣香'],
     use: 'fumigate',
     method: '草香与木香同制，麝香极少。和作末，入香炉或香球，以衣覆之。',
+    steps: stepsFromMethod('草香与木香同制，麝香极少。和作末，入香炉或香球，以衣覆之。'),
     usage: '熏衣、熏被，取气着缣帛，不宜直火灼衣。',
     ingredients: [
       { materialId: 'tanxiang', amount: '主' },
@@ -61,6 +72,7 @@ export const formulas: Formula[] = [
     aliases: ['篆香', '香印'],
     use: 'seal',
     method: '众香为末，入甲香、榆皮之类令粘，以印模压成回纹，阴干。',
+    steps: stepsFromMethod('众香为末，入甲香、榆皮之类令粘，以印模压成回纹，阴干。'),
     usage: '炉中依印焚之，一印可尽一时。',
     ingredients: [
       { materialId: 'chenxiang', amount: '主' },
@@ -79,6 +91,7 @@ export const formulas: Formula[] = [
     aliases: ['降真'],
     use: 'burn',
     method: '以沉、檀、栈相合，丁香助升，乳香助烟。不必多用动物香。',
+    steps: stepsFromMethod('以沉、檀、栈相合，丁香助升，乳香助烟。不必多用动物香。'),
     usage: '清供、礼神。烟宜直而清。',
     ingredients: [
       { materialId: 'chenxiang', amount: '主' },
@@ -97,6 +110,7 @@ export const formulas: Formula[] = [
     aliases: ['香囊方', '佩带香'],
     use: 'wear',
     method: '草香为主，丁香、藿香、零陵为骨，略入龙脑。缝入囊中，不必和蜜。',
+    steps: stepsFromMethod('草香为主，丁香、藿香、零陵为骨，略入龙脑。缝入囊中，不必和蜜。'),
     usage: '佩于衣带、枕函。数月气减，可再实。',
     ingredients: [
       { materialId: 'lingling', amount: '主' },
@@ -115,6 +129,7 @@ export const formulas: Formula[] = [
     aliases: ['傅身香', '涂傅之香'],
     use: 'anoint',
     method: '香末极细，入膏油或浸酒。龙脑、麝香后入，免泄气。',
+    steps: stepsFromMethod('香末极细，入膏油或浸酒。龙脑、麝香后入，免泄气。'),
     usage: '傅身、傅手，或涂额。不可入目。',
     ingredients: [
       { materialId: 'tanxiang', amount: '主' },

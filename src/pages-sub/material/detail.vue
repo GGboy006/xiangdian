@@ -3,6 +3,7 @@ import FormulaSlip from '@/components/formula-slip/formula-slip.vue'
 import SourceSeal from '@/components/source-seal/source-seal.vue'
 import { getMaterial, listFormulasByMaterial } from '@/data/catalog'
 import { MATERIAL_CATEGORY_LABEL } from '@/types/canon'
+import { shareHome, shareMaterial } from '@/utils/share'
 
 defineOptions({ name: 'MaterialDetail' })
 definePage({
@@ -11,6 +12,8 @@ definePage({
     navigationBarBackgroundColor: '#F4EDE0',
     navigationBarTextStyle: 'black',
     backgroundColor: '#F4EDE0',
+    enableShareAppMessage: true,
+    enableShareTimeline: true,
   },
 })
 
@@ -23,10 +26,23 @@ onLoad((query) => {
     uni.setNavigationBarTitle({ title: material.value.name })
   }
 })
+
+onShareAppMessage(() => {
+  return material.value
+    ? shareMaterial(material.value.name, material.value.id)
+    : shareHome()
+})
+
+onShareTimeline(() => {
+  if (!material.value)
+    return shareHome()
+  const payload = shareMaterial(material.value.name, material.value.id)
+  return { title: payload.title, query: payload.query }
+})
 </script>
 
 <template>
-  <view v-if="material" class="page">
+  <view v-if="material" class="page xd-page">
     <view class="name">
       {{ material.name }}
     </view>
@@ -86,18 +102,12 @@ onLoad((query) => {
       </view>
     </view>
   </view>
-  <view v-else class="page empty">
+  <view v-else class="page xd-page empty">
     典中未载此香。
   </view>
 </template>
 
 <style scoped lang="scss">
-.page {
-  min-height: 100vh;
-  padding: 40rpx 48rpx 80rpx;
-  background: var(--xd-paper);
-}
-
 .name {
   font-size: 64rpx;
   letter-spacing: 0.28em;

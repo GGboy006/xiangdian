@@ -1,8 +1,16 @@
 import type { Formula, FormulaUse, Material, MaterialCategory, SourceRecord } from '@/types/canon'
 import { FORMULA_USE_LABEL } from '@/types/canon'
+import { extraFormulas } from './formula-extras'
+import { formulaStepOverrides, formulaUsageOverrides } from './formula-steps'
 import { formulas } from './formulas'
 import { materials } from './materials'
 import { sources } from './sources'
+
+const catalogFormulas = [
+  ...formulas.filter(item => item.id === 'zhangzhong'),
+  ...extraFormulas,
+  ...formulas.filter(item => item.id !== 'zhangzhong'),
+]
 
 function normalize(text: string) {
   return text.trim().toLowerCase()
@@ -35,16 +43,25 @@ export function getMaterial(id: string): Material | undefined {
 
 export function listFormulas(use?: FormulaUse) {
   if (!use)
-    return formulas
-  return formulas.filter(item => item.use === use)
+    return catalogFormulas
+  return catalogFormulas.filter(item => item.use === use)
 }
 
 export function getFormula(id: string): Formula | undefined {
-  return formulas.find(item => item.id === id)
+  const formula = catalogFormulas.find(item => item.id === id)
+  if (!formula)
+    return undefined
+  const steps = formulaStepOverrides[id]
+  const usage = formulaUsageOverrides[id]
+  return {
+    ...formula,
+    ...(steps ? { steps } : {}),
+    ...(usage ? { usage } : {}),
+  }
 }
 
 export function listFormulasByMaterial(materialId: string) {
-  return formulas.filter(item => item.ingredients.some(part => part.materialId === materialId))
+  return catalogFormulas.filter(item => item.ingredients.some(part => part.materialId === materialId))
 }
 
 export interface SearchHit {
@@ -68,11 +85,14 @@ export function searchCatalog(keyword: string): SearchHit[] {
       subtitle: item.aliases.slice(0, 2).join(' · ') || item.nature,
     }))
 
-  const formulaHits = formulas
+  const formulaHits = catalogFormulas
     .filter((item) => {
       const materialNames = item.ingredients
         .map(part => getMaterial(part.materialId)?.name || '')
-      return matchesKeyword([item.name, item.summary, FORMULA_USE_LABEL[item.use], ...item.aliases, ...materialNames], q)
+      return matchesKeyword(
+        [item.name, item.summary, item.method, item.pattern || '', FORMULA_USE_LABEL[item.use], ...item.aliases, ...materialNames],
+        q,
+      )
     })
     .map<SearchHit>(item => ({
       kind: 'formula',

@@ -1,5 +1,6 @@
 <script lang="ts" setup>
 import { getSource, listSources } from '@/data/catalog'
+import { shareHome } from '@/utils/share'
 
 defineOptions({ name: 'SourceIndex' })
 definePage({
@@ -8,8 +9,13 @@ definePage({
     navigationBarBackgroundColor: '#F4EDE0',
     navigationBarTextStyle: 'black',
     backgroundColor: '#F4EDE0',
+    enableShareAppMessage: true,
+    enableShareTimeline: true,
   },
 })
+
+onShareAppMessage(() => shareHome())
+onShareTimeline(() => shareHome())
 
 const currentId = ref('')
 const list = listSources()
@@ -24,7 +30,7 @@ onLoad((query) => {
 </script>
 
 <template>
-  <view class="page">
+  <view class="page xd-page">
     <view class="title">
       关于本典
     </view>
@@ -50,12 +56,6 @@ onLoad((query) => {
 </template>
 
 <style scoped lang="scss">
-.page {
-  min-height: 100vh;
-  padding: 40rpx 48rpx 80rpx;
-  background: var(--xd-paper);
-}
-
 .title {
   font-size: 48rpx;
   letter-spacing: 0.28em;

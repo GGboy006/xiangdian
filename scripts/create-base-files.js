@@ -11,6 +11,14 @@ const __dirname = path.dirname(__filename)
 
 // 最简可运行配置
 const manifest = { }
+const paperStyle = {
+  navigationBarBackgroundColor: '#F4EDE0',
+  navigationBarTextStyle: 'black',
+  backgroundColor: '#F4EDE0',
+  enableShareAppMessage: true,
+  enableShareTimeline: true,
+}
+
 const pages = {
   pages: [
     {
@@ -18,6 +26,7 @@ const pages = {
       type: 'home',
       style: {
         navigationBarTitleText: '香典',
+        ...paperStyle,
       },
     },
     {
@@ -25,6 +34,7 @@ const pages = {
       type: 'page',
       style: {
         navigationBarTitleText: '香材',
+        ...paperStyle,
       },
     },
     {
@@ -32,6 +42,7 @@ const pages = {
       type: 'page',
       style: {
         navigationBarTitleText: '香方',
+        ...paperStyle,
       },
     },
     {
@@ -39,10 +50,44 @@ const pages = {
       type: 'page',
       style: {
         navigationBarTitleText: '笈',
+        ...paperStyle,
       },
     },
   ],
   subPackages: [],
+  tabBar: {
+    custom: true,
+    color: '#8A7E6E',
+    selectedColor: '#A63D2F',
+    backgroundColor: '#F4EDE0',
+    borderStyle: 'white',
+    list: [
+      {
+        iconPath: 'static/tabbar/canon.png',
+        selectedIconPath: 'static/tabbar/canon-on.png',
+        pagePath: 'pages/canon/index',
+        text: '典',
+      },
+      {
+        iconPath: 'static/tabbar/materials.png',
+        selectedIconPath: 'static/tabbar/materials-on.png',
+        pagePath: 'pages/materials/index',
+        text: '材',
+      },
+      {
+        iconPath: 'static/tabbar/formulas.png',
+        selectedIconPath: 'static/tabbar/formulas-on.png',
+        pagePath: 'pages/formulas/index',
+        text: '方',
+      },
+      {
+        iconPath: 'static/tabbar/satchel.png',
+        selectedIconPath: 'static/tabbar/satchel-on.png',
+        pagePath: 'pages/satchel/index',
+        text: '笈',
+      },
+    ],
+  },
 }
 
 // 使用修复后的 __dirname 来解析文件路径

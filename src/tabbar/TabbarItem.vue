@@ -29,8 +29,9 @@ defineProps<{
 
 <style scoped lang="scss">
 .tab-char {
-  font-size: 30rpx;
-  letter-spacing: 0.2em;
+  font-family: var(--xd-font-serif, 'Songti SC', serif);
+  font-size: 34rpx;
+  letter-spacing: 0.28em;
   line-height: 1;
 }
 </style>

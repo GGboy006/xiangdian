@@ -8,6 +8,8 @@ export default defineUniPages({
     navigationBarBackgroundColor: '#F4EDE0',
     navigationBarTextStyle: 'black',
     backgroundColor: '#F4EDE0',
+    enableShareAppMessage: true,
+    enableShareTimeline: true,
   },
   easycom: {
     autoscan: true,
@@ -17,6 +19,6 @@ export default defineUniPages({
         'z-paging/components/z-paging$1/z-paging$1.vue',
     },
   },
-  // tabbar 的配置统一在 “./src/tabbar/config.ts” 文件中
+  // tabBar 配置见 src/tabbar/config.ts（自定义四字栏）
   tabBar: tabBar as any,
 })

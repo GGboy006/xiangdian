@@ -3,6 +3,7 @@ import type { FormulaUse } from '@/types/canon'
 import FormulaSlip from '@/components/formula-slip/formula-slip.vue'
 import { listFormulas } from '@/data/catalog'
 import { FORMULA_USE_LABEL } from '@/types/canon'
+import { shareHome } from '@/utils/share'
 
 defineOptions({ name: 'FormulasIndex' })
 definePage({
@@ -11,8 +12,13 @@ definePage({
     navigationBarBackgroundColor: '#F4EDE0',
     navigationBarTextStyle: 'black',
     backgroundColor: '#F4EDE0',
+    enableShareAppMessage: true,
+    enableShareTimeline: true,
   },
 })
+
+onShareAppMessage(() => shareHome())
+onShareTimeline(() => shareHome())
 
 const uses: Array<FormulaUse | undefined> = [undefined, 'burn', 'fumigate', 'wear', 'anoint', 'seal']
 const current = ref<FormulaUse>()
@@ -24,7 +30,7 @@ function labelOf(use?: FormulaUse) {
 </script>
 
 <template>
-  <view class="page">
+  <view class="page xd-page xd-page--tab">
     <view class="filters">
       <text
         v-for="item in uses"
@@ -42,9 +48,7 @@ function labelOf(use?: FormulaUse) {
 
 <style scoped lang="scss">
 .page {
-  min-height: 100vh;
-  padding: 12rpx 48rpx 80rpx;
-  background: var(--xd-paper);
+  padding-top: 12rpx;
 }
 
 .filters {

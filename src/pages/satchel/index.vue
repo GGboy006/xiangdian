@@ -1,5 +1,6 @@
 <script lang="ts" setup>
 import { openSource } from '@/utils/canon-nav'
+import { shareHome } from '@/utils/share'
 
 defineOptions({ name: 'SatchelIndex' })
 definePage({
@@ -8,12 +9,17 @@ definePage({
     navigationBarBackgroundColor: '#F4EDE0',
     navigationBarTextStyle: 'black',
     backgroundColor: '#F4EDE0',
+    enableShareAppMessage: true,
+    enableShareTimeline: true,
   },
 })
+
+onShareAppMessage(() => shareHome())
+onShareTimeline(() => shareHome())
 </script>
 
 <template>
-  <view class="page">
+  <view class="page xd-page xd-page--tab">
     <view class="title">
       书囊
     </view>
@@ -34,9 +40,7 @@ definePage({
 
 <style scoped lang="scss">
 .page {
-  min-height: 100vh;
-  padding: 48rpx 48rpx 80rpx;
-  background: var(--xd-paper);
+  padding-top: 48rpx;
 }
 
 .title {

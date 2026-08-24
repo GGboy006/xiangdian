@@ -3,6 +3,7 @@ import type { MaterialCategory } from '@/types/canon'
 import MaterialEntry from '@/components/material-entry/material-entry.vue'
 import { listMaterials } from '@/data/catalog'
 import { MATERIAL_CATEGORY_LABEL } from '@/types/canon'
+import { shareHome } from '@/utils/share'
 
 defineOptions({ name: 'MaterialsIndex' })
 definePage({
@@ -11,8 +12,13 @@ definePage({
     navigationBarBackgroundColor: '#F4EDE0',
     navigationBarTextStyle: 'black',
     backgroundColor: '#F4EDE0',
+    enableShareAppMessage: true,
+    enableShareTimeline: true,
   },
 })
+
+onShareAppMessage(() => shareHome())
+onShareTimeline(() => shareHome())
 
 const categories: Array<MaterialCategory | undefined> = [undefined, 'wood', 'herb', 'resin', 'animal']
 const current = ref<MaterialCategory>()
@@ -24,7 +30,7 @@ function labelOf(category?: MaterialCategory) {
 </script>
 
 <template>
-  <view class="page">
+  <view class="page xd-page xd-page--tab">
     <view class="filters">
       <text
         v-for="item in categories"
@@ -42,9 +48,7 @@ function labelOf(category?: MaterialCategory) {
 
 <style scoped lang="scss">
 .page {
-  min-height: 100vh;
-  padding: 12rpx 48rpx 80rpx;
-  background: var(--xd-paper);
+  padding-top: 12rpx;
 }
 
 .filters {

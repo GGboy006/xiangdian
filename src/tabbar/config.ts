@@ -11,26 +11,26 @@ export const selectedTabbarStrategy = TABBAR_STRATEGY_MAP.CUSTOM_TABBAR
 
 export const nativeTabbarList: NativeTabBarItem[] = [
   {
-    iconPath: 'static/tabbar/home.png',
-    selectedIconPath: 'static/tabbar/homeHL.png',
+    iconPath: 'static/tabbar/canon.png',
+    selectedIconPath: 'static/tabbar/canon-on.png',
     pagePath: 'pages/canon/index',
     text: '典',
   },
   {
-    iconPath: 'static/tabbar/home.png',
-    selectedIconPath: 'static/tabbar/homeHL.png',
+    iconPath: 'static/tabbar/materials.png',
+    selectedIconPath: 'static/tabbar/materials-on.png',
     pagePath: 'pages/materials/index',
     text: '材',
   },
   {
-    iconPath: 'static/tabbar/personal.png',
-    selectedIconPath: 'static/tabbar/personalHL.png',
+    iconPath: 'static/tabbar/formulas.png',
+    selectedIconPath: 'static/tabbar/formulas-on.png',
     pagePath: 'pages/formulas/index',
     text: '方',
   },
   {
-    iconPath: 'static/tabbar/personal.png',
-    selectedIconPath: 'static/tabbar/personalHL.png',
+    iconPath: 'static/tabbar/satchel.png',
+    selectedIconPath: 'static/tabbar/satchel-on.png',
     pagePath: 'pages/satchel/index',
     text: '笈',
   },
@@ -70,7 +70,6 @@ export const customTabbarEnable = [TABBAR_STRATEGY_MAP.CUSTOM_TABBAR].includes(s
 
 export const needHideNativeTabbar = selectedTabbarStrategy === TABBAR_STRATEGY_MAP.CUSTOM_TABBAR
 
-const _tabbarList = customTabbarEnable ? customTabbarList.map(item => ({ text: item.text, pagePath: item.pagePath })) : nativeTabbarList
 export const tabbarList = customTabbarEnable ? customTabbarList : nativeTabbarList
 
 const _tabbar: TabBar = {
@@ -83,7 +82,8 @@ const _tabbar: TabBar = {
   fontSize: '12px',
   iconWidth: '24px',
   spacing: '3px',
-  list: _tabbarList as unknown as TabBar['list'],
+  // 微信自定义栏仍要求 list 带图标路径，实际界面只画四字
+  list: nativeTabbarList as unknown as TabBar['list'],
 }
 
 export const tabBar = tabbarCacheEnable ? _tabbar : {}

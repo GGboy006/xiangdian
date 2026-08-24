@@ -18,3 +18,38 @@ page {
   font-family: var(--xd-font-serif);
   line-height: 1.7;
 }
+
+.xd-page {
+  min-height: 100vh;
+  box-sizing: border-box;
+  padding: 40rpx 48rpx calc(80rpx + env(safe-area-inset-bottom));
+  background: var(--xd-paper);
+}
+
+.xd-page--tab {
+  padding-bottom: calc(120rpx + env(safe-area-inset-bottom));
+}
+
+.hint {
+  margin-top: 12rpx;
+  color: var(--xd-smoke);
+  font-size: 22rpx;
+  letter-spacing: 0.08em;
+}
+
+.step__body {
+  flex: 1;
+  min-width: 0;
+}
+
+.step__original {
+  color: var(--xd-smoke);
+  font-size: 22rpx;
+  line-height: 1.7;
+}
+
+.step__photo {
+  display: block;
+  width: 100%;
+  margin-top: 16rpx;
+}

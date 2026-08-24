@@ -2,6 +2,7 @@
 import type { SearchHit } from '@/data/catalog'
 import { searchCatalog } from '@/data/catalog'
 import { openFormula, openMaterial } from '@/utils/canon-nav'
+import { shareHome } from '@/utils/share'
 
 defineOptions({ name: 'SearchIndex' })
 definePage({
@@ -10,8 +11,13 @@ definePage({
     navigationBarBackgroundColor: '#F4EDE0',
     navigationBarTextStyle: 'black',
     backgroundColor: '#F4EDE0',
+    enableShareAppMessage: true,
+    enableShareTimeline: true,
   },
 })
+
+onShareAppMessage(() => shareHome())
+onShareTimeline(() => shareHome())
 
 const keyword = ref('')
 const hits = ref<SearchHit[]>([])
@@ -36,7 +42,7 @@ onLoad((query) => {
 </script>
 
 <template>
-  <view class="page">
+  <view class="page xd-page">
     <view class="search">
       <input
         v-model="keyword"
@@ -71,9 +77,7 @@ onLoad((query) => {
 
 <style scoped lang="scss">
 .page {
-  min-height: 100vh;
-  padding: 12rpx 48rpx 80rpx;
-  background: var(--xd-paper);
+  padding-top: 12rpx;
 }
 
 .search {

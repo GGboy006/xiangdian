@@ -3,6 +3,7 @@ import FormulaSlip from '@/components/formula-slip/formula-slip.vue'
 import MaterialEntry from '@/components/material-entry/material-entry.vue'
 import { todayPicks } from '@/data/catalog'
 import { openSearch, openSource } from '@/utils/canon-nav'
+import { shareHome } from '@/utils/share'
 
 defineOptions({ name: 'CanonHome' })
 definePage({
@@ -12,8 +13,13 @@ definePage({
     navigationBarBackgroundColor: '#F4EDE0',
     navigationBarTextStyle: 'black',
     backgroundColor: '#F4EDE0',
+    enableShareAppMessage: true,
+    enableShareTimeline: true,
   },
 })
+
+onShareAppMessage(() => shareHome())
+onShareTimeline(() => shareHome())
 
 const keyword = ref('')
 const picks = todayPicks()
@@ -24,7 +30,7 @@ function handleSearch() {
 </script>
 
 <template>
-  <view class="page">
+  <view class="page xd-page xd-page--tab">
     <view class="masthead">
       <view class="masthead__title">
         香典
@@ -81,9 +87,7 @@ function handleSearch() {
 
 <style scoped lang="scss">
 .page {
-  min-height: 100vh;
-  padding: 24rpx 48rpx 80rpx;
-  background: var(--xd-paper);
+  padding-top: 24rpx;
 }
 
 .masthead {

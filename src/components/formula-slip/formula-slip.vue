@@ -24,6 +24,9 @@ function handleOpen() {
     <view class="slip__name">
       {{ formula.name }}
     </view>
+    <view v-if="formula.pattern" class="slip__pattern">
+      {{ formula.pattern }}
+    </view>
     <view v-if="source" class="slip__from">
       {{ source.title }} · {{ formula.juan }}
     </view>
@@ -53,6 +56,13 @@ function handleOpen() {
   margin-top: 8rpx;
   font-size: 36rpx;
   letter-spacing: 0.12em;
+}
+
+.slip__pattern {
+  margin-top: 6rpx;
+  color: var(--xd-smoke);
+  font-size: 22rpx;
+  letter-spacing: 0.16em;
 }
 
 .slip__from {
