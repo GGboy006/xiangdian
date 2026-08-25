@@ -13,6 +13,19 @@ pnpm dev:mp       # 微信小程序
 pnpm test:run
 ```
 
+## H5 部署到 GitHub Pages
+
+仓库已带 `.github/workflows/deploy-h5.yml`。推 `main` 后自动构建网页版。
+
+1. 打开 GitHub 仓库 → **Settings → Pages**
+2. **Source** 选 **GitHub Actions**（不要选 Deploy from a branch）
+3. 推送含该 workflow 的 `main`，或到 **Actions** 里手动跑 **Deploy H5 to GitHub Pages**
+4. 成功后访问：`https://<你的用户名>.github.io/xiangdian/`
+
+说明：Pages 项目站路径是 `/xiangdian/`，workflow 里已设 `VITE_APP_PUBLIC_BASE=/xiangdian/`。若仓库改名，同步改 workflow 里的 base。
+
+微信小程序仍须用开发者工具上传审核，不能靠 Pages 发布。
+
 ## 目录
 
 - `src/pages`：典 / 材 / 方 / 笈
