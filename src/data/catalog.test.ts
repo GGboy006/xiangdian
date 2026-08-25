@@ -2,6 +2,17 @@ import { describe, expect, it } from 'vitest'
 import { getFormula, getMaterial, listFormulasByMaterial, searchCatalog } from './catalog'
 
 describe('catalog', () => {
+  it('检索香材香方可分开', () => {
+    const hits = searchCatalog('沉香')
+    const materials = hits.filter(item => item.kind === 'material')
+    const formulas = hits.filter(item => item.kind === 'formula')
+    expect(materials.some(item => item.id === 'chenxiang')).toBe(true)
+    expect(formulas.length).toBeGreaterThan(0)
+    expect(hits.findIndex(item => item.kind === 'formula')).toBeGreaterThan(
+      hits.findIndex(item => item.kind === 'material'),
+    )
+  })
+
   it('按别名找到龙脑', () => {
     const hits = searchCatalog('冰片')
     expect(hits.some(item => item.id === 'longnao')).toBe(true)

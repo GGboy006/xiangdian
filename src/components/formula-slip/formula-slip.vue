@@ -1,6 +1,6 @@
 <script lang="ts" setup>
 import type { Formula } from '@/types/canon'
-import { FORMULA_USE_LABEL } from '@/types/canon'
+import { FORMULA_LAYER_LABEL, FORMULA_USE_LABEL } from '@/types/canon'
 import { getSource } from '@/data/catalog'
 import { openFormula } from '@/utils/canon-nav'
 
@@ -26,6 +26,15 @@ function handleOpen() {
     </view>
     <view v-if="formula.pattern" class="slip__pattern">
       {{ formula.pattern }}
+    </view>
+    <view v-if="formula.layer && formula.layer !== 'canon'" class="slip__pattern">
+      {{ FORMULA_LAYER_LABEL[formula.layer] }}
+      <text v-if="formula.editorial">
+        · 功效已剔
+      </text>
+    </view>
+    <view v-if="formula.compareOnly" class="slip__pattern">
+      只可对照，不可按克做
     </view>
     <view v-if="source" class="slip__from">
       {{ source.title }} · {{ formula.juan }}

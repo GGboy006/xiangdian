@@ -1,5 +1,5 @@
 <script lang="ts" setup>
-import { getSource, listSources } from '@/data/catalog'
+import { getSource, listSources, listUnitProfiles, getCanonScale } from '@/data/catalog'
 import { shareHome } from '@/utils/share'
 
 defineOptions({ name: 'SourceIndex' })
@@ -9,8 +9,6 @@ definePage({
     navigationBarBackgroundColor: '#F4EDE0',
     navigationBarTextStyle: 'black',
     backgroundColor: '#F4EDE0',
-    enableShareAppMessage: true,
-    enableShareTimeline: true,
   },
 })
 
@@ -20,6 +18,8 @@ onShareTimeline(() => shareHome())
 const currentId = ref('')
 const list = listSources()
 const current = computed(() => currentId.value ? getSource(currentId.value) : undefined)
+const units = listUnitProfiles()
+const canon = getCanonScale()
 
 onLoad((query) => {
   currentId.value = String(query?.id || '')
@@ -38,7 +38,27 @@ onLoad((query) => {
       《香典》合《香乘》《香谱》《陈氏香谱》三书之公有领域记载，供查阅香材与香方。白话说明为自撰，不收录今人译注、手绘图与出版社专有编排。
     </view>
     <view class="body">
-      分两按本典尺折成克，页上写明不充古秤。制法上为原文摘句，下为今语，供跟着做。原书只写少许、粒数的，不编克数。
+      分两按本典尺折成克，页上写明不充古秤。制法上为原文摘句，下为今语，供跟着做。没有原书分两的，不编克数，页上标「只可对照，不可按克做」。
+    </view>
+    <view class="body">
+      谱录分层：本典为标本，校勘已核原文，辑录自资料整理，粗编为自动抽方。粗编的功效、适用人群已去掉，不当原文。
+    </view>
+
+    <view class="book">
+      <view class="book__name">
+        本典尺 · 一两四十克
+      </view>
+      <view class="book__note">
+        {{ canon.note }}
+      </view>
+    </view>
+    <view v-for="item in units" :key="item.id" class="book">
+      <view class="book__name">
+        {{ item.name }}{{ item.liang ? ` · 一两约 ${item.liang} 克` : '' }}
+      </view>
+      <view class="book__note">
+        {{ item.note }}
+      </view>
     </view>
 
     <view v-for="item in list" :key="item.id" class="book" :class="{ 'is-on': current?.id === item.id }">

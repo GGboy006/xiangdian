@@ -11,16 +11,36 @@ definePage({
     navigationBarBackgroundColor: '#F4EDE0',
     navigationBarTextStyle: 'black',
     backgroundColor: '#F4EDE0',
-    enableShareAppMessage: true,
-    enableShareTimeline: true,
   },
 })
 
 onShareAppMessage(() => shareHome())
 onShareTimeline(() => shareHome())
 
+type SearchScope = 'all' | 'material' | 'formula'
+
 const keyword = ref('')
 const hits = ref<SearchHit[]>([])
+const scope = ref<SearchScope>('all')
+const scopes: SearchScope[] = ['all', 'material', 'formula']
+
+const materials = computed(() => hits.value.filter(item => item.kind === 'material'))
+const formulas = computed(() => hits.value.filter(item => item.kind === 'formula'))
+const showMaterials = computed(() => scope.value !== 'formula')
+const showFormulas = computed(() => scope.value !== 'material')
+const visibleCount = computed(() => {
+  const n = (showMaterials.value ? materials.value.length : 0)
+    + (showFormulas.value ? formulas.value.length : 0)
+  return n
+})
+
+function scopeLabel(item: SearchScope) {
+  if (item === 'material')
+    return `香材 ${materials.value.length}`
+  if (item === 'formula')
+    return `香方 ${formulas.value.length}`
+  return `全部 ${hits.value.length}`
+}
 
 function runSearch(value = keyword.value) {
   keyword.value = value
@@ -32,6 +52,14 @@ function openHit(hit: SearchHit) {
     openMaterial(hit.id)
   else
     openFormula(hit.id)
+}
+
+function emptyText() {
+  if (scope.value === 'material')
+    return '此字下无香材。可换别名再寻。'
+  if (scope.value === 'formula')
+    return '此字下无香方。可换用途或入方香材再寻。'
+  return '典中未载。可换别名再寻。'
 }
 
 onLoad((query) => {
@@ -57,19 +85,57 @@ onLoad((query) => {
       >
     </view>
 
-    <view v-if="keyword && !hits.length" class="empty">
-      典中未载。可换别名再寻。
+    <view v-if="keyword" class="filters">
+      <text
+        v-for="item in scopes"
+        :key="item"
+        class="filters__item"
+        :class="{ 'is-on': scope === item }"
+        @click="scope = item"
+      >
+        {{ scopeLabel(item) }}
+      </text>
     </view>
 
-    <view v-for="hit in hits" :key="`${hit.kind}-${hit.id}`" class="hit" @click="openHit(hit)">
-      <view class="hit__kind">
-        {{ hit.kind === 'material' ? '香材' : '香方' }}
+    <view v-if="keyword && !visibleCount" class="empty">
+      {{ emptyText() }}
+    </view>
+
+    <view v-if="keyword && showMaterials && materials.length" class="block">
+      <view class="block__label">
+        香材
       </view>
-      <view class="hit__name">
-        {{ hit.name }}
+      <view
+        v-for="hit in materials"
+        :key="`m-${hit.id}`"
+        class="hit"
+        @click="openHit(hit)"
+      >
+        <view class="hit__name">
+          {{ hit.name }}
+        </view>
+        <view class="hit__sub">
+          {{ hit.subtitle }}
+        </view>
       </view>
-      <view class="hit__sub">
-        {{ hit.subtitle }}
+    </view>
+
+    <view v-if="keyword && showFormulas && formulas.length" class="block">
+      <view class="block__label">
+        香方
+      </view>
+      <view
+        v-for="hit in formulas"
+        :key="`f-${hit.id}`"
+        class="hit"
+        @click="openHit(hit)"
+      >
+        <view class="hit__name">
+          {{ hit.name }}
+        </view>
+        <view class="hit__sub">
+          {{ hit.subtitle }}
+        </view>
       </view>
     </view>
   </view>
@@ -81,7 +147,7 @@ onLoad((query) => {
 }
 
 .search {
-  padding: 16rpx 0 24rpx;
+  padding: 16rpx 0 8rpx;
   border-bottom: 1rpx solid var(--xd-wood);
 }
 
@@ -95,19 +161,37 @@ onLoad((query) => {
   color: var(--xd-smoke);
 }
 
+.filters {
+  display: flex;
+  gap: 32rpx;
+  padding: 24rpx 0 8rpx;
+  color: var(--xd-smoke);
+  font-size: 24rpx;
+  letter-spacing: 0.16em;
+}
+
+.filters__item.is-on {
+  color: var(--xd-seal);
+  border-bottom: 1rpx solid var(--xd-seal);
+}
+
+.block {
+  margin-top: 12rpx;
+}
+
+.block__label {
+  padding: 28rpx 0 8rpx;
+  color: var(--xd-wood);
+  font-size: 22rpx;
+  letter-spacing: 0.28em;
+}
+
 .hit {
-  padding: 32rpx 0;
+  padding: 28rpx 0;
   border-bottom: 1rpx solid var(--xd-rule);
 }
 
-.hit__kind {
-  color: var(--xd-seal);
-  font-size: 20rpx;
-  letter-spacing: 0.24em;
-}
-
 .hit__name {
-  margin-top: 6rpx;
   font-size: 34rpx;
   letter-spacing: 0.12em;
 }

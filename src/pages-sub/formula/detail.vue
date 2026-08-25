@@ -1,11 +1,11 @@
 <script lang="ts" setup>
 import type { FormulaStep } from '@/types/canon'
 import SourceSeal from '@/components/source-seal/source-seal.vue'
-import { getFormula, getMaterial } from '@/data/catalog'
-import { FORMULA_USE_LABEL } from '@/types/canon'
+import { getFormula, getMaterial, listUnitProfiles } from '@/data/catalog'
+import { FORMULA_LAYER_LABEL, FORMULA_USE_LABEL } from '@/types/canon'
 import { openMaterial } from '@/utils/canon-nav'
 import { shareFormula, shareHome } from '@/utils/share'
-import { SCALE_NOTE, formatGrams, sumIngredientGrams } from '@/utils/scale'
+import { SCALE_NOTE, formatGrams, gramsUnderProfile, sumIngredientGrams } from '@/utils/scale'
 
 defineOptions({ name: 'FormulaDetail' })
 definePage({
@@ -14,8 +14,6 @@ definePage({
     navigationBarBackgroundColor: '#F4EDE0',
     navigationBarTextStyle: 'black',
     backgroundColor: '#F4EDE0',
-    enableShareAppMessage: true,
-    enableShareTimeline: true,
   },
 })
 
@@ -37,6 +35,16 @@ const rows = computed(() => {
 
 const hasScale = computed(() => rows.value.some(item => item.grams != null))
 const weighedGrams = computed(() => sumIngredientGrams(rows.value))
+const unitCompares = computed(() => {
+  if (!hasScale.value)
+    return []
+  return listUnitProfiles()
+    .filter(item => item.liang)
+    .map(item => ({
+      name: item.name,
+      grams: gramsUnderProfile(weighedGrams.value, Number(item.liang)),
+    }))
+})
 const steps = computed<FormulaStep[]>(() => {
   if (!formula.value)
     return []
@@ -85,6 +93,15 @@ function markOf(index: number) {
       {{ formula.aliases.join('  ·  ') }}
     </view>
     <SourceSeal :source-id="formula.sourceId" :juan="formula.juan" />
+    <view v-if="formula.layer && formula.layer !== 'canon'" class="scale">
+      {{ FORMULA_LAYER_LABEL[formula.layer] }}底本
+    </view>
+    <view v-if="formula.editorial" class="scale">
+      功效、适用人群已去掉，不当原文。
+    </view>
+    <view v-if="formula.compareOnly" class="scale">
+      只可对照，不可按克做。
+    </view>
     <view v-if="hasScale" class="scale">
       {{ SCALE_NOTE }}
     </view>
@@ -110,8 +127,8 @@ function markOf(index: number) {
           </text>
         </view>
         <view
-          v-for="row in rows"
-          :key="row.materialId"
+          v-for="(row, index) in rows"
+          :key="`${row.materialId}-${index}`"
           class="sheet__row"
           @click="openMaterial(row.materialId)"
         >
@@ -133,6 +150,12 @@ function markOf(index: number) {
       </view>
       <view v-if="hasScale && weighedGrams" class="weighed">
         可称部分合计 {{ formatGrams(weighedGrams) }}。浸剂不计入。
+      </view>
+      <view v-if="unitCompares.length" class="weighed">
+        古衡对照（同一可称合计）：
+        <text v-for="item in unitCompares" :key="item.name">
+          {{ item.name }} {{ formatGrams(item.grams) }}；
+        </text>
       </view>
     </view>
 

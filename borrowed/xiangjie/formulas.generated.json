@@ -1,0 +1,4193 @@
+[
+  {
+    "id": "formula_0001_1dhe4hi",
+    "layer": "generated",
+    "name": "瑞龙脑香方",
+    "source": "《陈氏香谱·卷一·香品》",
+    "type": "香丸",
+    "method": "将各香材研为细末，过筛；；以蜂蜜或酒调和成丸，或直接混合使用；；若为宫中御用，则加入少量金箔点缀。",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "1. 瑞龙脑香方（宫廷专用）\n\n香材组成：\n\no龙脑香（天然蝉蚕形） 1钱\no沉香 2钱\no檀香 1钱\no麝香 0.5钱\no乳香 1钱\no丁香 0.5钱\n\n用量：\n每次取约0.3钱，置于香炉中点燃。\n\n\n炮制方法：\n\no将各香材研为细末，过筛；\no以蜂蜜或酒调和成丸，或直接混合使用；\no若为宫中御用，则加入少量金箔点缀。\n\n品相方法：\n\no点燃后烟气轻柔，香气清越，可弥漫十余步；\no闻之使人神清气爽，心神宁静。\n\n适用场景：\n\no皇帝衣襟佩戴（“带之衣衿”）；\no宫殿熏香、祭祀大典；\no治疗头痛、失眠。\n\n出处：\n《陈氏香谱·卷一·香品》“唐天宝中交址贡龙脑，皆如蝉蚕之形……禁中呼瑞龙脑”\n\n",
+    "ingredients": [
+      {
+        "name": "龙脑香",
+        "originalAmount": "1钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": "天然蝉蚕形"
+      },
+      {
+        "name": "沉香",
+        "originalAmount": "2钱",
+        "amount": 2,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "1钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "0.5钱",
+        "amount": 0.5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "乳香",
+        "originalAmount": "1钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "丁香",
+        "originalAmount": "0.5钱",
+        "amount": 0.5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "sui_tang_song_yuan_research",
+    "unitProfileConfidence": "high",
+    "flags": [
+      "editorial_efficacy"
+    ]
+  },
+  {
+    "id": "formula_0002_lx9sw3",
+    "layer": "generated",
+    "name": "沉檀脑麝香方",
+    "source": "《陈氏香谱·卷一·香品》",
+    "type": "香饼",
+    "method": "所有材料研细，以蜜和匀；；放入瓷罐密封七日，使香气融合；；取出后可制成香饼或香丸。",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "2. 沉檀脑麝香方（唐明皇常用香）\n\n香材组成：\n\no沉香 3份\no檀香 2份\no龙脑 1份\no麝香 0.5份\n\n用量：\n\no每次取1钱左右，可连续使用三日。\n\n炮制方法：\n\no所有材料研细，以蜜和匀；\no放入瓷罐密封七日，使香气融合；\no取出后可制成香饼或香丸。\n\n品相方法：\n\no燃烧时烟细如丝，香气绵长；\no适合于琴窗书室、亭阁之间使用。\n\n适用场景：\n\no宫廷建筑内熏香（如“沉香亭阁”）；\no文人雅士读书写字时使用；\no禅修静坐辅助。\n\n出处：\n《陈氏香谱·卷一·香品》“唐明皇君臣多有沉、檀、脑、麝为亭阁”\n\n",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "originalAmount": "3份",
+        "amount": 3,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "2份",
+        "amount": 2,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "龙脑",
+        "originalAmount": "1份",
+        "amount": 1,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "0.5份",
+        "amount": 0.5,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "sui_tang_song_yuan_research",
+    "unitProfileConfidence": "high",
+    "flags": [
+      "editorial_efficacy"
+    ]
+  },
+  {
+    "id": "formula_0003_14yb6tg",
+    "layer": "generated",
+    "name": "蔷薇水香方",
+    "source": "《陈氏香谱·卷一·香品》",
+    "type": "香水",
+    "method": "将蔷薇水与龙脑、白芷混合；；加入雪梨汁调和，防止刺激皮肤；；密封存放于玻璃瓶中，避光保存。",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "3. 蔷薇水香方（女性专用）\n\n香材组成：\n\no蔷薇水 1合\no龙脑 0.5钱\no雪梨汁 1合（可选）\no白芷 0.3钱\n\n用量：\n\no每日一次，用于喷洒衣物或身体。\n\n炮制方法：\n\no将蔷薇水与龙脑、白芷混合；\no加入雪梨汁调和，防止刺激皮肤；\no密封存放于玻璃瓶中，避光保存。\n\n品相方法：\n\no直接喷洒于衣袖、裙摆；\no或涂抹于手背、耳后，香气淡雅持久。\n\n适用场景：\n\no女子日常美容护肤；\no宫廷贵妇熏衣；\no夏日避暑提神。\n\n出处：\n《陈氏香谱·卷一·香品》“后周显德间，昆明国又献蔷薇水矣”\n\n",
+    "ingredients": [
+      {
+        "name": "蔷薇水",
+        "originalAmount": "1合",
+        "amount": 1,
+        "unit": "合",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "龙脑",
+        "originalAmount": "0.5钱",
+        "amount": 0.5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "雪梨汁",
+        "originalAmount": "1合",
+        "amount": 1,
+        "unit": "合",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": "（可选）"
+      },
+      {
+        "name": "白芷",
+        "originalAmount": "0.3钱",
+        "amount": 0.3,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "sui_tang_song_yuan_research",
+    "unitProfileConfidence": "high",
+    "flags": [
+      "editorial_efficacy"
+    ]
+  },
+  {
+    "id": "formula_0004_jcjzlp",
+    "layer": "generated",
+    "name": "鸡舌香含香方",
+    "source": "《陈氏香谱·卷一·香品》",
+    "type": "香丸",
+    "method": "将鸡舌香研碎，加入丁香、麝香；；以薄荷油调和成小丸，便于含服。",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "4. 鸡舌香含香方（官吏朝会用）\n\n香材组成：\n\no鸡舌香 1钱\no丁香 0.5钱\no麝香 0.1钱\n\n用量：\n\no每次含一小粒（约米粒大小），每日一次。\n\n炮制方法：\n\no将鸡舌香研碎，加入丁香、麝香；\no以薄荷油调和成小丸，便于含服。\n\n品相方法：\n\no含于口中，徐徐咽下，口气清新；\no不宜过量，以免伤胃。\n\n适用场景：\n\no朝廷官员上朝前含服；\no官场社交礼仪必备。\n\n出处：\n《陈氏香谱·卷一·香品》“尚书郎奏事者始有含鸡舌香”\n\n",
+    "ingredients": [
+      {
+        "name": "鸡舌香",
+        "originalAmount": "1钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "丁香",
+        "originalAmount": "0.5钱",
+        "amount": 0.5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "0.1钱",
+        "amount": 0.1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "sui_tang_song_yuan_research",
+    "unitProfileConfidence": "high",
+    "flags": [
+      "editorial_efficacy"
+    ]
+  },
+  {
+    "id": "formula_0005_am5ddl",
+    "layer": "generated",
+    "name": "兰佩香方",
+    "source": "《陈氏香谱·序》",
+    "type": "香囊",
+    "method": "各材研末，混合均匀；；装入丝绢小袋，悬挂于腰间或衣襟。",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "5. 兰佩香方（文人雅士佩香）\n\n香材组成：\n\no佩兰 2钱\no檀香 1钱\no龙脑 0.5钱\no麝香 0.2钱\n\n用量：\n\no制成香囊或香袋，随身携带。\n\n炮制方法：\n\no各材研末，混合均匀；\no装入丝绢小袋，悬挂于腰间或衣襟。\n\n品相方法：\n\no走路时香气随风飘散；\no闻之令人心旷神怡，远离浊气。\n\n适用场景：\n\no文人出游、会友；\no女子采兰赠友；\no祭祀仪式中佩带。\n\n出处：\n《陈氏香谱·序》“茝兰者妇辈所采，大丈夫则自流芳百世者在”\n",
+    "ingredients": [
+      {
+        "name": "佩兰",
+        "originalAmount": "2钱",
+        "amount": 2,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "1钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "龙脑",
+        "originalAmount": "0.5钱",
+        "amount": 0.5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "0.2钱",
+        "amount": 0.2,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "sui_tang_song_yuan_research",
+    "unitProfileConfidence": "high",
+    "flags": [
+      "editorial_efficacy"
+    ]
+  },
+  {
+    "id": "formula_0006_hs13f",
+    "layer": "generated",
+    "name": "百和香",
+    "source": "《香识·莲花香炉和宝子》",
+    "type": "香丸",
+    "method": "未提及，但应为研磨后混合，以蜜或酒调和成丸或膏状。",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "1. 百和香\n\n香材组成（根据诗句推断）：\n\no龙脑\no苏合\no郁金\no都梁\n\n用量：\n未明确记载\n\n\n炮制方法：\n未提及，但应为研磨后混合，以蜜或酒调和成丸或膏状。\n\n\n品相方法：\n置于博山炉中，以炭火熏烧，烟气舒缓，香气持久。\n\n\n特点：\n“百和”意为多种香料调和而成，象征和谐与高贵。\n\n\n出处：\n《香识·莲花香炉和宝子》引吴均《行路难》诗：“博山炉中百和香，郁金苏合及都梁”\n\n",
+    "ingredients": [
+      {
+        "name": "龙脑",
+        "originalAmount": "未注明",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "not_applicable",
+        "note": ""
+      },
+      {
+        "name": "苏合",
+        "originalAmount": "未注明",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "not_applicable",
+        "note": ""
+      },
+      {
+        "name": "郁金",
+        "originalAmount": "未注明",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "not_applicable",
+        "note": ""
+      },
+      {
+        "name": "都梁",
+        "originalAmount": "未注明",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "not_applicable",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "low",
+    "flags": [
+      "editorial_efficacy"
+    ]
+  },
+  {
+    "id": "formula_0007_klggt9",
+    "layer": "generated",
+    "name": "龙涎香品",
+    "source": "《香识·龙涎真品与龙涎香品》",
+    "type": "合香",
+    "method": "未详述，但古代做法为研细后加蜜炼制，或直接焚香。",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "2. 龙涎香品\n\n香材组成：\n\no龙涎香（主料）\no可能辅以沉香、檀香、麝香等（推测）\n\n用量：\n未明确\n\n\n炮制方法：\n未详述，但古代做法为研细后加蜜炼制，或直接焚香。\n\n\n品相方法：\n燃烧时烟少而香浓，香气绵长，适合静室独处。\n\n\n特点：\n香气清幽，略带海洋气息，极受宋代士人喜爱。\n\n\n出处：\n《香识·龙涎真品与龙涎香品》\n\n",
+    "ingredients": [
+      {
+        "name": "龙涎香",
+        "originalAmount": "未注明",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "not_applicable",
+        "note": ""
+      },
+      {
+        "name": "沉香",
+        "originalAmount": "未注明",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "not_applicable",
+        "note": ""
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "未注明",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "not_applicable",
+        "note": ""
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "未注明",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "not_applicable",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "low",
+    "flags": [
+      "editorial_efficacy"
+    ]
+  },
+  {
+    "id": "formula_0008_i1g4jf",
+    "layer": "generated",
+    "name": "沉香熏香法",
+    "source": "《香识·宋人的沉香》",
+    "type": "熏香",
+    "method": "将沉香切片或研末，放入香炉中，下层铺炭火，上层放置香料，徐徐加热。",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "3. 沉香熏香法（宋人常用）\n\n香材组成：\n\no沉香（主料）\no可能配以乳香、丁香、龙脑等（推测）\n\n用量：\n未明确\n\n\n炮制方法：\n将沉香切片或研末，放入香炉中，下层铺炭火，上层放置香料，徐徐加热。\n\n\n品相方法：\n烟气细柔，香气悠长，宜于书斋、卧室、禅房使用。\n\n\n特点：\n宋人认为沉香最宜“静心养性”，是文人必备之香。\n\n\n出处：\n《香识·宋人的沉香》\n\n",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "originalAmount": "未注明",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "not_applicable",
+        "note": ""
+      },
+      {
+        "name": "乳香",
+        "originalAmount": "未注明",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "not_applicable",
+        "note": ""
+      },
+      {
+        "name": "丁香",
+        "originalAmount": "未注明",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "not_applicable",
+        "note": ""
+      },
+      {
+        "name": "龙脑",
+        "originalAmount": "未注明",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "not_applicable",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "sui_tang_song_yuan_research",
+    "unitProfileConfidence": "high",
+    "flags": [
+      "editorial_efficacy"
+    ]
+  },
+  {
+    "id": "formula_0009_14yb3gs",
+    "layer": "generated",
+    "name": "蔷薇水香品",
+    "source": "《香识·琉璃瓶与蔷薇水》",
+    "type": "香水",
+    "method": "以蒸馏法制取，密封保存于琉璃瓶中。",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "4. 蔷薇水香品\n\n香材组成：\n\no蔷薇水（主料）\no可能添加龙脑、麝香等微量香料（推测）\n\n用量：\n未明确\n\n\n炮制方法：\n以蒸馏法制取，密封保存于琉璃瓶中。\n\n\n品相方法：\n直接喷洒于衣袖、手帕、床帐，或用于沐浴。\n\n\n特点：\n清凉芬芳，适合夏季使用，尤受女性青睐。\n\n\n出处：\n《香识·琉璃瓶与蔷薇水》\n",
+    "ingredients": [
+      {
+        "name": "蔷薇水",
+        "originalAmount": "未注明",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "not_applicable",
+        "note": ""
+      },
+      {
+        "name": "龙脑",
+        "originalAmount": "微量",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "not_applicable",
+        "note": "香料（推测）"
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "微量",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "not_applicable",
+        "note": "香料（推测）"
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "low",
+    "flags": [
+      "editorial_efficacy"
+    ]
+  },
+  {
+    "id": "formula_0010_c2571x",
+    "layer": "generated",
+    "name": "安神香方",
+    "source": "《药香制作技艺·第四章·美容类香品》",
+    "type": "香丸",
+    "method": "所有材料研细，以蜂蜜调和成丸；；放入瓷罐密封七日，使香气融合。",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "1. 安神香方（用于失眠、焦虑）\n\n香材组成：\n\no沉香 3份\no檀香 2份\no龙脑 1份\no麝香 0.5份\no乳香 1份\no白芷 0.5份\n\n用量：\n每次取1钱左右，点燃或隔火熏香。\n\n\n炮制方法：\n\no所有材料研细，以蜂蜜调和成丸；\no放入瓷罐密封七日，使香气融合。\n\n品相方法：\n\no隔火熏香，烟气轻柔，香气清越；\no适合睡前使用，有助于安神助眠。\n\n适用场景：\n\no失眠、焦虑、神经衰弱\no书房、卧室、禅修室\n\n出处：\n《药香制作技艺·第四章·美容类香品》\n\n",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "originalAmount": "3份",
+        "amount": 3,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "2份",
+        "amount": 2,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "龙脑",
+        "originalAmount": "1份",
+        "amount": 1,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "0.5份",
+        "amount": 0.5,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "乳香",
+        "originalAmount": "1份",
+        "amount": 1,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "白芷",
+        "originalAmount": "0.5份",
+        "amount": 0.5,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "low",
+    "flags": [
+      "editorial_efficacy"
+    ]
+  },
+  {
+    "id": "formula_0011_frydac",
+    "layer": "generated",
+    "name": "祛湿香方",
+    "source": "《药香制作技艺·第三章·居室用药香》",
+    "type": "香丸",
+    "method": "研磨成粉，混合均匀；；可制成香包或香丸。",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "2. 祛湿香方（用于湿气重、脾胃不适）\n\n香材组成：\n\no苍术 3份\no藿香 2份\no佩兰 1份\no陈皮 1份\no白芷 0.5份\n\n用量：\n每次取1钱，点燃或熏蒸。\n\n\n炮制方法：\n\no研磨成粉，混合均匀；\no可制成香包或香丸。\n\n品相方法：\n\no熏香或佩戴于腰间；\no气味辛香，能有效驱除湿气。\n\n适用场景：\n\no湿气重、食欲不振、关节酸痛\no居室、办公室、雨季使用\n\n出处：\n《药香制作技艺·第三章·居室用药香》\n\n",
+    "ingredients": [
+      {
+        "name": "苍术",
+        "originalAmount": "3份",
+        "amount": 3,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "藿香",
+        "originalAmount": "2份",
+        "amount": 2,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "佩兰",
+        "originalAmount": "1份",
+        "amount": 1,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "陈皮",
+        "originalAmount": "1份",
+        "amount": 1,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "白芷",
+        "originalAmount": "0.5份",
+        "amount": 0.5,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "low",
+    "flags": [
+      "editorial_efficacy"
+    ]
+  },
+  {
+    "id": "formula_0012_e1l67t",
+    "layer": "generated",
+    "name": "止痛香方",
+    "source": "《药香制作技艺·第三章·鼻息法门及外用药香》",
+    "type": "合香",
+    "method": "研细后加入少量酒精调匀；；可制成油剂或膏剂。",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "3. 止痛香方（用于头痛、牙痛）\n\n香材组成：\n\no白芷 3份\no川芎 2份\no丁香 1份\no龙脑 0.5份\no麝香 0.2份\n\n用量：\n每次取0.3钱，直接嗅闻或外敷。\n\n\n炮制方法：\n\no研细后加入少量酒精调匀；\no可制成油剂或膏剂。\n\n品相方法：\n\no擦拭太阳穴或牙龈处；\no或置于香炉中点燃，吸入香气。\n\n适用场景：\n\no头痛、偏头痛、牙痛、鼻塞\no急救、日常保健\n\n出处：\n《药香制作技艺·第三章·鼻息法门及外用药香》\n\n",
+    "ingredients": [
+      {
+        "name": "白芷",
+        "originalAmount": "3份",
+        "amount": 3,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "川芎",
+        "originalAmount": "2份",
+        "amount": 2,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "丁香",
+        "originalAmount": "1份",
+        "amount": 1,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "龙脑",
+        "originalAmount": "0.5份",
+        "amount": 0.5,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "0.2份",
+        "amount": 0.2,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "low",
+    "flags": [
+      "editorial_efficacy"
+    ]
+  },
+  {
+    "id": "formula_0013_ghcprf",
+    "layer": "generated",
+    "name": "美容香方",
+    "source": "《药香制作技艺·第四章·美容类香品》",
+    "type": "熏香",
+    "method": "研磨成极细粉末；；加入适量蜂蜜或橄榄油调成面膜。",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "4. 美容香方（用于面部护理、美白）\n\n香材组成：\n\no当归 2份\no黄芪 2份\no白芷 1份\no藿香 0.5份\no龙脑 0.2份\n\n用量：\n每次取0.5钱，用于面部按摩或熏蒸。\n\n\n炮制方法：\n\no研磨成极细粉末；\no加入适量蜂蜜或橄榄油调成面膜。\n\n品相方法：\n\no敷于面部15分钟后洗净；\no或用于熏香，改善皮肤状态。\n\n适用场景：\n\no面色暗黄、皱纹、肤色不均\no女性日常美容护理\n\n出处：\n《药香制作技艺·第四章·美容类香品》\n\n",
+    "ingredients": [
+      {
+        "name": "当归",
+        "originalAmount": "2份",
+        "amount": 2,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "黄芪",
+        "originalAmount": "2份",
+        "amount": 2,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "白芷",
+        "originalAmount": "1份",
+        "amount": 1,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "藿香",
+        "originalAmount": "0.5份",
+        "amount": 0.5,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "龙脑",
+        "originalAmount": "0.2份",
+        "amount": 0.2,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "low",
+    "flags": [
+      "editorial_efficacy"
+    ]
+  },
+  {
+    "id": "formula_0014_jfyeux",
+    "layer": "generated",
+    "name": "防疫香方",
+    "source": "《药香制作技艺·第三章·居室用药香》",
+    "type": "熏香",
+    "method": "切碎后混合；；可直接焚烧或放入香炉中熏香。",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "5. 防疫香方（用于驱邪避疫、净化空气）\n\n香材组成：\n\no艾叶 3份\no苍术 2份\no佩兰 1份\no乳香 1份\no沉香 0.5份\n\n用量：\n每次取1钱，点燃或熏蒸。\n\n\n炮制方法：\n\no切碎后混合；\no可直接焚烧或放入香炉中熏香。\n\n品相方法：\n\no在室内焚烧，烟气弥漫；\no有效净化空气，驱除秽气。\n\n适用场景：\n\no流感季节、疫病高发期\no居室、办公室、医院周边\n\n出处：\n《药香制作技艺·第三章·居室用药香》\n\n",
+    "ingredients": [
+      {
+        "name": "艾叶",
+        "originalAmount": "3份",
+        "amount": 3,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "苍术",
+        "originalAmount": "2份",
+        "amount": 2,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "佩兰",
+        "originalAmount": "1份",
+        "amount": 1,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "乳香",
+        "originalAmount": "1份",
+        "amount": 1,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "沉香",
+        "originalAmount": "0.5份",
+        "amount": 0.5,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "low",
+    "flags": [
+      "editorial_efficacy"
+    ]
+  },
+  {
+    "id": "formula_0015_1fgu8fe",
+    "layer": "generated",
+    "name": "饮食类香方",
+    "source": "《药香制作技艺·第三章·饮食类药香》",
+    "type": "合香",
+    "method": "研磨成粉，或直接切片；；与食材一同炖煮。",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "6. 饮食类香方（用于调和脾胃、增进食欲）\n\n香材组成：\n\no丁香 1份\no陈皮 1份\no藿香 0.5份\no甘松 0.5份\n\n用量：\n每次取0.3钱，加入汤品或炖菜中。\n\n\n炮制方法：\n\no研磨成粉，或直接切片；\no与食材一同炖煮。\n\n品相方法：\n\no食用时可感受到香气渗透；\no改善食欲，促进消化。\n\n适用场景：\n\no食欲不振、消化不良\no日常饮食调理\n\n出处：\n《药香制作技艺·第三章·饮食类药香》\n",
+    "ingredients": [
+      {
+        "name": "丁香",
+        "originalAmount": "1份",
+        "amount": 1,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "陈皮",
+        "originalAmount": "1份",
+        "amount": 1,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "藿香",
+        "originalAmount": "0.5份",
+        "amount": 0.5,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "甘松",
+        "originalAmount": "0.5份",
+        "amount": 0.5,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "low",
+    "flags": [
+      "editorial_efficacy"
+    ]
+  },
+  {
+    "id": "formula_0016_c2571x",
+    "layer": "generated",
+    "name": "安神香方",
+    "source": "《遵生八笺·燕闲清赏笺》",
+    "type": "香丸",
+    "method": "所有材料研细，以蜂蜜调和成丸；；放入瓷罐密封七日，使香气融合。",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "1. 安神香方（用于失眠、焦虑）\n\n香材组成：\n\no沉香 3份\no檀香 2份\no龙脑 1份\no麝香 0.5份\no乳香 1份\no白芷 0.5份\n\n用量：\n每次取1钱左右，点燃或隔火熏香。\n\n\n炮制方法：\n\no所有材料研细，以蜂蜜调和成丸；\no放入瓷罐密封七日，使香气融合。\n\n品相方法：\n\no隔火熏香，烟气轻柔，香气清越；\no适合睡前使用，有助于安神助眠。\n\n适用场景：\n\no失眠、焦虑、神经衰弱\no书房、卧室、禅修室\n\n出处：\n《遵生八笺·燕闲清赏笺》\n\n",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "originalAmount": "3份",
+        "amount": 3,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "2份",
+        "amount": 2,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "龙脑",
+        "originalAmount": "1份",
+        "amount": 1,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "0.5份",
+        "amount": 0.5,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "乳香",
+        "originalAmount": "1份",
+        "amount": 1,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "白芷",
+        "originalAmount": "0.5份",
+        "amount": 0.5,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "high",
+    "flags": [
+      "editorial_efficacy"
+    ]
+  },
+  {
+    "id": "formula_0017_frydac",
+    "layer": "generated",
+    "name": "祛湿香方",
+    "source": "《遵生八笺·延年却病笺》",
+    "type": "香丸",
+    "method": "研磨成粉，混合均匀；；可制成香包或香丸。",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "2. 祛湿香方（用于湿气重、脾胃不适）\n\n香材组成：\n\no苍术 3份\no藿香 2份\no佩兰 1份\no陈皮 1份\no白芷 0.5份\n\n用量：\n每次取1钱，点燃或熏蒸。\n\n\n炮制方法：\n\no研磨成粉，混合均匀；\no可制成香包或香丸。\n\n品相方法：\n\no熏香或佩戴于腰间；\no气味辛香，能有效驱除湿气。\n\n适用场景：\n\no湿气重、食欲不振、关节酸痛\no居室、办公室、雨季使用\n\n出处：\n《遵生八笺·延年却病笺》\n\n",
+    "ingredients": [
+      {
+        "name": "苍术",
+        "originalAmount": "3份",
+        "amount": 3,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "藿香",
+        "originalAmount": "2份",
+        "amount": 2,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "佩兰",
+        "originalAmount": "1份",
+        "amount": 1,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "陈皮",
+        "originalAmount": "1份",
+        "amount": 1,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "白芷",
+        "originalAmount": "0.5份",
+        "amount": 0.5,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "high",
+    "flags": [
+      "editorial_efficacy"
+    ]
+  },
+  {
+    "id": "formula_0018_e1l67t",
+    "layer": "generated",
+    "name": "止痛香方",
+    "source": "《遵生八笺·灵秘丹药笺》",
+    "type": "合香",
+    "method": "研细后加入少量酒精调匀；；可制成油剂或膏剂。",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "3. 止痛香方（用于头痛、牙痛）\n\n香材组成：\n\no白芷 3份\no川芎 2份\no丁香 1份\no龙脑 0.5份\no麝香 0.2份\n\n用量：\n每次取0.3钱，直接嗅闻或外敷。\n\n\n炮制方法：\n\no研细后加入少量酒精调匀；\no可制成油剂或膏剂。\n\n品相方法：\n\no擦拭太阳穴或牙龈处；\no或置于香炉中点燃，吸入香气。\n\n适用场景：\n\no头痛、偏头痛、牙痛、鼻塞\no急救、日常保健\n\n出处：\n《遵生八笺·灵秘丹药笺》\n\n",
+    "ingredients": [
+      {
+        "name": "白芷",
+        "originalAmount": "3份",
+        "amount": 3,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "川芎",
+        "originalAmount": "2份",
+        "amount": 2,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "丁香",
+        "originalAmount": "1份",
+        "amount": 1,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "龙脑",
+        "originalAmount": "0.5份",
+        "amount": 0.5,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "0.2份",
+        "amount": 0.2,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "high",
+    "flags": [
+      "editorial_efficacy"
+    ]
+  },
+  {
+    "id": "formula_0019_ghcprf",
+    "layer": "generated",
+    "name": "美容香方",
+    "source": "《遵生八笺·燕闲清赏笺》",
+    "type": "熏香",
+    "method": "研磨成极细粉末；；加入适量蜂蜜或橄榄油调成面膜。",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "4. 美容香方（用于面部护理、美白）\n\n香材组成：\n\no当归 2份\no黄芪 2份\no白芷 1份\no藿香 0.5份\no龙脑 0.2份\n\n用量：\n每次取0.5钱，用于面部按摩或熏蒸。\n\n\n炮制方法：\n\no研磨成极细粉末；\no加入适量蜂蜜或橄榄油调成面膜。\n\n品相方法：\n\no敷于面部15分钟后洗净；\no或用于熏香，改善皮肤状态。\n\n适用场景：\n\no面色暗黄、皱纹、肤色不均\no女性日常美容护理\n\n出处：\n《遵生八笺·燕闲清赏笺》\n\n",
+    "ingredients": [
+      {
+        "name": "当归",
+        "originalAmount": "2份",
+        "amount": 2,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "黄芪",
+        "originalAmount": "2份",
+        "amount": 2,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "白芷",
+        "originalAmount": "1份",
+        "amount": 1,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "藿香",
+        "originalAmount": "0.5份",
+        "amount": 0.5,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "龙脑",
+        "originalAmount": "0.2份",
+        "amount": 0.2,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "high",
+    "flags": [
+      "editorial_efficacy"
+    ]
+  },
+  {
+    "id": "formula_0020_jfyeux",
+    "layer": "generated",
+    "name": "防疫香方",
+    "source": "《遵生八笺·延年却病笺》",
+    "type": "熏香",
+    "method": "切碎后混合；；可直接焚烧或放入香炉中熏香。",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "5. 防疫香方（用于驱邪避疫、净化空气）\n\n香材组成：\n\no艾叶 3份\no苍术 2份\no佩兰 1份\no乳香 1份\no沉香 0.5份\n\n用量：\n每次取1钱，点燃或熏蒸。\n\n\n炮制方法：\n\no切碎后混合；\no可直接焚烧或放入香炉中熏香。\n\n品相方法：\n\no在室内焚烧，烟气弥漫；\no有效净化空气，驱除秽气。\n\n适用场景：\n\no流感季节、疫病高发期\no居室、办公室、医院周边\n\n出处：\n《遵生八笺·延年却病笺》\n\n",
+    "ingredients": [
+      {
+        "name": "艾叶",
+        "originalAmount": "3份",
+        "amount": 3,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "苍术",
+        "originalAmount": "2份",
+        "amount": 2,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "佩兰",
+        "originalAmount": "1份",
+        "amount": 1,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "乳香",
+        "originalAmount": "1份",
+        "amount": 1,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "沉香",
+        "originalAmount": "0.5份",
+        "amount": 0.5,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "high",
+    "flags": [
+      "editorial_efficacy"
+    ]
+  },
+  {
+    "id": "formula_0021_1fgu8fe",
+    "layer": "generated",
+    "name": "饮食类香方",
+    "source": "《遵生八笺·饮馔服食笺》",
+    "type": "合香",
+    "method": "研磨成粉，或直接切片；；与食材一同炖煮。",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "6. 饮食类香方（用于调和脾胃、增进食欲）\n\n香材组成：\n\no丁香 1份\no陈皮 1份\no藿香 0.5份\no甘松 0.5份\n\n用量：\n每次取0.3钱，加入汤品或炖菜中。\n\n\n炮制方法：\n\no研磨成粉，或直接切片；\no与食材一同炖煮。\n\n品相方法：\n\no食用时可感受到香气渗透；\no改善食欲，促进消化。\n\n适用场景：\n\no食欲不振、消化不良\no日常饮食调理\n\n出处：\n《遵生八笺·饮馔服食笺》\n",
+    "ingredients": [
+      {
+        "name": "丁香",
+        "originalAmount": "1份",
+        "amount": 1,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "陈皮",
+        "originalAmount": "1份",
+        "amount": 1,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "藿香",
+        "originalAmount": "0.5份",
+        "amount": 0.5,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "甘松",
+        "originalAmount": "0.5份",
+        "amount": 0.5,
+        "unit": "份",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "high",
+    "flags": [
+      "editorial_efficacy"
+    ]
+  },
+  {
+    "id": "formula_0022_11t6ymc",
+    "layer": "generated",
+    "name": "唐开元宫中香",
+    "source": "《香乘·法和众妙香(一)》",
+    "type": "香丸",
+    "method": "1.沉香：用绢袋盛装，悬于砂锅中央，蜜水浸，慢火煮一日，水干则加水续煮。；2.檀香：清茶浸泡一夜，炒干，去其辛燥之气。；3.麝香、龙脑：另研细末，单独保存。；4.甲香、马牙硝：研细末。；5.所有香材混合，炼蜜和匀，密封窨藏月余。；6.取出后，旋入麝香、龙脑，丸之，如常法熟成。",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "1. 唐开元宫中香\n\n香方名称：\n唐开元宫中香\n\n\n香方出处：\n《香乘·法和众妙香(一)》，周家胄记载\n\n\n香方用途：\n唐代宫廷御用香品，据传为唐玄宗专为杨贵妃所制，亦用于朝堂熏香。\n\n\n香方组成：\n\n1.沉香 二两（约60克）\n2.檀香 二两（约60克）\n3.麝香 二钱（约6克）\n4.龙脑 二钱（约6克）\n5.甲香 一钱（约3克）\n6.马牙硝 一钱（约3克）\n\n用量：\n每次取适量（约1–2克），点燃或隔火熏香。\n\n\n炮制方法：\n\n1.沉香：用绢袋盛装，悬于砂锅中央，蜜水浸，慢火煮一日，水干则加水续煮。\n2.檀香：清茶浸泡一夜，炒干，去其辛燥之气。\n3.麝香、龙脑：另研细末，单独保存。\n4.甲香、马牙硝：研细末。\n5.所有香材混合，炼蜜和匀，密封窨藏月余。\n6.取出后，旋入麝香、龙脑，丸之，如常法熟成。\n\n品相方法：\n\n1.熏香方式：隔火熏香或直接点燃\n2.香气特点：高级独特，满屋氤氲，初闻清雅，久则温润\n3.适合在书房、卧室、宫殿等场所使用\n\n功效：\n\n1.行气止痛，温中止呕\n2.纳气平喘，活血化瘀\n3.特别适用于女性经期疼痛、寒凝气滞、情绪不稳\n4.具有理气、调经、安神、美容之效\n\n适用人群：\n\n1.宫廷女性\n2.经期不适者\n3.情绪焦虑者\n4.需要养生保健者\n\n适用场景：\n\n1.唐代宫廷朝会（大明宫）\n2.女性日常熏香",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "二钱",
+        "amount": 2,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "龙脑",
+        "originalAmount": "二钱",
+        "amount": 2,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "甲香",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "马牙硝",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "sui_tang_song_yuan_research",
+    "unitProfileConfidence": "high",
+    "flags": [
+      "editorial_efficacy"
+    ]
+  },
+  {
+    "id": "formula_0031_ckrdpj",
+    "layer": "generated",
+    "name": "汉建宁宫中香",
+    "source": "《汉建宁宫中香》",
+    "type": "香丸",
+    "method": "1.所有香材除乳香外，研为细末。；2.用炼蜜和匀。；3.密封窨藏月余。；4.作丸或饼，加热熏香。",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "1. 汉建宁宫中香\n\n香方名称：\n汉建宁宫中香\n\n\n香方出处：\n《汉建宁宫中香》\n\n\n香方组成：\n\n1.黄熟香 四斤（约1200克）\n2.白附子 二斤（约600克）\n3.丁香皮 五两（约150克）\n4.藿香叶、零陵香、檀香、白芷 各四两（约120克）\n5.茅香 二斤（约600克）\n6.茴香 二斤（约600克）\n7.甘松 半斤（约150克）\n8.乳香 一两（约30克）（另研）\n9.生结香 四两（约120克）\n10.枣 半斤（约150克）（焙干）\n\n用量：\n每次取适量（约1–2克），点燃或隔火熏香。\n\n\n炮制方法：\n\n1.所有香材除乳香外，研为细末。\n2.用炼蜜和匀。\n3.密封窨藏月余。\n4.作丸或饼，加热熏香。\n\n品相方法：\n\n1.作丸或饼，加热熏香\n2.香气浓郁，适合宫廷熏香\n\n功效：\n\n1.行气止痛，温中止呕\n2.安神定志，改善睡眠\n3.适用于宫廷日常熏香\n\n适用人群：\n\n1.宫廷贵族\n2.日常熏香者\n\n适用场景：\n",
+    "ingredients": [
+      {
+        "name": "黄熟香",
+        "originalAmount": "四斤",
+        "amount": 4,
+        "unit": "斤",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "白附子",
+        "originalAmount": "二斤",
+        "amount": 2,
+        "unit": "斤",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "丁香皮",
+        "originalAmount": "五两",
+        "amount": 5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "藿香叶",
+        "originalAmount": "各四两",
+        "amount": 4,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "零陵香",
+        "originalAmount": "各四两",
+        "amount": 4,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "各四两",
+        "amount": 4,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "白芷",
+        "originalAmount": "各四两",
+        "amount": 4,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "茅香",
+        "originalAmount": "二斤",
+        "amount": 2,
+        "unit": "斤",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "茴香",
+        "originalAmount": "二斤",
+        "amount": 2,
+        "unit": "斤",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "甘松",
+        "originalAmount": "半斤",
+        "amount": 0.5,
+        "unit": "斤",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "乳香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": "（另研）"
+      },
+      {
+        "name": "生结香",
+        "originalAmount": "四两",
+        "amount": 4,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "枣",
+        "originalAmount": "半斤",
+        "amount": 0.5,
+        "unit": "斤",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": "（焙干）"
+      }
+    ],
+    "unitProfileId": "eastern_han_research",
+    "unitProfileConfidence": "high",
+    "flags": [
+      "editorial_efficacy",
+      "baked_30g_liang"
+    ]
+  },
+  {
+    "id": "formula_0036_1tacj9a",
+    "layer": "generated",
+    "name": "贵人泡汗香",
+    "source": "《贵人泡汗香》",
+    "type": "合香",
+    "method": "1.丁香为粗末。；2.与川椒相和。；3.用绢袋盛装，佩戴于身。",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "2. 贵人泡汗香\n\n香方名称：\n贵人泡汗香\n\n\n香方出处：\n《贵人泡汗香》\n\n\n香方组成：\n\no丁香 一两（约30克）（为粗末）\no川椒 六十粒\n\n用量：\n每次取适量，佩于衣襟。\n\n\n炮制方法：\n\n1.丁香为粗末。\n2.与川椒相和。\n3.用绢袋盛装，佩戴于身。\n\n品相方法：\n\no绢袋盛装，佩戴于衣襟\no用于辟绝汗气\n\n功效：\n\no祛风除湿，止汗\no适用于出汗过多者\n\n适用人群：\n\no出汗多者\no宫廷贵人\n\n适用场景：\n\no日常佩戴\no礼仪场合\no避汗气\n\n历史背景：\n\no汉代宫廷女性用香，用于控制体味\n\n文献出处： 《贵人泡汗香》\n\n",
+    "ingredients": [
+      {
+        "name": "丁香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": "（为粗末）"
+      },
+      {
+        "name": "川椒",
+        "originalAmount": "六十粒",
+        "amount": 60,
+        "unit": "粒",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "sui_tang_song_yuan_research",
+    "unitProfileConfidence": "medium",
+    "flags": [
+      "editorial_efficacy",
+      "baked_30g_liang"
+    ]
+  },
+  {
+    "id": "formula_0037_wzjytm",
+    "layer": "generated",
+    "name": "寿阳公主梅花香",
+    "source": "《寿阳公主梅花香》",
+    "type": "熏香",
+    "method": "1.除丁皮外，其余香材焙干为粗末。；2.放入磁器中，密封窨藏月余。；3.加热熏香。",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "3. 寿阳公主梅花香\n\n香方名称：\n寿阳公主梅花香\n\n\n香方出处：\n《寿阳公主梅花香》\n\n\n香方组成：\n\no甘松 半两（约15克）\no白芷 半两（约15克）\no牡丹皮 半两（约15克）\no薬本 半两（约15克）\no茴香 一两（约30克）\no丁皮 一两（约30克）（不见火）\no檀香 一两（约30克）\no降真香 一两（约30克）\no白梅 一百枚\n\n用量：\n每次取适量，点燃或隔火熏香。\n\n\n炮制方法：\n\n1.除丁皮外，其余香材焙干为粗末。\n2.放入磁器中，密封窨藏月余。\n3.加热熏香。\n\n品相方法：\n\no加热熏香\no香气清雅，适合女性使用\n\n功效：\n\no疏肝理气，和中化痰\no适用于女性情绪调节\n\n适用人群：\n\no宫廷女性\no情绪抑郁者\n\n适用场景：\n\no宫廷女性熏香\no情绪调节\no安神助眠\n\n历史背景：\n\no魏晋南北朝时期，宫廷女性用香，体现当时香文化的繁荣\n\n文献出处： 《寿阳公主梅花香》\n\n",
+    "ingredients": [
+      {
+        "name": "甘松",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "白芷",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "牡丹皮",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "薬本",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "茴香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "丁皮",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": "（不见火）"
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "降真香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "白梅",
+        "originalAmount": "一百枚",
+        "amount": 100,
+        "unit": "枚",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "wei_jin_research",
+    "unitProfileConfidence": "high",
+    "flags": [
+      "editorial_efficacy",
+      "baked_30g_liang"
+    ]
+  },
+  {
+    "id": "formula_0038_13f8g3e",
+    "layer": "generated",
+    "name": "南阳公主熏衣香",
+    "source": "《南阳公主熏衣香》",
+    "type": "合香",
+    "method": "1.所有香材共为末。；2.用绢袋盛装，佩戴于身。",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "4. 南阳公主熏衣香\n\n香方名称：\n南阳公主熏衣香\n\n\n香方出处：\n《南阳公主熏衣香》\n\n\n香方组成：\n\no蜘蛛香 一两（约30克）\no白芷 半两（约15克）\no零陵香 半两（约15克）\no砂仁 半两（约15克）\no丁香 三钱（约9克）\no麝香 五分（约1.5克）\no当归 一钱（约3克）\no荳蔻 一钱（约3克）\n\n用量：\n每次取适量，佩于衣襟。\n\n\n炮制方法：\n\n1.所有香材共为末。\n2.用绢袋盛装，佩戴于身。\n\n品相方法：\n\no绢袋盛装，佩戴于衣襟\no用于熏衣\n\n功效：\n\no祛风除湿，活血止痛\no适用于女性熏衣\n\n适用人群：\n\no宫廷女性\no日常熏衣者\n\n适用场景：\n\no熏衣\no日常佩戴\no礼仪场合\n\n历史背景：\n\no隋代宫廷女性用香，体现当时香文化的繁荣\n\n文献出处： 《南阳公主熏衣香》\n\n",
+    "ingredients": [
+      {
+        "name": "蜘蛛香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "白芷",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "零陵香",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "砂仁",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "丁香",
+        "originalAmount": "三钱",
+        "amount": 3,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "五分",
+        "amount": 5,
+        "unit": "分",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "当归",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "荳蔻",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "low",
+    "flags": [
+      "editorial_efficacy",
+      "baked_30g_liang"
+    ]
+  },
+  {
+    "id": "formula_0039_11t6ymc",
+    "layer": "generated",
+    "name": "唐开元宫中香",
+    "source": "《唐开元宫中香》",
+    "type": "香丸",
+    "method": "1.沉香：细到，以绢袋盛，悬于挑子当中，勿令着底，蜜水浸，慢火煮一日。；2.檀香：清茶浸一宿，炒干，令无檀香气。；3.麝香、龙脑：另研细末。；4.所有香材混合，炼蜜和匀。；5.密封窨藏月余。；6.取出后，旋入龙脑、麝香，丸之，熟如常法。",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "5. 唐开元宫中香\n\n香方名称：\n唐开元宫中香\n\n\n香方出处：\n《唐开元宫中香》\n\n\n香方组成：\n\no沉香 二两（约60克）\no檀香 二两（约60克）\no麝香 二钱（约6克）\no龙脑 二钱（约6克）（另研）\no甲香 一钱（约3克）\no马牙硝 一钱（约3克）\n\n用量：\n每次取适量，点燃或隔火熏香。\n\n\n炮制方法：\n\n1.沉香：细到，以绢袋盛，悬于挑子当中，勿令着底，蜜水浸，慢火煮一日。\n2.檀香：清茶浸一宿，炒干，令无檀香气。\n3.麝香、龙脑：另研细末。\n4.所有香材混合，炼蜜和匀。\n5.密封窨藏月余。\n6.取出后，旋入龙脑、麝香，丸之，熟如常法。\n\n品相方法：\n\no丸之，熟如常法\no香气独特，适合宫廷熏香\n\n功效：\n\no行气止痛，温中止呕\no安神定志，改善睡眠\no适用于女性经期疼痛\n\n适用人群：\n\no宫廷女性\no经期不适者\n\n适用场景：\n\no宫廷熏香\no女性经期调理\no安神助眠\n\n历史背景：\n\no唐玄宗开元年间，国家富庶，香文化达到鼎盛\n\n文献出处： 《唐开元宫中香》\n\n",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "二钱",
+        "amount": 2,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "龙脑",
+        "originalAmount": "二钱",
+        "amount": 2,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": "（另研）"
+      },
+      {
+        "name": "甲香",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "马牙硝",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "sui_tang_song_yuan_research",
+    "unitProfileConfidence": "high",
+    "flags": [
+      "editorial_efficacy"
+    ]
+  },
+  {
+    "id": "formula_0040_bwf10p",
+    "layer": "generated",
+    "name": "宫中香一",
+    "source": "《宫中香一》",
+    "type": "香丸",
+    "method": "1.檀香：劈作小片，茶清浸一宿，取出焙干，再以酒蜜浸一宿，慢火炙干。；2.沉香、生结香、甲香：研为细末。；3.龙、麝：另研细末。；4.所有香材混合，生蜜和匀。；5.贮于磁器中，地窨一月。；6.旋丸之。",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "6. 宫中香一\n\n香方名称：\n宫中香一\n\n\n香方出处：\n《宫中香一》\n\n\n香方组成：\n\no檀香 八两（约240克）\no沉香 三两（约90克）\no生结香 四两（约120克）\no甲香 一两（约30克）\no龙、麝 各半两（约15克）（另研）\n\n用量：\n每次取适量，点燃或隔火熏香。\n\n\n炮制方法：\n\n1.檀香：劈作小片，茶清浸一宿，取出焙干，再以酒蜜浸一宿，慢火炙干。\n2.沉香、生结香、甲香：研为细末。\n3.龙、麝：另研细末。\n4.所有香材混合，生蜜和匀。\n5.贮于磁器中，地窨一月。\n6.旋丸之。\n\n品相方法：\n\no旋丸之\no香气浓郁，适合宫廷熏香\n\n功效：\n\no行气止痛，温中止呕\no安神定志，改善睡眠\n\n适用人群：\n\no宫廷贵族\no日常熏香者\n\n适用场景：\n\no宫廷熏香\no礼仪场合\no安神助眠\n\n历史背景：\n\no唐代宫廷用香，体现当时香文化的繁荣\n\n文献出处： 《宫中香一》\n\n",
+    "ingredients": [
+      {
+        "name": "檀香",
+        "originalAmount": "八两",
+        "amount": 8,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "沉香",
+        "originalAmount": "三两",
+        "amount": 3,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "生结香",
+        "originalAmount": "四两",
+        "amount": 4,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "甲香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "龙",
+        "originalAmount": "各半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": "（另研）"
+      },
+      {
+        "name": "麝",
+        "originalAmount": "各半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": "（另研）"
+      }
+    ],
+    "unitProfileId": "sui_tang_song_yuan_research",
+    "unitProfileConfidence": "high",
+    "flags": [
+      "editorial_efficacy",
+      "baked_30g_liang"
+    ]
+  },
+  {
+    "id": "formula_0041_bwf14l",
+    "layer": "generated",
+    "name": "宫中香二",
+    "source": "《宫中香二》",
+    "type": "熏香",
+    "method": "1.檀香：细到，水一升，白蜜半斤，同煮，五七十沸，控出焙干。；2.其余香材：研为细末。；3.龙、麝：另研细末。；4.所有香材混合，炼蜜和匀。；5.磁器封存，窨二十日。；6.旋热之。",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "7. 宫中香二\n\n香方名称：\n宫中香二\n\n\n香方出处：\n《宫中香二》\n\n\n香方组成：\n\no檀香 十二两（约360克）\no零陵香 三两（约90克）\no藿香 三两（约90克）\no甘松 三两（约90克）\no茅香 三两（约90克）\no生结香 四两（约120克）\no甲香 三两（约90克）（法制）\no黄熟香 五两（约150克）（炼蜜一两，拌浸一宿焙干）\no龙、麝 各一钱（约3克）\n\n用量：\n每次取适量，点燃或隔火熏香。\n\n\n炮制方法：\n\n1.檀香：细到，水一升，白蜜半斤，同煮，五七十沸，控出焙干。\n2.其余香材：研为细末。\n3.龙、麝：另研细末。\n4.所有香材混合，炼蜜和匀。\n5.磁器封存，窨二十日。\n6.旋热之。\n\n品相方法：\n\no旋热之\no香气浓郁，适合宫廷熏香\n\n功效：\n\no行气止痛，温中止呕\no安神定志，改善睡眠\n\n适用人群：\n\no宫廷贵族\no日常熏香者\n\n适用场景：\n\no宫廷熏香\no礼仪场合\no安神助眠\n\n历史背景：\n\no唐代宫廷用香，体现当时香文化的繁荣\n\n文献出处： 《宫中香二》\n\n",
+    "ingredients": [
+      {
+        "name": "檀香",
+        "originalAmount": "十二两",
+        "amount": 12,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "零陵香",
+        "originalAmount": "三两",
+        "amount": 3,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "藿香",
+        "originalAmount": "三两",
+        "amount": 3,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "甘松",
+        "originalAmount": "三两",
+        "amount": 3,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "茅香",
+        "originalAmount": "三两",
+        "amount": 3,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "生结香",
+        "originalAmount": "四两",
+        "amount": 4,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "甲香",
+        "originalAmount": "三两",
+        "amount": 3,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": "（法制）"
+      },
+      {
+        "name": "黄熟香",
+        "originalAmount": "五两",
+        "amount": 5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": "（炼蜜一两，拌浸一宿焙干）"
+      },
+      {
+        "name": "龙",
+        "originalAmount": "各一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "麝",
+        "originalAmount": "各一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "sui_tang_song_yuan_research",
+    "unitProfileConfidence": "high",
+    "flags": [
+      "editorial_efficacy"
+    ]
+  },
+  {
+    "id": "formula_0042_cwxy4s",
+    "layer": "generated",
+    "name": "杨贵妃帷中衙香",
+    "source": "《杨贵妃帷中衙香》",
+    "type": "香丸",
+    "method": "1.所有香材捣罗细末。；2.炼蜜和匀。；3.丸如豆大。；4.熟之。",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "8. 杨贵妃帷中衙香\n\n香方名称：\n杨贵妃帷中衙香\n\n\n香方出处：\n《杨贵妃帷中衙香》\n\n\n香方组成：\n\no沉香 七两二钱（约216克）\no栈香 五两（约150克）\no鸡舌香 四两（约120克）\no檀香 二两（约60克）\no麝香 八钱（约24克）（另研）\no藿香 六钱（约18克）\no零陵香 四钱（约12克）\no甲香 二钱（约6克）（法制）\no龙脑香 少许\n\n用量：\n每次取适量，点燃或隔火熏香。\n\n\n炮制方法：\n\n1.所有香材捣罗细末。\n2.炼蜜和匀。\n3.丸如豆大。\n4.熟之。\n\n品相方法：\n\no丸如豆大，熟之\no香气浓郁，适合宫廷熏香\n\n功效：\n\no行气止痛，温中止呕\no安神定志，改善睡眠\no适用于女性经期疼痛\n\n适用人群：\n\no宫廷女性\no经期不适者\n\n适用场景：\n\no宫廷熏香\no女性经期调理\no安神助眠\n\n历史背景：\n\no唐代宫廷女性用香，传说为杨贵妃所用\n\n文献出处： 《杨贵妃帷中衙香》\n\n",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "originalAmount": "七两二钱",
+        "amount": 7.2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "栈香",
+        "originalAmount": "五两",
+        "amount": 5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "鸡舌香",
+        "originalAmount": "四两",
+        "amount": 4,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "八钱",
+        "amount": 8,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": "（另研）"
+      },
+      {
+        "name": "藿香",
+        "originalAmount": "六钱",
+        "amount": 6,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "零陵香",
+        "originalAmount": "四钱",
+        "amount": 4,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "甲香",
+        "originalAmount": "二钱",
+        "amount": 2,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": "（法制）"
+      },
+      {
+        "name": "龙脑香",
+        "originalAmount": "少许",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "not_applicable",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "sui_tang_song_yuan_research",
+    "unitProfileConfidence": "high",
+    "flags": [
+      "editorial_efficacy"
+    ]
+  },
+  {
+    "id": "formula_0043_1l496yf",
+    "layer": "generated",
+    "name": "江南李主帐中香",
+    "source": "《江南李主帐中香》",
+    "type": "熏香",
+    "method": "1.沉香投油，封浸百日。；2.入蔷薇水更佳。",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "9. 江南李主帐中香\n\n香方名称：\n江南李主帐中香\n\n\n香方出处：\n《江南李主帐中香》\n\n\n香方组成：\n\no沉香 一两（约30克）（到如炷大）\no苏合油（以不津磁器盛）\n\n用量：\n每次取适量，点燃或隔火熏香。\n\n\n炮制方法：\n\n1.沉香投油，封浸百日。\n2.入蔷薇水更佳。\n\n品相方法：\n\no封浸百日，入蔷薇水\no香气浓郁，适合宫廷熏香\n\n功效：\n\no行气止痛，温中止呕\no安神定志，改善睡眠\n\n适用人群：\n\no宫廷贵族\no日常熏香者\n\n适用场景：\n\no宫廷熏香\no礼仪场合\no安神助眠\n\n历史背景：\n\no五代十国时期，江南李主用香，体现当时香文化的繁荣\n\n文献出处： 《江南李主帐中香》\n\n",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": "（到如炷大）"
+      },
+      {
+        "name": "苏合油",
+        "originalAmount": "未注明",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "not_applicable",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "sui_tang_song_yuan_research",
+    "unitProfileConfidence": "medium",
+    "flags": [
+      "editorial_efficacy",
+      "baked_30g_liang"
+    ]
+  },
+  {
+    "id": "formula_0044_cri9b",
+    "layer": "generated",
+    "name": "又方一",
+    "source": "《又方一》",
+    "type": "熏香",
+    "method": "1.用银器盛蒸三次，梨汁干即可热。",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "10. 又方一\n\n香方名称：\n又方一\n\n\n香方出处：\n《又方一》\n\n\n香方组成：\n\no沉香 一两（约30克）（到如炷大）\no鹅梨 一个（切碎取汁）\n\n用量：\n每次取适量，点燃或隔火熏香。\n\n\n炮制方法：\n\n1.用银器盛蒸三次，梨汁干即可热。\n\n品相方法：\n\no蒸三次，梨汁干即可热\no香气浓郁，适合宫廷熏香\n\n功效：\n\no行气止痛，温中止呕\no安神定志，改善睡眠\n\n适用人群：\n\no宫廷贵族\no日常熏香者\n\n适用场景：\n\no宫廷熏香\no礼仪场合\no安神助眠\n\n历史背景：\n\no五代十国时期，江南李主用香，体现当时香文化的繁荣\n\n文献出处： 《又方一》\n\n",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": "（到如炷大）"
+      },
+      {
+        "name": "鹅梨",
+        "originalAmount": "一个",
+        "amount": 1,
+        "unit": "个",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": "（切碎取汁）"
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "low",
+    "flags": [
+      "editorial_efficacy",
+      "baked_30g_liang"
+    ]
+  },
+  {
+    "id": "formula_0045_crid7",
+    "layer": "generated",
+    "name": "又方二",
+    "source": "《又方二》",
+    "type": "熏香",
+    "method": "1.所有香材细到，不用罗。；2.炼蜜拌和烧之。",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "11. 又方二\n\n香方名称：\n又方二\n\n\n香方出处：\n《又方二》\n\n\n香方组成：\n\no沉香 四两（约120克）\no檀香 一两（约30克）\no麝香 一两（约30克）\no苍龙脑 半两（约15克）\no马牙香 一分（约3克）研\n\n用量：\n每次取适量，点燃或隔火熏香。\n\n\n炮制方法：\n\n1.所有香材细到，不用罗。\n2.炼蜜拌和烧之。\n\n品相方法：\n\no炼蜜拌和烧之\no香气浓郁，适合宫廷熏香\n\n功效：\n\no行气止痛，温中止呕\no安神定志，改善睡眠\n\n适用人群：\n\no宫廷贵族\no日常熏香者\n\n适用场景：\n\no宫廷熏香\no礼仪场合\no安神助眠\n\n历史背景：\n\no五代十国时期，江南李主用香，体现当时香文化的繁荣\n\n文献出处： 《又方二》\n\n",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "originalAmount": "四两",
+        "amount": 4,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "苍龙脑",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "马牙香",
+        "originalAmount": "一分",
+        "amount": 1,
+        "unit": "分",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": "研"
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "low",
+    "flags": [
+      "editorial_efficacy",
+      "baked_30g_liang"
+    ]
+  },
+  {
+    "id": "formula_0046_azzg3n",
+    "layer": "generated",
+    "name": "又方补遗",
+    "source": "《又方补遗》",
+    "type": "熏香",
+    "method": "1.以鹅梨刻去穰核如瓮子状，入香末。；2.将梨顶签盖。；3.蒸三溜。；4.去梨皮，研和令匀。；5.久窨可热。",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "12. 又方补遗\n\n香方名称：\n又方补遗\n\n\n香方出处：\n《又方补遗》\n\n\n香方组成：\n\no沉香末 一两（约30克）\no檀香末 一钱（约3克）\no鹅梨 十枚\n\n用量：\n每次取适量，点燃或隔火熏香。\n\n\n炮制方法：\n\n1.以鹅梨刻去穰核如瓮子状，入香末。\n2.将梨顶签盖。\n3.蒸三溜。\n4.去梨皮，研和令匀。\n5.久窨可热。\n\n品相方法：\n\no蒸三溜，去梨皮，研和令匀\no香气浓郁，适合宫廷熏香\n\n功效：\n\no行气止痛，温中止呕\no安神定志，改善睡眠\n\n适用人群：\n\no宫廷贵族\no日常熏香者\n\n适用场景：\n\no宫廷熏香\no礼仪场合\no安神助眠\n\n历史背景：\n\no五代十国时期，江南李主用香，体现当时香文化的繁荣\n\n文献出处： 《又方补遗》\n",
+    "ingredients": [
+      {
+        "name": "沉香末",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "檀香末",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "鹅梨",
+        "originalAmount": "十枚",
+        "amount": 10,
+        "unit": "枚",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "low",
+    "flags": [
+      "editorial_efficacy",
+      "baked_30g_liang"
+    ]
+  },
+  {
+    "id": "formula_0047_h1avi",
+    "layer": "generated",
+    "name": "灵犀香",
+    "source": "《灵犀香》",
+    "type": "熏香",
+    "method": "1.所有香材研为细末。；2.用炼蜜和匀。；3.密封窨藏，按常规方法熏烧。",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "1. 灵犀香\n\n香方名称：\n灵犀香\n\n\n香方出处：\n《灵犀香》\n\n\n香方组成：\n\n1.鸡舌香 八钱（约24克）\n2.甘松 三钱（约9克）\n3.零陵香 一两半（约45克）\n4.藿香 一两半（约45克）\n\n用量：\n每次取适量（约1–2克），点燃或隔火熏香。\n\n\n炮制方法：\n\n1.所有香材研为细末。\n2.用炼蜜和匀。\n3.密封窨藏，按常规方法熏烧。\n\n品相方法：\n\n1.炼蜜和剂，窨烧如常法\n2.香气清雅，适合日常熏香\n\n功效：\n\n1.化湿解暑，醒脾开胃\n2.适用于夏季避暑、调理肠胃\n\n适用人群：\n\n1.日常熏香者\n2.消化不良者\n\n适用场景：\n",
+    "ingredients": [
+      {
+        "name": "鸡舌香",
+        "originalAmount": "八钱",
+        "amount": 8,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "甘松",
+        "originalAmount": "三钱",
+        "amount": 3,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "零陵香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": "半"
+      },
+      {
+        "name": "藿香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": "半"
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "low",
+    "flags": [
+      "editorial_efficacy"
+    ]
+  },
+  {
+    "id": "formula_0052_c2l7b",
+    "layer": "generated",
+    "name": "代梅香",
+    "source": "《代梅香》",
+    "type": "熏香",
+    "method": "1.所有香材研为细末。；2.用生蜜和匀。；3.加入麝香一分（约3克），作饼焚之。",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "2. 代梅香\n\n香方名称：\n代梅香\n\n\n香方出处：\n《代梅香》\n\n\n香方组成：\n\no沉香 一钱半（约4.5克）\no藿香 一钱半（约4.5克）\no丁香 三钱（约9克）\no樟脑 一分半（约4.5克）\n\n用量：\n每次取适量，点燃或隔火熏香。\n\n\n炮制方法：\n\n1.所有香材研为细末。\n2.用生蜜和匀。\n3.加入麝香一分（约3克），作饼焚之。\n\n品相方法：\n\no作饼焚之\no香气浓郁，适合宫廷熏香\n\n功效：\n\no温中降逆，补肾助阳\no适用于胃寒呕吐、呃逆、牙痛\n\n适用人群：\n\no胃寒者\no牙痛患者\n\n适用场景：\n\no宫廷熏香\no胃寒调理\no牙痛缓解\n\n历史背景：\n\no古代合香代表香方，体现当时香文化的繁荣\n\n文献出处： 《代梅香》\n\n",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": "半"
+      },
+      {
+        "name": "藿香",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": "半"
+      },
+      {
+        "name": "丁香",
+        "originalAmount": "三钱",
+        "amount": 3,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "樟脑",
+        "originalAmount": "一分",
+        "amount": 1,
+        "unit": "分",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": "半"
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "low",
+    "flags": [
+      "editorial_efficacy"
+    ]
+  },
+  {
+    "id": "formula_0053_wzjytm",
+    "layer": "generated",
+    "name": "寿阳公主梅花香",
+    "source": "《寿阳公主梅花香》",
+    "type": "香丸",
+    "method": "1.所有香材捣罗细末。；2.炼蜜和匀。；3.丸如豆大。；4.熟之。",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "3. 寿阳公主梅花香\n\n香方名称：\n寿阳公主梅花香\n\n\n香方出处：\n《寿阳公主梅花香》\n\n\n香方组成：\n\no沉香 七两二钱（约216克）\no栈香 五两（约150克）\no鸡舌香 四两（约120克）\no檀香 二两（约60克）\no麝香 二两（约60克）\no藿香 六钱（约18克）\no零陵香 四钱（约12克）\no甲香 二钱（约6克）（法制）\no龙脑香 少许\n\n用量：\n每次取适量，点燃或隔火熏香。\n\n\n炮制方法：\n\n1.所有香材捣罗细末。\n2.炼蜜和匀。\n3.丸如豆大。\n4.熟之。\n\n品相方法：\n\no丸如豆大，熟之\no香气浓郁，适合宫廷熏香\n\n功效：\n\no行气止痛，温中止呕\no安神定志，改善睡眠\no适用于女性经期疼痛\n\n适用人群：\n\no宫廷女性\no经期不适者\n\n适用场景：\n\no宫廷熏香\no女性经期调理\no安神助眠\n\n历史背景：\n\no传说为寿阳公主所用，体现唐代宫廷香文化的繁荣\n\n文献出处： 《寿阳公主梅花香》\n",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "originalAmount": "七两二钱",
+        "amount": 7.2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "栈香",
+        "originalAmount": "五两",
+        "amount": 5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "鸡舌香",
+        "originalAmount": "四两",
+        "amount": 4,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "藿香",
+        "originalAmount": "六钱",
+        "amount": 6,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "零陵香",
+        "originalAmount": "四钱",
+        "amount": 4,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "甲香",
+        "originalAmount": "二钱",
+        "amount": 2,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": "（法制）"
+      },
+      {
+        "name": "龙脑香",
+        "originalAmount": "少许",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "not_applicable",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "wei_jin_research",
+    "unitProfileConfidence": "high",
+    "flags": [
+      "editorial_efficacy"
+    ]
+  },
+  {
+    "id": "formula_0054_f4wh",
+    "layer": "generated",
+    "name": "合香",
+    "source": "《意合香跋文》",
+    "type": "合香",
+    "method": "",
+    "note": "古方资料已整理，制作前请自行校勘。",
+    "originalText": "1. 意合香\n\n香方名称：\n合香\n\n\n香方出处：\n《意合香跋文》\n\n\n香方组成：\n\n1.沉香 二两半（约75克）\n2.檀香 一两（约30克）\n3.青木香 适量\n4.螺甲 半两弱（约15克）",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": "半"
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "青木香",
+        "originalAmount": "适量",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "not_applicable",
+        "note": ""
+      },
+      {
+        "name": "螺甲",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": "弱"
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "low",
+    "flags": [
+      "baked_30g_liang"
+    ]
+  },
+  {
+    "id": "formula_0064_f4ay",
+    "layer": "generated",
+    "name": "可香",
+    "source": "《意可香跋文》",
+    "type": "熏香",
+    "method": "1.所有香材皆末之。；2.用白蜜六两熬，去沫取五两，和香末，匀。；3.置磁盒，窨如常法。",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "2. 意可香\n\n香方名称：\n可香\n\n\n香方出处：\n《意可香跋文》\n\n\n香方组成：\n\no海南沉水香 三两（约90克）\no麝香檀 一两（约30克）\no木香 四钱（约12克）\no玄参 半两（约15克）\no甘草末 二钱（约6克）\no焰硝末 一钱（约3克）\no甲香 一分（约3克）\no婆律膏 三钱（约9克）\no麝香 三钱（约9克）（另研，香成旋入）\n\n用量：\n每次取适量，点燃或隔火熏香。\n\n\n炮制方法：\n\n1.所有香材皆末之。\n2.用白蜜六两熬，去沫取五两，和香末，匀。\n3.置磁盒，窨如常法。\n\n品相方法：\n\no置磁盒，窨如常法\no香气霈然鼻端，令人神清气爽\n\n功效：\n\no霈然鼻端，求觅增上必以此香为可\no适用于文人雅士熏香，提升精神境界\n\n适用人群：\n\no文人雅士\no日常熏香者\n\n适用场景：\n\no书房熏香\no礼仪场合\no安神助眠\n\n历史背景：\n\no南唐宫廷香，辗转流传至北宋\no黄庭坚得之于东溪老，易名“意可”\n\n文献出处： 《意可香跋文》\n\n",
+    "ingredients": [
+      {
+        "name": "海南沉水香",
+        "originalAmount": "三两",
+        "amount": 3,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "麝香檀",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "木香",
+        "originalAmount": "四钱",
+        "amount": 4,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "玄参",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "甘草末",
+        "originalAmount": "二钱",
+        "amount": 2,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "焰硝末",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "甲香",
+        "originalAmount": "一分",
+        "amount": 1,
+        "unit": "分",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "婆律膏",
+        "originalAmount": "三钱",
+        "amount": 3,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "三钱",
+        "amount": 3,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": "（另研，香成旋入）"
+      }
+    ],
+    "unitProfileId": "sui_tang_song_yuan_research",
+    "unitProfileConfidence": "medium",
+    "flags": [
+      "editorial_efficacy",
+      "baked_30g_liang"
+    ]
+  },
+  {
+    "id": "formula_0065_guaz5",
+    "layer": "generated",
+    "name": "深静香",
+    "source": "《深静香跋文》",
+    "type": "熏香",
+    "method": "1.沉香到如小博骰，入白蜜五两，水解其胶，重汤慢火煮半日，浴以温水。；2.同炭杵捣为末，马尾罗筛下之。；3.以煮蜜为剂，窨四十九日出之。；4.婆律膏三钱、麝香一钱，以安息香一分和作饼子，以磁盒贮之。",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "3. 深静香\n\n香方名称：\n深静香\n\n\n香方出处：\n《深静香跋文》\n\n\n香方组成：\n\no海南沉香 二两（约60克）\no羊胫炭 四两（约120克）\no婆律膏 三钱（约9克）\no麝香 一钱（约3克）\no安息香 一分（约3克）\n\n用量：\n每次取适量，点燃或隔火熏香。\n\n\n炮制方法：\n\n1.沉香到如小博骰，入白蜜五两，水解其胶，重汤慢火煮半日，浴以温水。\n2.同炭杵捣为末，马尾罗筛下之。\n3.以煮蜜为剂，窨四十九日出之。\n4.婆律膏三钱、麝香一钱，以安息香一分和作饼子，以磁盒贮之。\n\n品相方法：\n\no作饼子，以磁盒贮之\no香气恬澹寂寞，非其所尚\n\n功效：\n\no恬澹寂寞，非其所尚\no适用于文人雅士熏香，提升精神境界\n\n适用人群：\n\no文人雅士\no日常熏香者\n\n适用场景：\n\no书房熏香\no礼仪场合\no安神助眠\n\n历史背景：\n\no欧阳元老为黄庭坚所制\no黄庭坚燃深静香一炷时，元老如在眼前\n\n文献出处： 《深静香跋文》\n\n",
+    "ingredients": [
+      {
+        "name": "海南沉香",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "羊胫炭",
+        "originalAmount": "四两",
+        "amount": 4,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "婆律膏",
+        "originalAmount": "三钱",
+        "amount": 3,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "安息香",
+        "originalAmount": "一分",
+        "amount": 1,
+        "unit": "分",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "low",
+    "flags": [
+      "editorial_efficacy"
+    ]
+  },
+  {
+    "id": "formula_0066_dxuep",
+    "layer": "generated",
+    "name": "小宗香",
+    "source": "《小宗香跋文》",
+    "type": "熏香",
+    "method": "1.沉香、檀香研末。；2.麝香、婆律膏、安息香另研。；3.和匀，作饼子，以磁盒贮之。",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "4. 小宗香\n\n香方名称：\n小宗香\n\n\n香方出处：\n《小宗香跋文》\n\n\n香方组成：\n\no沉香 二两（约60克）\no檀香 一两（约30克）\no麝香 一钱（约3克）\no婆律膏 三钱（约9克）\no安息香 一分（约3克）\n\n用量：\n每次取适量，点燃或隔火熏香。\n\n\n炮制方法：\n\n1.沉香、檀香研末。\n2.麝香、婆律膏、安息香另研。\n3.和匀，作饼子，以磁盒贮之。\n\n品相方法：\n\no作饼子，以磁盒贮之\no香气闭阁细品，令人陶醉\n\n功效：\n\no闭阁细品，令人陶醉\no适用于文人雅士熏香，提升精神境界\n\n适用人群：\n\no文人雅士\no日常熏香者\n\n适用场景：\n\no书房熏香\no礼仪场合\no安神助眠\n\n历史背景：\n\no南朝宋时宗茂深所喜爱\no黄庭坚心慕南朝宗少文、宗茂深祖孙卓然不群的风骨\n\n文献出处： 《小宗香跋文》\n",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "婆律膏",
+        "originalAmount": "三钱",
+        "amount": 3,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "安息香",
+        "originalAmount": "一分",
+        "amount": 1,
+        "unit": "分",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "low",
+    "flags": [
+      "editorial_efficacy",
+      "baked_30g_liang"
+    ]
+  },
+  {
+    "id": "formula_0067_14rdkm6",
+    "layer": "generated",
+    "name": "东阁藏春香",
+    "source": "《晦斋香谱》",
+    "type": "熏香",
+    "method": "1.所有香材研为细末。；2.用炼蜜调和剂，作饼子。；3.用青柏香末为衣。",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "1. 东阁藏春香\n\n香方名称：\n东阁藏春香\n\n\n香方出处：\n《晦斋香谱》\n\n\n香方组成：\n\n1.沉香 二两（约60克）\n2.檀香 五钱（约15克）\n3.乳香 一钱（约3克）\n4.丁香 一钱（约3克）\n5.甘松 一钱（约3克）\n6.玄参 一两（约30克）\n7.麝香 一分（约3克）\n\n用量：\n每次取适量（约1–2克），点燃或隔火熏香。\n\n\n炮制方法：\n\n1.所有香材研为细末。\n2.用炼蜜调和剂，作饼子。\n3.用青柏香末为衣。\n\n品相方法：\n\n1.作饼子，用青柏香末为衣\n2.香气有百花气味，宜在华筵使用\n\n功效：\n\n1.东方青气属木，主春季\n2.适用于春季养肝，改善犯困、咳喘、两肋疼痛等问题\n\n适用人群：\n\n1.春季易犯困者\n2.肝气郁结者\n\n适用场景：\n",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "五钱",
+        "amount": 5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "乳香",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "丁香",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "甘松",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "玄参",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "一分",
+        "amount": 1,
+        "unit": "分",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "low",
+    "flags": [
+      "editorial_efficacy",
+      "baked_30g_liang"
+    ]
+  },
+  {
+    "id": "formula_0073_1j6o7qu",
+    "layer": "generated",
+    "name": "南极庆寿香",
+    "source": "《晦斋香谱》",
+    "type": "熏香",
+    "method": "1.所有香材研为细末。；2.加上枣肉以炼蜜和剂托出。；3.用上等黄丹为衣焚之。",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "2. 南极庆寿香\n\n香方名称：\n南极庆寿香\n\n\n香方出处：\n《晦斋香谱》\n\n\n香方组成：\n\no沉香 五钱（约15克）\no檀香 五钱（约15克）\no乳香 五钱（约15克）\no金砂降 五钱（约15克）\no安息香 一钱（约3克）\no玄参 一钱（约3克）\no大黄 五分（约1.5克）\no丁香 一字（约0.3克）\no官桂 一字（约0.3克）\no麝香 三字（约0.9克）\no枣肉 三个（煮去皮核）\n\n用量：\n每次取适量，点燃或隔火熏香。\n\n\n炮制方法：\n\n1.所有香材研为细末。\n2.加上枣肉以炼蜜和剂托出。\n3.用上等黄丹为衣焚之。\n\n品相方法：\n\no用上等黄丹为衣焚之\no香气浓郁，宜在寿筵使用\n\n功效：\n\no南方赤气属火，主夏季\no适用于夏季养心，改善心烦、失眠、口渴等问题\n\n适用人群：\n\no夏季易心烦者\no心脏病患者\n\n适用场景：\n\no寿筵使用\no夏季熏香\no供奉南极仙翁\n\n历史背景：\n\no南极真人瑶池庆寿香\no南极老人即太上老君，主寿，民间供奉可得健康长寿\n\n文献出处： 《晦斋香谱》\n\n",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "originalAmount": "五钱",
+        "amount": 5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "五钱",
+        "amount": 5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "乳香",
+        "originalAmount": "五钱",
+        "amount": 5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "金砂降",
+        "originalAmount": "五钱",
+        "amount": 5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "安息香",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "玄参",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "大黄",
+        "originalAmount": "五分",
+        "amount": 5,
+        "unit": "分",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "丁香",
+        "originalAmount": "一字",
+        "amount": 1,
+        "unit": "字",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "官桂",
+        "originalAmount": "一字",
+        "amount": 1,
+        "unit": "字",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "三字",
+        "amount": 3,
+        "unit": "字",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "枣肉",
+        "originalAmount": "三个",
+        "amount": 3,
+        "unit": "个",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": "（煮去皮核）"
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "low",
+    "flags": [
+      "editorial_efficacy"
+    ]
+  },
+  {
+    "id": "formula_0074_1htokub",
+    "layer": "generated",
+    "name": "西斋雅意香",
+    "source": "《晦斋香谱》",
+    "type": "熏香",
+    "method": "1.所有香材研为细末。；2.用炼蜜和剂作饼子。；3.以煅过寒水石为衣焚之。",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "3. 西斋雅意香\n\n香方名称：\n西斋雅意香\n\n\n香方出处：\n《晦斋香谱》\n\n\n香方组成：\n\no玄参 四钱（酒浸洗，约12克）\no香 五钱（约15克）\no大黄 一钱（约3克）\no丁香 三钱（约9克）\no甘松 二钱（约6克）\no麝香 少许\n\n用量：\n每次取适量，点燃或隔火熏香。\n\n\n炮制方法：\n\n1.所有香材研为细末。\n2.用炼蜜和剂作饼子。\n3.以煅过寒水石为衣焚之。\n\n品相方法：\n\no以煅过寒水石为衣焚之\no香气有亲灯火，阅简编，消酒襟怀之趣\n\n功效：\n\no西方素气主秋，宜书斋经阁内焚之\no适用于秋季养肺，改善多愁善感、悲伤等问题\n\n适用人群：\n\no秋季易悲伤者\no肺气虚者\n\n适用场景：\n\no书斋经阁\no文人雅士熏香\no消酒襟怀\n\n历史背景：\n\no西方白色，与肺脏相应，肺开窍于鼻\no秋季是阳消阴长的过渡时期，肺主秋，肺气虚\n\n文献出处： 《晦斋香谱》\n\n",
+    "ingredients": [
+      {
+        "name": "玄参",
+        "originalAmount": "四钱",
+        "amount": 4,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": "（酒浸洗，约12克）"
+      },
+      {
+        "name": "香",
+        "originalAmount": "五钱",
+        "amount": 5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "大黄",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "丁香",
+        "originalAmount": "三钱",
+        "amount": 3,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "甘松",
+        "originalAmount": "二钱",
+        "amount": 2,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "少许",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "not_applicable",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "low",
+    "flags": [
+      "editorial_efficacy"
+    ]
+  },
+  {
+    "id": "formula_0075_1lm5b21",
+    "layer": "generated",
+    "name": "北苑名芳香",
+    "source": "《晦斋香谱》",
+    "type": "熏香",
+    "method": "1.所有香材研为细末。；2.用炼蜜和剂。；3.加柳炭末以黑为度，脱出焚之。",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "4. 北苑名芳香\n\n香方名称：\n北苑名芳香\n\n\n香方出处：\n《晦斋香谱》\n\n\n香方组成：\n\no枫香 二钱半（约7.5克）\no玄参 二钱（约6克）\no檢香 二钱（约6克）\no乳香 一两五钱（约45克）\n\n用量：\n每次取适量，点燃或隔火熏香。\n\n\n炮制方法：\n\n1.所有香材研为细末。\n2.用炼蜜和剂。\n3.加柳炭末以黑为度，脱出焚之。\n\n品相方法：\n\no加柳炭末以黑为度，脱出焚之\no香气有幽兰之馨，宜围炉赏雪焚之\n\n功效：\n\no北方黑气主冬季，宜围炉赏雪焚之\no适用于冬季养肾，改善腰膝酸软、畏寒怕冷等问题\n\n适用人群：\n\no冬季易畏寒者\no肾气虚者\n\n适用场景：\n\no围炉赏雪\no冬季熏香\no供养肾脏\n\n历史背景：\n\no北方黑色，与肾脏相应，肾在五味为咸\no冬季是自然界万物封藏的季节，肾为“先天之本”\n\n文献出处： 《晦斋香谱》\n\n",
+    "ingredients": [
+      {
+        "name": "枫香",
+        "originalAmount": "二钱",
+        "amount": 2,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": "半"
+      },
+      {
+        "name": "玄参",
+        "originalAmount": "二钱",
+        "amount": 2,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "檢香",
+        "originalAmount": "二钱",
+        "amount": 2,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "乳香",
+        "originalAmount": "一两五钱",
+        "amount": 1.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "low",
+    "flags": [
+      "editorial_efficacy"
+    ]
+  },
+  {
+    "id": "formula_0076_1wsr9bk",
+    "layer": "generated",
+    "name": "四时清味香",
+    "source": "《晦斋香谱》",
+    "type": "线香",
+    "method": "1.所有香材研为细末。；2.用炼蜜和剂作饼。；3.用煅铅粉黄为衣焚之。；使用时以“当门子”尤妙（即靠近麝香腺体部位的香料）；忌蒜，不可近鼻，防虫入脑；以白如冰、作梅花片者为佳；外用时研末敷于患处；合众香之汁煎成；以箬桃起，悬丝不断者为真；一种水安息，最难得，功效倍胜；砠研末使用；根瘦节密，一寸九节者良；皮微炒用；秦苏为使，恶麻黄，忌饴糖、羊肉、铁器",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "5. 四时清味香\n\n香方名称：\n四时清味香\n\n\n香方出处：\n《晦斋香谱》\n\n\n香方组成：\n\no茴香 一钱半（约4.5克）\no丁香 一钱半（约4.5克）\no零陵香 五钱（约15克）\no檀香 八钱（约24克）\no甘松 一两（约30克）\no脑麝 少许（另研）\n\n用量：\n每次取适量，点燃或隔火熏香。\n\n\n炮制方法：\n\n1.所有香材研为细末。\n2.用炼蜜和剂作饼。\n3.用煅铅粉黄为衣焚之。\n\n品相方法：\n\no用煅铅粉黄为衣焚之\no香气最能解秽，宜画堂书馆、酒榭花亭皆可焚之\n\n功效：\n\no中央黄气属土，主四季月\no适用于全年通用，解秽除臭，净化空气\n\n适用人群：\n\no日常熏香者\no家庭清洁\n\n适用场景：\n\no画堂书馆\no酒榭花亭\no日常熏香\n\n历史背景：\n\no中央黄色，与脾相应，脾开窍于口\no脾在五味为甘，在五行属土\n\n文献出处： 《晦斋香谱》\n一、香材部分\n注：原文共提及5种香材，均已明确列出其名称、特性、炮制方法、功效等。\n\n1. 麝香\n\n特性：\n气味芳香，性善走窜，多归心经，具有通关开窍、启闭醒神的作用。\n\n\n别称：\n麝脐香、香囊、香胞、当门子\n\n\n来源：\n麝鹿腹部腺体分泌物，采集后需阴干处理。\n\n\n炮制方法：\n\no使用时以“当门子”尤妙（即靠近麝香腺体部位的香料）\no忌蒜，不可近鼻，防虫入脑\n\n功效：\n辛散、温通、芳香走窜，善于开窍醒神，力量猛烈，为治疗邪蒙窍闭、神志昏迷的要药。\n\no能通诸窍之不利，开经络之塞遏\no配伍清热药，可作凉开之剂；配伍祛寒药，则成温开之方\n\n禁忌：\n\no孕妇禁用，恐动胎气\no不宜久服，久服泄人元气\no忌与蒜同用，避免影响药效\n\n适用场景：\n\no急救：卒中、惊痫、痰厥、昏厥\no病证：诸风、诸气、诸血、诸痛、惊痫、癫狂、疟疾、耳聋、目翳、鼻塞\no外用：辟邪解毒、杀虫堕胎、治果积酒积\n\n历史背景：\n明代李时珍曰：“盖麝香走窜，能通诸窍之不利，开经络之塞遏。”认为其虽可用，但不可过量。\n\n\n文献出处：\n《本草纲目》《中药学》\n\n\n2. 冰片（龙脑冰片、龙脑香、梅片）\n\n特性：\n气味芳香，性善走窜，辛温香窜，善走能散，先入肺，传于心脾而透骨，通诸窍，散郁火。\n\n\n别称：\n龙脑冰片、龙脑香、梅片、天然冰片\n\n\n来源：\n来自婆律国（今东南亚）的龙脑香树根部树脂，或人工合成。\n\n\n炮制方法：\n\no以白如冰、作梅花片者为佳\no外用时研末敷于患处\n\n功效：\n\no辛散、苦泄、芳香走窜，善于通诸窍，有开窍醒神之效\no能散郁火，外用有消肿止痛之功\no具有防腐、止痒之效\n\n禁忌：\n\no孕妇慎用\no不宜久服，久服伤正气\no忌与辛辣刺激食物同用\n\n适用场景：\n\no急救：惊痫、痰迷、神志不清\no眼科：目赤肿痛、翳膜遮睛\no耳鼻喉科：耳聋、鼻塞、喉痹、舌疮\no外科：",
+    "ingredients": [
+      {
+        "name": "茴香",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": "半"
+      },
+      {
+        "name": "丁香",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": "半"
+      },
+      {
+        "name": "零陵香",
+        "originalAmount": "五钱",
+        "amount": 5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "八钱",
+        "amount": 8,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "甘松",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "脑麝",
+        "originalAmount": "少许",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "not_applicable",
+        "note": "（另研）"
+      }
+    ],
+    "unitProfileId": "qin_western_han_research",
+    "unitProfileConfidence": "medium",
+    "flags": [
+      "editorial_efficacy",
+      "baked_30g_liang"
+    ]
+  },
+  {
+    "id": "formula_0084_eao19y",
+    "layer": "generated",
+    "name": "沉速香方",
+    "source": "资料待校勘",
+    "type": "合香",
+    "method": "",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "3. 《沉速香方》\n香材配比：\n1.沉速香五斤\n2.檀香一斤\n3.黄烟四两\n4.乳香二两\n5.奄叭香三两\n6.麝香五钱\n7.合油六两\n8.白芨面八两\n9.蜜一斤八两\n炮制方法：",
+    "ingredients": [
+      {
+        "name": "沉速香",
+        "originalAmount": "五斤",
+        "amount": 5,
+        "unit": "斤",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "一斤",
+        "amount": 1,
+        "unit": "斤",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "黄烟",
+        "originalAmount": "四两",
+        "amount": 4,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "乳香",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "奄叭香",
+        "originalAmount": "三两",
+        "amount": 3,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "五钱",
+        "amount": 5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "合油",
+        "originalAmount": "六两",
+        "amount": 6,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "白芨面",
+        "originalAmount": "八两",
+        "amount": 8,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "蜜",
+        "originalAmount": "一斤八两",
+        "amount": 1.5,
+        "unit": "斤",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "low",
+    "flags": [
+      "editorial_efficacy"
+    ]
+  },
+  {
+    "id": "formula_0087_ko4rte",
+    "layer": "generated",
+    "name": "黄香饼方",
+    "source": "资料待校勘",
+    "type": "香饼",
+    "method": "",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "4. 《黄香饼方》\n香材配比：\no沉速香六两\no檀香三两\no丁香一两\no木香一两\no黄烟二两\no乳香一两\no郎台一两\no奄叭三两\no苏合油二两\no麝香三钱\no冰片一钱\no白芨面八两\no蜜四两\n炮制方法：",
+    "ingredients": [
+      {
+        "name": "沉速香",
+        "originalAmount": "六两",
+        "amount": 6,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "三两",
+        "amount": 3,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "丁香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "木香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "黄烟",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "乳香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "郎台",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "奄叭",
+        "originalAmount": "三两",
+        "amount": 3,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "苏合油",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "三钱",
+        "amount": 3,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "冰片",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "白芨面",
+        "originalAmount": "八两",
+        "amount": 8,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "蜜",
+        "originalAmount": "四两",
+        "amount": 4,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "low",
+    "flags": [
+      "editorial_efficacy"
+    ]
+  },
+  {
+    "id": "formula_0090_cyncg",
+    "layer": "generated",
+    "name": "印香方",
+    "source": "资料待校勘",
+    "type": "合香",
+    "method": "",
+    "note": "古方资料已整理，制作前请自行校勘。",
+    "originalText": "5. 《印香方》\n香材配比：\no黄熟香五斤\no速香一斤\no香附子、黑香、藿香、零陵香、檀香、白芷各一两\no柏香二斤\no芸香一两\no甘松八两\no乳香一两\no沉香二两\no丁香一两\no馥香四两\no生香四两\no焰硝五分\n炮制方法：",
+    "ingredients": [
+      {
+        "name": "黄熟香",
+        "originalAmount": "五斤",
+        "amount": 5,
+        "unit": "斤",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "速香",
+        "originalAmount": "一斤",
+        "amount": 1,
+        "unit": "斤",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "香附子",
+        "originalAmount": "各一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "黑香",
+        "originalAmount": "各一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "藿香",
+        "originalAmount": "各一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "零陵香",
+        "originalAmount": "各一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "各一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "白芷",
+        "originalAmount": "各一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "柏香",
+        "originalAmount": "二斤",
+        "amount": 2,
+        "unit": "斤",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "芸香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "甘松",
+        "originalAmount": "八两",
+        "amount": 8,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "乳香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "沉香",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "丁香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "馥香",
+        "originalAmount": "四两",
+        "amount": 4,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "生香",
+        "originalAmount": "四两",
+        "amount": 4,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "焰硝",
+        "originalAmount": "五分",
+        "amount": 5,
+        "unit": "分",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "low",
+    "flags": []
+  },
+  {
+    "id": "formula_0094_fpag5",
+    "layer": "generated",
+    "name": "春香方",
+    "source": "资料待校勘",
+    "type": "合香",
+    "method": "",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "6. 《春香方》\n香材配比：\no沉香四两\no檀香六两\no结香、藿香、零陵香、甘松、茅香各四两\no丁香一两\no甲香五钱\no麝香、冰片各一钱\n炮制方法：",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "originalAmount": "四两",
+        "amount": 4,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "六两",
+        "amount": 6,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "结香",
+        "originalAmount": "各四两",
+        "amount": 4,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "藿香",
+        "originalAmount": "各四两",
+        "amount": 4,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "零陵香",
+        "originalAmount": "各四两",
+        "amount": 4,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "甘松",
+        "originalAmount": "各四两",
+        "amount": 4,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "茅香",
+        "originalAmount": "各四两",
+        "amount": 4,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "丁香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "甲香",
+        "originalAmount": "五钱",
+        "amount": 5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "各一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "冰片",
+        "originalAmount": "各一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "low",
+    "flags": [
+      "editorial_efficacy"
+    ]
+  },
+  {
+    "id": "formula_0098_d1bjz2",
+    "layer": "generated",
+    "name": "撒兰香方",
+    "source": "资料待校勘",
+    "type": "合香",
+    "method": "",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "7. 《撒兰香方》\n香材配比：\no沉香三两五钱\no冰片二钱四分\no檀香一钱\no龙涎五分\no排草须二钱\no奄叭五分\no撒乐兰一线\no麝香五分\no合油一线\no甘麻油二分\no榆面六钱\no蔷薇露四两\n炮制方法：",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "originalAmount": "三两五钱",
+        "amount": 3.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "冰片",
+        "originalAmount": "二钱四分",
+        "amount": 2.4,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "龙涎",
+        "originalAmount": "五分",
+        "amount": 5,
+        "unit": "分",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "排草须",
+        "originalAmount": "二钱",
+        "amount": 2,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "奄叭",
+        "originalAmount": "五分",
+        "amount": 5,
+        "unit": "分",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "撒乐兰",
+        "originalAmount": "一线",
+        "amount": 1,
+        "unit": "线",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "五分",
+        "amount": 5,
+        "unit": "分",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "合油",
+        "originalAmount": "一线",
+        "amount": 1,
+        "unit": "线",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "甘麻油",
+        "originalAmount": "二分",
+        "amount": 2,
+        "unit": "分",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "榆面",
+        "originalAmount": "六钱",
+        "amount": 6,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "蔷薇露",
+        "originalAmount": "四两",
+        "amount": 4,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "low",
+    "flags": [
+      "editorial_efficacy"
+    ]
+  },
+  {
+    "id": "formula_0102_gv64jk",
+    "layer": "generated",
+    "name": "芙容香方",
+    "source": "资料待校勘",
+    "type": "合香",
+    "method": "",
+    "note": "古方资料已整理，制作前请自行校勘。",
+    "originalText": "8. 《芙容香方》\n香材配比：\no沉香一两五钱\no檀香一两二钱\no片速五钱\no排草二两\no奄叭二分\no零陵香二分\no乳香一分\no三柰一分\no撒乐兰一分\no橄榄油一分\no榆面八钱\no硝一线\n炮制方法：",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "originalAmount": "一两五钱",
+        "amount": 1.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "一两二钱",
+        "amount": 1.2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "片速",
+        "originalAmount": "五钱",
+        "amount": 5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "排草",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "奄叭",
+        "originalAmount": "二分",
+        "amount": 2,
+        "unit": "分",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "零陵香",
+        "originalAmount": "二分",
+        "amount": 2,
+        "unit": "分",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "乳香",
+        "originalAmount": "一分",
+        "amount": 1,
+        "unit": "分",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "三柰",
+        "originalAmount": "一分",
+        "amount": 1,
+        "unit": "分",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "撒乐兰",
+        "originalAmount": "一分",
+        "amount": 1,
+        "unit": "分",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "橄榄油",
+        "originalAmount": "一分",
+        "amount": 1,
+        "unit": "分",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "榆面",
+        "originalAmount": "八钱",
+        "amount": 8,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "硝",
+        "originalAmount": "一线",
+        "amount": 1,
+        "unit": "线",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "low",
+    "flags": []
+  },
+  {
+    "id": "formula_0106_kkv3ib",
+    "layer": "generated",
+    "name": "龙楼香方",
+    "source": "资料待校勘",
+    "type": "合香",
+    "method": "",
+    "note": "古方资料已整理，制作前请自行校勘。",
+    "originalText": "9. 《龙楼香方》\n香材配比：\no沉香一两二钱\no檀香一两二钱\no片速五钱\no排草二两\no奄叭二分\no片脑二线五分\no金银香二分\no丁香一钱\no三柰二钱四分\no官桂三分\no郎台三分\no芸香三分\no甘麻油五分\no橄榄油五分\no甘松五分\no藿香五分\no撒乐兰五分\no零陵香一钱\no樟脑一钱\no降香二分\no白豆蔻二分\no大黄一钱\no乳香三分\no硝一钱\no榆面一两二钱\n炮制方法：",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "originalAmount": "一两二钱",
+        "amount": 1.2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "一两二钱",
+        "amount": 1.2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "片速",
+        "originalAmount": "五钱",
+        "amount": 5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "排草",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "奄叭",
+        "originalAmount": "二分",
+        "amount": 2,
+        "unit": "分",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "片脑",
+        "originalAmount": "二线五分",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "金银香",
+        "originalAmount": "二分",
+        "amount": 2,
+        "unit": "分",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "丁香",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "三柰",
+        "originalAmount": "二钱四分",
+        "amount": 2.4,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "官桂",
+        "originalAmount": "三分",
+        "amount": 3,
+        "unit": "分",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "郎台",
+        "originalAmount": "三分",
+        "amount": 3,
+        "unit": "分",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "芸香",
+        "originalAmount": "三分",
+        "amount": 3,
+        "unit": "分",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "甘麻油",
+        "originalAmount": "五分",
+        "amount": 5,
+        "unit": "分",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "橄榄油",
+        "originalAmount": "五分",
+        "amount": 5,
+        "unit": "分",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "甘松",
+        "originalAmount": "五分",
+        "amount": 5,
+        "unit": "分",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "藿香",
+        "originalAmount": "五分",
+        "amount": 5,
+        "unit": "分",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "撒乐兰",
+        "originalAmount": "五分",
+        "amount": 5,
+        "unit": "分",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "零陵香",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "樟脑",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "降香",
+        "originalAmount": "二分",
+        "amount": 2,
+        "unit": "分",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "白豆蔻",
+        "originalAmount": "二分",
+        "amount": 2,
+        "unit": "分",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "大黄",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "乳香",
+        "originalAmount": "三分",
+        "amount": 3,
+        "unit": "分",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "硝",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "榆面",
+        "originalAmount": "一两二钱",
+        "amount": 1.2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "low",
+    "flags": []
+  },
+  {
+    "id": "formula_0109_kod2n9",
+    "layer": "generated",
+    "name": "黑香饼方",
+    "source": "资料待校勘",
+    "type": "香饼",
+    "method": "",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "10. 《黑香饼方》\n香材配比：\no主料四十两\no炭末一斤\no蜜四斤\no苏合油六两\no麝香一两\no白芨半斤\no橄榄油四斤\no其琛奄叭四两\n炮制方法：",
+    "ingredients": [
+      {
+        "name": "炭末",
+        "originalAmount": "一斤",
+        "amount": 1,
+        "unit": "斤",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "蜜",
+        "originalAmount": "四斤",
+        "amount": 4,
+        "unit": "斤",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "苏合油",
+        "originalAmount": "六两",
+        "amount": 6,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "白芨",
+        "originalAmount": "半斤",
+        "amount": 0.5,
+        "unit": "斤",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "橄榄油",
+        "originalAmount": "四斤",
+        "amount": 4,
+        "unit": "斤",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      },
+      {
+        "name": "其琛奄叭",
+        "originalAmount": "四两",
+        "amount": 4,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "needs_unit_profile",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "low",
+    "flags": [
+      "editorial_efficacy"
+    ]
+  },
+  {
+    "id": "formula_0118_jznr",
+    "layer": "generated",
+    "name": "炒香",
+    "source": "资料待校勘",
+    "type": "合香",
+    "method": "",
+    "note": "仅作古方资料整理，不作功效承诺。",
+    "originalText": "11. 《炒香》\n香材配比：\no沉香、速香（比例未详）\no苏合油适量\no冰片末适量\n炮制方法：",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "originalAmount": "比例未详",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "not_applicable",
+        "note": "）"
+      },
+      {
+        "name": "速香（",
+        "originalAmount": "比例未详",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "not_applicable",
+        "note": "）"
+      },
+      {
+        "name": "苏合油",
+        "originalAmount": "适量",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "not_applicable",
+        "note": ""
+      },
+      {
+        "name": "冰片末",
+        "originalAmount": "适量",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "not_applicable",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "low",
+    "flags": [
+      "editorial_efficacy"
+    ]
+  }
+]

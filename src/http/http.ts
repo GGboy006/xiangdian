@@ -3,7 +3,6 @@ import type { CustomRequestOptions, HttpError, IResponse } from '@/http/types'
 import { nextTick } from 'vue'
 import { useTokenStore } from '@/store/token'
 import { isDoubleTokenMode } from '@/utils'
-import { toLoginPage } from '@/utils/toLoginPage'
 import { createHttpError, getResponseMessage, HttpErrorType, isSuccessResultCode, ResultEnum, ShowMessage } from './tools/enum'
 
 // 刷新 token 状态管理
@@ -30,14 +29,13 @@ export function http<T>(options: CustomRequestOptions) {
         if (isTokenExpired) {
           const tokenStore = useTokenStore()
           if (!isDoubleTokenMode) {
-            // 未启用双token策略，清理用户信息，跳转到登录页
+            // 未启用双token策略，清理用户信息，一期无登录，不跳页
             tokenStore.logout()
-            toLoginPage()
             return reject(createHttpError({
               type: HttpErrorType.Auth,
               code,
               statusCode: res.statusCode,
-              message: getResponseMessage(responseData, '登录已过期，请重新登录'),
+              message: getResponseMessage(responseData, '请求未授权'),
               data: responseData?.data,
               raw: res,
             }))
@@ -74,21 +72,17 @@ export function http<T>(options: CustomRequestOptions) {
             catch (refreshErr) {
               console.error('刷新 token 失败:', refreshErr)
               refreshing = false
-              // 刷新 token 失败，跳转到登录页
+              // 刷新 token 失败，一期无登录，不跳页
               nextTick(() => {
                 // 关闭其他弹窗
                 uni.hideToast()
                 uni.showToast({
-                  title: '登录已过期，请重新登录',
+                  title: '请求未授权',
                   icon: 'none',
                 })
               })
               // 清除用户信息
               await tokenStore.logout()
-              // 跳转到登录页
-              setTimeout(() => {
-                toLoginPage()
-              }, 2000)
             }
             finally {
               // 不管刷新 token 成功与否，都清空任务队列
@@ -100,7 +94,7 @@ export function http<T>(options: CustomRequestOptions) {
             type: HttpErrorType.Auth,
             code,
             statusCode: res.statusCode,
-            message: getResponseMessage(responseData, '登录已过期，请重新登录'),
+            message: getResponseMessage(responseData, '请求未授权'),
             data: responseData?.data,
             raw: res,
           }))

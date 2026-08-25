@@ -1,0 +1,169 @@
+{
+  "profiles": [
+    {
+      "id": "unverified",
+      "name": "未选择基准",
+      "note": "不自动换算克重，只保留原方剂量。",
+      "evidenceStatus": "not_applicable",
+      "sourceReferences": [],
+      "units": {},
+      "volumeUnits": {}
+    },
+    {
+      "id": "qin_western_han_research",
+      "name": "秦西汉衡制",
+      "note": "一两约 15.6 克。适合明确为秦、西汉体系的古方校勘。",
+      "evidenceStatus": "reference_value",
+      "uncertaintyNote": "采用考古度量衡研究中的代表值；不同器物、地区和时期仍可能有差异。",
+      "sourceReferences": [
+        {
+          "title": "古今中药计量换算",
+          "url": "https://www.cnpharm.com/c/2021-05-07/788317.shtml",
+          "kind": "official_industry_article",
+          "note": "转引丘光明《中国历代度量衡单位量值表及其说明》，用于秦汉、魏晋、明清基准复核。"
+        }
+      ],
+      "units": {
+        "斤": 249.6,
+        "两": 15.6,
+        "钱": 1.56,
+        "分": 0.156,
+        "厘": 0.0156,
+        "铢": 0.65
+      },
+      "volumeUnits": {}
+    },
+    {
+      "id": "eastern_han_research",
+      "name": "东汉衡制",
+      "note": "一两约 13.8 克至 15.4 克。本基准取 13.8 克，适合经方小两校勘。",
+      "evidenceStatus": "reference_value_with_debate",
+      "uncertaintyNote": "学界存在 13.8 克、15.4 克等不同结论；本库固定取 13.8 克，界面必须保留约量语义。",
+      "sourceReferences": [
+        {
+          "title": "古代经典名方剂量折算原则的考证",
+          "url": "https://www.syfjxzz.com/zh/article/doi/10.13422/j.cnki.syfjx.20240668",
+          "kind": "research_article",
+          "note": "用于东汉、宋金元、明清药衡折算及大小衡制边界。"
+        },
+        {
+          "title": "古今中药计量换算",
+          "url": "https://www.cnpharm.com/c/2021-05-07/788317.shtml",
+          "kind": "official_industry_article",
+          "note": "转引丘光明《中国历代度量衡单位量值表及其说明》，用于秦汉、魏晋、明清基准复核。"
+        }
+      ],
+      "units": {
+        "斤": 220.8,
+        "两": 13.8,
+        "钱": 1.38,
+        "分": 0.138,
+        "厘": 0.0138,
+        "铢": 0.575
+      },
+      "volumeUnits": {}
+    },
+    {
+      "id": "wei_jin_research",
+      "name": "魏晋衡制",
+      "note": "一两约 17.7 克。适合明确为魏晋南北朝体系的古方校勘。",
+      "evidenceStatus": "reference_value",
+      "uncertaintyNote": "采用历代衡值研究的代表值；具体文献若沿用旧制或药秤，需另案校勘。",
+      "sourceReferences": [
+        {
+          "title": "古今中药计量换算",
+          "url": "https://www.cnpharm.com/c/2021-05-07/788317.shtml",
+          "kind": "official_industry_article",
+          "note": "转引丘光明《中国历代度量衡单位量值表及其说明》，用于秦汉、魏晋、明清基准复核。"
+        }
+      ],
+      "units": {
+        "斤": 283.2,
+        "两": 17.7,
+        "钱": 1.77,
+        "分": 0.177,
+        "厘": 0.0177,
+        "铢": 0.7375
+      },
+      "volumeUnits": {}
+    },
+    {
+      "id": "sui_tang_song_yuan_research",
+      "name": "隋唐宋元衡制",
+      "note": "一两约 41.3 克，一钱约 4.13 克。适合明确为隋唐宋元体系的香方。",
+      "evidenceStatus": "reference_value_with_large_small_systems",
+      "uncertaintyNote": "隋唐存在大小衡制，医药与民用未必同制；本库按已明确采用大制或宋元通行衡值的方子折算。",
+      "sourceReferences": [
+        {
+          "title": "古代经典名方剂量折算原则的考证",
+          "url": "https://www.syfjxzz.com/zh/article/doi/10.13422/j.cnki.syfjx.20240668",
+          "kind": "research_article",
+          "note": "用于东汉、宋金元、明清药衡折算及大小衡制边界。"
+        },
+        {
+          "title": "从中国古代大小衡制透视中医古方药物衡值的演变",
+          "url": "https://pdf.hanspub.org/TCM20231200000_87434934.pdf",
+          "kind": "research_article",
+          "note": "用于隋唐大小制、宋元权衡范围和古方折算争议说明。"
+        }
+      ],
+      "units": {
+        "斤": 660.8,
+        "两": 41.3,
+        "钱": 4.13,
+        "分": 0.413,
+        "厘": 0.0413,
+        "铢": 1.7208
+      },
+      "volumeUnits": {}
+    },
+    {
+      "id": "ming_qing_research",
+      "name": "明清衡制",
+      "note": "一两约 37.3 克，一钱约 3.73 克。适合明确为明清体系的香方。",
+      "evidenceStatus": "reference_value",
+      "uncertaintyNote": "采用明清代表值；地域秤、库平秤与具体商品秤仍可能存在差异。",
+      "sourceReferences": [
+        {
+          "title": "古代经典名方剂量折算原则的考证",
+          "url": "https://www.syfjxzz.com/zh/article/doi/10.13422/j.cnki.syfjx.20240668",
+          "kind": "research_article",
+          "note": "用于东汉、宋金元、明清药衡折算及大小衡制边界。"
+        },
+        {
+          "title": "古今中药计量换算",
+          "url": "https://www.cnpharm.com/c/2021-05-07/788317.shtml",
+          "kind": "official_industry_article",
+          "note": "转引丘光明《中国历代度量衡单位量值表及其说明》，用于秦汉、魏晋、明清基准复核。"
+        }
+      ],
+      "units": {
+        "斤": 596.8,
+        "两": 37.3,
+        "钱": 3.73,
+        "分": 0.373,
+        "厘": 0.0373,
+        "铢": 1.5542
+      },
+      "volumeUnits": {}
+    }
+  ],
+  "specialUnits": {
+    "字": {
+      "value": 0.4,
+      "unit": "克",
+      "label": "钱面一字取末",
+      "note": "以唐开元通宝钱面一字取末，约 0.4 克；受粉末粗细和堆取方式影响，仅作校勘折算。",
+      "approximate": true,
+      "evidenceStatus": "approximate_volume_by_coin_surface",
+      "sourceReferences": [
+        {
+          "title": "古今中药计量换算",
+          "url": "https://www.cnpharm.com/c/2021-05-07/788317.shtml",
+          "kind": "official_industry_article",
+          "note": "转引丘光明《中国历代度量衡单位量值表及其说明》，用于秦汉、魏晋、明清基准复核。"
+        }
+      ]
+    }
+  }
+}

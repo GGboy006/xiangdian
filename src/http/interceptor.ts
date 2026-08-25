@@ -1,5 +1,4 @@
 import type { CustomRequestOptions } from '@/http/types'
-import { useTokenStore } from '@/store'
 import { getEnvBaseUrl } from '@/utils'
 import { stringifyQuery } from './tools/queryString'
 
@@ -47,13 +46,6 @@ const httpInterceptor = {
     // 2. （可选）添加小程序端请求头标识
     options.header = {
       ...options.header,
-    }
-    // 3. 添加 token 请求头标识
-    const tokenStore = useTokenStore()
-    const token = tokenStore.updateNowTime().validToken
-
-    if (token) {
-      options.header.Authorization = `Bearer ${token}`
     }
     return options
   },

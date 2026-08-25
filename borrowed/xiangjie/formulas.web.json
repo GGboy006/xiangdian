@@ -1,0 +1,4635 @@
+[
+  {
+    "id": "web_xiangcheng_25_neitian",
+    "layer": "web",
+    "name": "内甜香",
+    "source": "香乘·卷二十五·猎香新谱",
+    "type": "合香",
+    "method": "右入油和匀，加炼蜜和如泥，磁罐封；一次二分。",
+    "note": "据中哲网《香乘卷二十五》整理，保留古方原意，制作前仍需按材料现状试样。",
+    "originalText": "内甜香\n[出处] 香乘·卷二十五·猎香新谱\n[药物] 檀香四两，沉香四两，乳香二两，丁香一两，木香一两，黑香二两，郎苔六钱，黑速四两，片麝各三钱，排草三两，合油五两，大黄五钱，官桂五钱，金颜香二两，陵叶二两。\n[制备] 右入油和匀，加炼蜜和如泥，磁罐封；一次二分。",
+    "ingredients": [
+      {
+        "name": "檀香",
+        "originalAmount": "四两",
+        "amount": 4,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "沉香",
+        "originalAmount": "四两",
+        "amount": 4,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "乳香",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "丁香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "木香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "黑香",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "郎台",
+        "originalAmount": "六钱",
+        "amount": 6,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作郎苔"
+      },
+      {
+        "name": "速香",
+        "originalAmount": "四两",
+        "amount": 4,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作黑速"
+      },
+      {
+        "name": "龙脑",
+        "originalAmount": "三钱",
+        "amount": 3,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作片；与麝香各三钱"
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "三钱",
+        "amount": 3,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作麝；与片脑各三钱"
+      },
+      {
+        "name": "排草",
+        "originalAmount": "三两",
+        "amount": 3,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "合油",
+        "originalAmount": "五两",
+        "amount": 5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "保留原文名物；不擅自等同苏合油"
+      },
+      {
+        "name": "大黄",
+        "originalAmount": "五钱",
+        "amount": 5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "官桂",
+        "originalAmount": "五钱",
+        "amount": 5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "金颜香",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "零陵香",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作陵叶"
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "high",
+    "flags": []
+  },
+  {
+    "id": "web_xiangcheng_25_yuhua",
+    "layer": "web",
+    "name": "玉华香",
+    "source": "香乘·卷二十五·猎香新谱",
+    "type": "合香",
+    "method": "右以香料为末，和入苏合油揉匀，加炼好蜜再和如湿泥，入磁瓶，锡盖蜡封口固；每用二三分。",
+    "note": "据中哲网《香乘卷二十五》整理。",
+    "originalText": "玉华香\n[出处] 香乘·卷二十五·猎香新谱\n[药物] 沉香四两，速香四两黑色者，檀香四两，乳香二两，木香一两，丁香一两，郎苔六钱，唵叭香三两，麝香三钱，龙脑三钱，广排草三两出交趾者，苏合油五钱，大黄五钱，官桂五钱，金颜香二两，广零陵用叶一两。\n[制备] 右以香料为末，和入苏合油揉匀，加炼好蜜再和如湿泥，入磁瓶，锡盖蜡封口固；每用二三分。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "originalAmount": "四两",
+        "amount": 4,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "速香",
+        "originalAmount": "四两",
+        "amount": 4,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作速香黑色者"
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "四两",
+        "amount": 4,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "乳香",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "木香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "丁香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "郎台",
+        "originalAmount": "六钱",
+        "amount": 6,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作郎苔"
+      },
+      {
+        "name": "唵叭香",
+        "originalAmount": "三两",
+        "amount": 3,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文即唵叭香；与龙涎香不是同一名物"
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "三钱",
+        "amount": 3,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "龙脑",
+        "originalAmount": "三钱",
+        "amount": 3,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "排草",
+        "originalAmount": "三两",
+        "amount": 3,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作广排草，出交趾者"
+      },
+      {
+        "name": "苏合油",
+        "originalAmount": "五钱",
+        "amount": 5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "大黄",
+        "originalAmount": "五钱",
+        "amount": 5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "官桂",
+        "originalAmount": "五钱",
+        "amount": 5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "金颜香",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "零陵香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作广零陵用叶"
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "high",
+    "flags": []
+  },
+  {
+    "id": "web_xiangcheng_25_qingzhen",
+    "layer": "web",
+    "name": "庆真香",
+    "source": "香乘·卷二十五·猎香新谱",
+    "type": "印香",
+    "method": "散用如印饼；和蜜时去榆面。",
+    "note": "原方明示印饼用法，适合进入线香/印香参考层。",
+    "originalText": "庆真香\n[出处] 香乘·卷二十五·猎香新谱\n[药物] 沉香一两，檀香五钱，唵叭一钱，樟脑一钱，降香五分，白豆蔻一钱，大黄一钱，乳香一钱，硝一钱，榆面一两二钱。\n[制备] 散用如印饼；和蜜去榆面。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "五钱",
+        "amount": 5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "唵叭香",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作唵叭；与龙涎香不是同一名物"
+      },
+      {
+        "name": "樟脑",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "降真香",
+        "originalAmount": "五分",
+        "amount": 5,
+        "unit": "分",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作降香"
+      },
+      {
+        "name": "白豆蔻",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作白豆蔻"
+      },
+      {
+        "name": "大黄",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "乳香",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "硝",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文仅作硝，具体硝类未明"
+      },
+      {
+        "name": "榆皮粉",
+        "originalAmount": "一两二钱",
+        "amount": 1.2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作榆面"
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "high",
+    "flags": []
+  },
+  {
+    "id": "web_xiangcheng_25_huangxiangbing",
+    "layer": "web",
+    "name": "黄香饼",
+    "source": "香乘·卷二十五·猎香新谱",
+    "type": "香饼",
+    "method": "和剂印饼用。",
+    "note": "原方有白芨末、炼蜜和剂与印饼线索，可作为香饼/线香改作参考。",
+    "originalText": "黄香饼\n[出处] 香乘·卷二十五·猎香新谱\n[药物] 沉速香六两，檀香三两，丁香一两，木香一两，乳香二两，金颜香一两，唵叭香三两，郎苔五钱，苏合油二两，麝香三钱，龙脑一钱，白芨末八两，炼蜜四两。\n[制备] 和剂印饼用。",
+    "ingredients": [
+      {
+        "name": "沉速香",
+        "originalAmount": "六两",
+        "amount": 6,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "三两",
+        "amount": 3,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "丁香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "木香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "乳香",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "金颜香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "唵叭香",
+        "originalAmount": "三两",
+        "amount": 3,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文即唵叭香；与龙涎香不是同一名物"
+      },
+      {
+        "name": "郎台",
+        "originalAmount": "五钱",
+        "amount": 5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作郎苔"
+      },
+      {
+        "name": "苏合油",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "三钱",
+        "amount": 3,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "龙脑",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "白及",
+        "originalAmount": "八两",
+        "amount": 8,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作白芨末"
+      },
+      {
+        "name": "白蜜",
+        "originalAmount": "四两",
+        "amount": 4,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作炼蜜"
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "high",
+    "flags": []
+  },
+  {
+    "id": "web_xiangcheng_25_chensu_bangxiang",
+    "layer": "web",
+    "name": "沉速棒香",
+    "source": "香乘·卷二十五·猎香新谱",
+    "type": "线香参考",
+    "method": "和成滚棒如前。",
+    "note": "原名即棒香，且有白芨末、炼蜜和成滚棒线索，是线香试作重点参考方。",
+    "originalText": "沉速棒香\n[出处] 香乘·卷二十五·猎香新谱\n[药物] 沉香二斤，速香二斤，唵叭香三两，麝香五钱，金颜香四两，乳香二两，苏合油六两，檀香一斤，白芨末一斤八两，炼蜜一斤八两。\n[制备] 和成滚棒如前。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "originalAmount": "二斤",
+        "amount": 2,
+        "unit": "斤",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "速香",
+        "originalAmount": "二斤",
+        "amount": 2,
+        "unit": "斤",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "底文作速杳，按上下文校作速香"
+      },
+      {
+        "name": "唵叭香",
+        "originalAmount": "三两",
+        "amount": 3,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文即唵叭香；与龙涎香不是同一名物"
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "五钱",
+        "amount": 5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "金颜香",
+        "originalAmount": "四两",
+        "amount": 4,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "乳香",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "苏合油",
+        "originalAmount": "六两",
+        "amount": 6,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "一斤",
+        "amount": 1,
+        "unit": "斤",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "白及",
+        "originalAmount": "一斤八两",
+        "amount": 1.5,
+        "unit": "斤",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作白芨末；一斤八两按一斤半折入"
+      },
+      {
+        "name": "白蜜",
+        "originalAmount": "一斤八两",
+        "amount": 1.5,
+        "unit": "斤",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作炼蜜；一斤八两按一斤半折入"
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "high",
+    "flags": []
+  },
+  {
+    "id": "web_xiangcheng_25_huanglong_guaxiang",
+    "layer": "web",
+    "name": "黄龙挂香",
+    "source": "香乘·卷二十五·猎香新谱",
+    "type": "线香参考",
+    "method": "右炼蜜随用和匀为度，用线在内作成炷香，银丝作钩。",
+    "note": "原方有“用线在内作成炷香”线索，适合作为悬挂式线香/炷香结构参考。",
+    "originalText": "黄龙挂香\n[出处] 香乘·卷二十五·猎香新谱\n[药物] 檀香六两，沉香二两，速香六两，丁香一两，黑香三两，黄胭二两，乳香一两，木香一两，三柰五两，郎苔五钱，麝香一钱，苏合五钱，片脑五分，硝二钱，炭末四两。\n[制备] 右炼蜜随用和匀为度，用线在内作成炷香，银丝作钩。",
+    "ingredients": [
+      {
+        "name": "檀香",
+        "originalAmount": "六两",
+        "amount": 6,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "沉香",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "速香",
+        "originalAmount": "六两",
+        "amount": 6,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "丁香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "黑香",
+        "originalAmount": "三两",
+        "amount": 3,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "黄胭",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "保留原文名物；现无证据等同黄烟或金颜香"
+      },
+      {
+        "name": "乳香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "木香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "山柰",
+        "originalAmount": "五两",
+        "amount": 5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作三柰"
+      },
+      {
+        "name": "郎台",
+        "originalAmount": "五钱",
+        "amount": 5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作郎苔"
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "苏合香",
+        "originalAmount": "五钱",
+        "amount": 5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作苏合，按苏合香保留，不细化为苏合油"
+      },
+      {
+        "name": "龙脑",
+        "originalAmount": "五分",
+        "amount": 5,
+        "unit": "分",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作片脑"
+      },
+      {
+        "name": "硝",
+        "originalAmount": "二钱",
+        "amount": 2,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文仅作硝，具体硝类未明"
+      },
+      {
+        "name": "炭末",
+        "originalAmount": "四两",
+        "amount": 4,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文未指定木种，不并入杉木炭"
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "high",
+    "flags": []
+  },
+  {
+    "id": "web_xiangcheng_25_qingdao_yinlu",
+    "layer": "web",
+    "name": "清道引路香",
+    "source": "香乘·卷二十五·猎香新谱",
+    "type": "线香参考",
+    "method": "右炼蜜和匀，以竹作心，形如安席，大如蜡烛。",
+    "note": "原方有竹心成型线索，适合作为大型炷香/线香结构参考。",
+    "originalText": "清道引路香\n[出处] 香乘·卷二十五·猎香新谱\n[药物] 檀香六两，芸香四两，速香二两，黑香四两，大黄五钱，甘松六两，麝香壳二个，飞过樟脑二钱，硝一两，炭末四两。\n[制备] 右炼蜜和匀，以竹作心，形如安席，大如蜡烛。",
+    "ingredients": [
+      {
+        "name": "檀香",
+        "originalAmount": "六两",
+        "amount": 6,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "芸香",
+        "originalAmount": "四两",
+        "amount": 4,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "速香",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "黑香",
+        "originalAmount": "四两",
+        "amount": 4,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "大黄",
+        "originalAmount": "五钱",
+        "amount": 5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "甘松",
+        "originalAmount": "六两",
+        "amount": 6,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "二个",
+        "amount": 2,
+        "unit": "个",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作麝香壳二个，不作克重折算"
+      },
+      {
+        "name": "樟脑",
+        "originalAmount": "二钱",
+        "amount": 2,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作飞过樟脑"
+      },
+      {
+        "name": "硝",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文仅作硝，具体硝类未明"
+      },
+      {
+        "name": "炭末",
+        "originalAmount": "四两",
+        "amount": 4,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文未指定木种，不并入杉木炭"
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "high",
+    "flags": []
+  },
+  {
+    "id": "web_chenshi_3_songzhou_xiaomei",
+    "layer": "web",
+    "name": "嵩州副宫李元老笑梅香",
+    "source": "陈氏香谱·卷三·凝和诸香",
+    "type": "印香",
+    "method": "先入金颜香于乳钵内细研，次入牙硝及脑麝研细；余药别入杵臼内捣罗为末，同前药再入乳钵内研，滴水和剂，印作饼子阴干用。",
+    "note": "原方有滴水和剂、印作饼子线索，适合作香饼/印香参考。",
+    "originalText": "嵩州副宫李元老笑梅香\n[出处] 陈氏香谱·卷三·凝和诸香\n[药物] 沉香、檀香、白豆蔻仁、香附子、肉桂、龙脑、麝香、金颜香各一钱，白芨二钱，马牙硝二字，荔枝皮半钱。\n[制备] 右先入金颜香于乳钵内细研，次入牙硝及脑麝研细；余药别入杵臼内捣罗为末，同前药再入乳钵内研，滴水和剂，印作饼子阴干用。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "白豆蔻仁",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作白豆蔻仁"
+      },
+      {
+        "name": "香附子",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "肉桂",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "龙脑",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "金颜香",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "白及",
+        "originalAmount": "二钱",
+        "amount": 2,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作白芨"
+      },
+      {
+        "name": "马牙硝",
+        "originalAmount": "二字",
+        "amount": 2,
+        "unit": "字",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "荔枝皮",
+        "originalAmount": "半钱",
+        "amount": 0.5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "sui_tang_song_yuan_research",
+    "unitProfileConfidence": "high",
+    "flags": []
+  },
+  {
+    "id": "web_chenshi_3_xiaolan_huangshu",
+    "layer": "web",
+    "name": "笑兰香（黄熟香本）",
+    "source": "陈氏香谱·卷三·凝和诸香",
+    "type": "合香",
+    "method": "右除麝香别研外，余六味同捣为末，炼蜜搜拌成膏，窨如常法。",
+    "note": "黄熟香入方的兰香系合香，可作气味结构参考。",
+    "originalText": "笑兰香（黄熟香本）\n[出处] 陈氏香谱·卷三·凝和诸香\n[药物] 白檀香、丁香、栈香、玄参各一两，甘松半两，黄熟香二两，麝香一分。\n[制备] 右除麝香别研外，余六味同捣为末，炼蜜搜拌成膏，窨如常法。",
+    "ingredients": [
+      {
+        "name": "檀香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作白檀香"
+      },
+      {
+        "name": "丁香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "栈香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "玄参",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "甘松",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "黄熟香",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "一分",
+        "amount": 1,
+        "unit": "分",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "sui_tang_song_yuan_research",
+    "unitProfileConfidence": "high",
+    "flags": []
+  },
+  {
+    "id": "web_chenshi_3_lanruixiang",
+    "layer": "web",
+    "name": "兰蕋香",
+    "source": "陈氏香谱·卷三·凝和诸香",
+    "type": "香饼",
+    "method": "右细末，以蒸鹅梨汁和为饼子，窨干如常法。",
+    "note": "梨汁和饼，适合作为清润花香系香饼参考。",
+    "originalText": "兰蕋香\n[出处] 陈氏香谱·卷三·凝和诸香\n[药物] 栈香、檀香各三钱，乳香一钱，丁香三十粒，麝香半钱。\n[制备] 右细末，以蒸鹅梨汁和为饼子，窨干如常法。",
+    "ingredients": [
+      {
+        "name": "栈香",
+        "originalAmount": "三钱",
+        "amount": 3,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "三钱",
+        "amount": 3,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "乳香",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "丁香",
+        "originalAmount": "三十粒",
+        "amount": 30,
+        "unit": "粒",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "半钱",
+        "amount": 0.5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "鹅梨",
+        "originalAmount": "汁适量",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作蒸鹅梨汁和为饼子"
+      }
+    ],
+    "unitProfileId": "sui_tang_song_yuan_research",
+    "unitProfileConfidence": "high",
+    "flags": []
+  },
+  {
+    "id": "web_chenshi_3_lameixiang",
+    "layer": "web",
+    "name": "蜡梅香（陈氏香谱本）",
+    "source": "陈氏香谱·卷三·凝和诸香",
+    "type": "香饼",
+    "method": "右为细末，生蜜和剂。",
+    "note": "与库中《武氏香谱》本相近，作为可溯源的陈氏香谱版本保留。",
+    "originalText": "蜡梅香（陈氏香谱本）\n[出处] 陈氏香谱·卷三·凝和诸香\n[药物] 沉香、檀香各三钱，丁香六钱，龙脑半钱，麝香一钱。\n[制备] 右为细末，生蜜和剂。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "originalAmount": "三钱",
+        "amount": 3,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "三钱",
+        "amount": 3,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "丁香",
+        "originalAmount": "六钱",
+        "amount": 6,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "龙脑",
+        "originalAmount": "半钱",
+        "amount": 0.5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "蜂蜜",
+        "originalAmount": "适量",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作生蜜和剂"
+      }
+    ],
+    "unitProfileId": "sui_tang_song_yuan_research",
+    "unitProfileConfidence": "high",
+    "flags": []
+  },
+  {
+    "id": "web_chenshi_3_jiangmeixiang",
+    "layer": "web",
+    "name": "江梅香（陈氏香谱本）",
+    "source": "陈氏香谱·卷三·凝和诸香",
+    "type": "香饼",
+    "method": "右为末，炼蜜和匀，捻饼子，以银叶衬烧之。",
+    "note": "陈氏香谱可溯源版本；建茶汤用于调洗脑麝，保留在备注。",
+    "originalText": "江梅香（陈氏香谱本）\n[出处] 陈氏香谱·卷三·凝和诸香\n[药物] 零陵香、藿香、丁香各半两，茴香半钱，龙脑少许，麝香少许；乳钵内研，以建茶汤和洗之。\n[制备] 右为末，炼蜜和匀，捻饼子，以银叶衬烧之。",
+    "ingredients": [
+      {
+        "name": "零陵香",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "藿香",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "丁香",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "茴香",
+        "originalAmount": "半钱",
+        "amount": 0.5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "龙脑",
+        "originalAmount": "少许",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "少许",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "建茶",
+        "originalAmount": "汤适量",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作建茶汤和洗之；保留宋代建州茶名物"
+      },
+      {
+        "name": "白蜜",
+        "originalAmount": "适量",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作炼蜜和匀"
+      }
+    ],
+    "unitProfileId": "sui_tang_song_yuan_research",
+    "unitProfileConfidence": "high",
+    "flags": []
+  },
+  {
+    "id": "web_chenshi_3_muxi_chentan_maoxiang",
+    "layer": "web",
+    "name": "木犀香（沉檀茅香本）",
+    "source": "陈氏香谱·卷三·凝和诸香",
+    "type": "香饼",
+    "method": "右为末，以半开木犀花十二两择去蒂研成膏，搜作剂，入石臼杵千百下，脱花样，当风处阴干。",
+    "note": "木犀花入方，适合作为花香型香饼参考。",
+    "originalText": "木犀香（沉檀茅香本）\n[出处] 陈氏香谱·卷三·凝和诸香\n[药物] 沉香、檀香各半两，茅香一两，半开木犀花十二两。\n[制备] 右为末，以半开木犀花十二两择去蒂研成膏，搜作剂，入石臼杵千百下，脱花样，当风处阴干。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "茅香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "桂花",
+        "originalAmount": "十二两",
+        "amount": 12,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作半开木犀花"
+      }
+    ],
+    "unitProfileId": "sui_tang_song_yuan_research",
+    "unitProfileConfidence": "high",
+    "flags": []
+  },
+  {
+    "id": "web_chenshi_3_xuezhong_chunxin_15",
+    "layer": "web",
+    "name": "雪中春信（十五味本）",
+    "source": "陈氏香谱·卷三·凝和诸香",
+    "type": "香饼",
+    "method": "右为末，炼蜜和饼如棋子大，或脱花样，烧如常法。",
+    "note": "材料层次较完整，适合作梅香/春信类结构参考。",
+    "originalText": "雪中春信（十五味本）\n[出处] 陈氏香谱·卷三·凝和诸香\n[药物] 沉香一两，白檀、丁香、木香各半两，甘松、藿香、零陵香各七钱半，回鹘香附子、白芷、当归、官桂、麝香各三钱，槟榔、豆蔻各一枚。\n[制备] 右为末，炼蜜和饼如棋子大，或脱花样，烧如常法。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作白檀"
+      },
+      {
+        "name": "丁香",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "木香",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "甘松",
+        "originalAmount": "七钱半",
+        "amount": 7.5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "藿香",
+        "originalAmount": "七钱半",
+        "amount": 7.5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "零陵香",
+        "originalAmount": "七钱半",
+        "amount": 7.5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "香附子",
+        "originalAmount": "三钱",
+        "amount": 3,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作回鹘香附子"
+      },
+      {
+        "name": "白芷",
+        "originalAmount": "三钱",
+        "amount": 3,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "当归",
+        "originalAmount": "三钱",
+        "amount": 3,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "官桂",
+        "originalAmount": "三钱",
+        "amount": 3,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "三钱",
+        "amount": 3,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "槟榔",
+        "originalAmount": "一枚",
+        "amount": 1,
+        "unit": "枚",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "荳蔻",
+        "originalAmount": "一枚",
+        "amount": 1,
+        "unit": "枚",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作豆蔻"
+      },
+      {
+        "name": "白蜜",
+        "originalAmount": "适量",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作炼蜜和饼"
+      }
+    ],
+    "unitProfileId": "sui_tang_song_yuan_research",
+    "unitProfileConfidence": "high",
+    "flags": []
+  },
+  {
+    "id": "web_chenshi_3_yehuaxiang_zhan_tan",
+    "layer": "web",
+    "name": "野花香（栈檀降真本）",
+    "source": "陈氏香谱·卷三·凝和诸香",
+    "type": "香饼",
+    "method": "右为细末，入炭末拌匀，以炼蜜和剂，捻作饼子，地窨烧之；如要烟聚，入制过甲香一字即不散。",
+    "note": "栈香、檀香、降真香三木质骨架清楚，可作香气结构参考。",
+    "originalText": "野花香（栈檀降真本）\n[出处] 陈氏香谱·卷三·凝和诸香\n[药物] 栈香、檀香、降真香各一钱，舶上丁皮三分，龙脑一钱，麝香半字，炭末半两；要烟聚，入制过甲香一字。\n[制备] 右为细末，入炭末拌匀，以炼蜜和剂，捻作饼子，地窨烧之。",
+    "ingredients": [
+      {
+        "name": "栈香",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "降真香",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "丁香皮",
+        "originalAmount": "三分",
+        "amount": 3,
+        "unit": "分",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作舶上丁皮"
+      },
+      {
+        "name": "龙脑",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "半字",
+        "amount": 0.5,
+        "unit": "字",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "炭末",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文未指定木种，不并入杉木炭"
+      },
+      {
+        "name": "甲香",
+        "originalAmount": "一字",
+        "amount": 1,
+        "unit": "字",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作如要烟聚，入制过甲香一字"
+      },
+      {
+        "name": "白蜜",
+        "originalAmount": "适量",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作炼蜜和剂"
+      }
+    ],
+    "unitProfileId": "sui_tang_song_yuan_research",
+    "unitProfileConfidence": "high",
+    "flags": []
+  },
+  {
+    "id": "web_chenshi_3_guizhixiang",
+    "layer": "web",
+    "name": "桂枝香",
+    "source": "陈氏香谱·卷三·凝和诸香",
+    "type": "合香",
+    "method": "右劈碎，以水浸香上一指，蒸干为末，蜜剂焚。",
+    "note": "沉香、降真香等分，工艺简洁，适合作气味结构参考。",
+    "originalText": "桂枝香\n[出处] 陈氏香谱·卷三·凝和诸香\n[药物] 沉香、降真香各等分。\n[制备] 右劈碎，以水浸香上一指，蒸干为末，蜜剂焚。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "originalAmount": "等分",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作沉香、降真香各等分"
+      },
+      {
+        "name": "降真香",
+        "originalAmount": "等分",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作沉香、降真香各等分"
+      },
+      {
+        "name": "白蜜",
+        "originalAmount": "适量",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作蜜剂焚"
+      }
+    ],
+    "unitProfileId": "sui_tang_song_yuan_research",
+    "unitProfileConfidence": "high",
+    "flags": []
+  },
+  {
+    "id": "web_chenshi_3_wugudao_shilanghua",
+    "layer": "web",
+    "name": "吴顾道侍郎花香",
+    "source": "陈氏香谱·卷三·凝和诸香",
+    "type": "合香",
+    "method": "白檀细锉，以蜜热汤化开浸三宿，取出炒同捣末；麝香另研，腊茶汤点澄清用稠脚；同拌，以白蜜搜和，入乳钵槌碎数百，贮瓷器，熔蜡固缝，地窨月余。",
+    "note": "茶、蜜、檀、麝构成的窨藏合香，可作梅兰花香系工艺参考。",
+    "originalText": "吴顾道侍郎花香\n[出处] 陈氏香谱·卷三·凝和诸香\n[药物] 白檀五两，蜜二两，麝香一钱，腊茶一钱，白蜜八两。\n[制备] 白檀细锉，以蜜二两热汤化开浸香三宿，取出炒同捣为末；麝香另研，腊茶一钱汤点澄清用稠脚；右同拌令匀，以白蜜八两搜和，入乳钵槌碎数百，贮瓷器，熔蜡固缝，地窨月余可爇。",
+    "ingredients": [
+      {
+        "name": "檀香",
+        "originalAmount": "五两",
+        "amount": 5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作白檀"
+      },
+      {
+        "name": "蜂蜜",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作蜜二两，用于浸香"
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "腊茶",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "白蜜",
+        "originalAmount": "八两",
+        "amount": 8,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作白蜜八两，用于搜和"
+      }
+    ],
+    "unitProfileId": "sui_tang_song_yuan_research",
+    "unitProfileConfidence": "high",
+    "flags": []
+  },
+  {
+    "id": "web_chenshi_3_baizixiang",
+    "layer": "web",
+    "name": "柏子香",
+    "source": "陈氏香谱·卷三·凝和诸香",
+    "type": "熏香",
+    "method": "右以沸汤焯过，细切，以酒浸密封七日，取出阴干爇之。",
+    "note": "单味柏子实处理法，适合作香材处理方式参考。",
+    "originalText": "柏子香\n[出处] 陈氏香谱·卷三·凝和诸香\n[药物] 柏子实不计多少，带青色未破未开者。\n[制备] 右以沸汤焯过，细切，以酒浸密封七日，取出阴干爇之。",
+    "ingredients": [
+      {
+        "name": "柏子",
+        "originalAmount": "不计多少",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作柏子实，带青色未破未开者；并非去壳种仁"
+      }
+    ],
+    "unitProfileId": "sui_tang_song_yuan_research",
+    "unitProfileConfidence": "high",
+    "flags": []
+  },
+  {
+    "id": "web_chenshi_3_dazhenxiang",
+    "layer": "web",
+    "name": "大真香",
+    "source": "陈氏香谱·卷三·凝和诸香",
+    "type": "香饼",
+    "method": "右为细末，和匀，重汤煮蜜为膏，作饼子，窨一月烧。",
+    "note": "沉、檀、栈、甲、脑、麝骨架清楚，可作树脂木质香饼参考。",
+    "originalText": "大真香\n[出处] 陈氏香谱·卷三·凝和诸香\n[药物] 沉香一两半，白檀一两，白蜜半盏相和蒸干，栈香二两，甲香一两，脑、麝各一钱。\n[制备] 右为细末，和匀，重汤煮蜜为膏，作饼子，窨一月烧。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "originalAmount": "一两半",
+        "amount": 1.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作白檀"
+      },
+      {
+        "name": "白蜜",
+        "originalAmount": "半盏",
+        "amount": 0.5,
+        "unit": "盏",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作白蜜半盏相和蒸干"
+      },
+      {
+        "name": "栈香",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "甲香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "龙脑",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作脑、麝各一钱"
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作脑、麝各一钱"
+      }
+    ],
+    "unitProfileId": "sui_tang_song_yuan_research",
+    "unitProfileConfidence": "high",
+    "flags": []
+  },
+  {
+    "id": "web_chenshi_3_dadongzhenxiang",
+    "layer": "web",
+    "name": "大洞真香",
+    "source": "陈氏香谱·卷三·凝和诸香",
+    "type": "香饼",
+    "method": "右细末，炼蜜和膏，爇之。",
+    "note": "乳、檀、栈、沉、甘松、零陵香构成的温润合香。",
+    "originalText": "大洞真香\n[出处] 陈氏香谱·卷三·凝和诸香\n[药物] 乳香、白檀、栈香、丁皮、沉香各一两，甘松半两，零陵香。\n[制备] 右细末，炼蜜和膏，爇之。",
+    "ingredients": [
+      {
+        "name": "乳香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作白檀"
+      },
+      {
+        "name": "栈香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "丁香皮",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作丁皮"
+      },
+      {
+        "name": "沉香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "甘松",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "零陵香",
+        "originalAmount": "未注明",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文列零陵香，未见清晰剂量"
+      },
+      {
+        "name": "白蜜",
+        "originalAmount": "适量",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作炼蜜和膏"
+      }
+    ],
+    "unitProfileId": "sui_tang_song_yuan_research",
+    "unitProfileConfidence": "high",
+    "flags": []
+  },
+  {
+    "id": "web_chenshi_3_yuruixiang_baihua",
+    "layer": "web",
+    "name": "玉蕋香",
+    "source": "陈氏香谱·卷三·凝和诸香",
+    "type": "合香",
+    "method": "炼蜜为膏，和窨如常法。",
+    "note": "又名百花香，与兰香体系近似，适合作花香合香结构参考。",
+    "originalText": "玉蕋香\n[出处] 陈氏香谱·卷三·凝和诸香\n[药物] 一名百花香。白檀、丁香、栈香、玄参各一两，甘松半两，黄熟香二两，麝一分。\n[制备] 炼蜜为膏，和窨如常法。",
+    "ingredients": [
+      {
+        "name": "檀香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作白檀"
+      },
+      {
+        "name": "丁香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "栈香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "玄参",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "甘松",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "黄熟香",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "一分",
+        "amount": 1,
+        "unit": "分",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作麝"
+      },
+      {
+        "name": "白蜜",
+        "originalAmount": "适量",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作炼蜜为膏"
+      }
+    ],
+    "unitProfileId": "sui_tang_song_yuan_research",
+    "unitProfileConfidence": "high",
+    "flags": []
+  },
+  {
+    "id": "web_chenshi_3_yehuaxiang_chentan_dingxiang",
+    "layer": "web",
+    "name": "野花香（沉檀丁香本）",
+    "source": "陈氏香谱·卷三·凝和诸香",
+    "type": "香饼",
+    "method": "右以蜜一斤重汤炼过，先研脑、麝和匀，入香搜蜜作剂，杵数百，瓷盒地窨，旋取捻饼子烧之。",
+    "note": "沉檀丁香皮与紫藤香组合，可作野花香气结构参考。",
+    "originalText": "野花香（沉檀丁香本）\n[出处] 陈氏香谱·卷三·凝和诸香\n[药物] 沉香、檀香、丁香、丁香皮、紫藤香各半两，麝香二钱，樟脑少许，杉木炭八两。\n[制备] 右以蜜一斤重汤炼过，先研脑、麝和匀，入香搜蜜作剂，杵数百，瓷盒地窨，旋取捻饼子烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "丁香",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "丁香皮",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "紫藤香",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "二钱",
+        "amount": 2,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "樟脑",
+        "originalAmount": "少许",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "杉木炭",
+        "originalAmount": "八两",
+        "amount": 8,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "白蜜",
+        "originalAmount": "一斤",
+        "amount": 1,
+        "unit": "斤",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作蜜一斤"
+      }
+    ],
+    "unitProfileId": "sui_tang_song_yuan_research",
+    "unitProfileConfidence": "high",
+    "flags": []
+  },
+  {
+    "id": "web_chenshi_3_yehuaxiang_zhan_tan_three",
+    "layer": "web",
+    "name": "野花香（栈檀降真三两本）",
+    "source": "陈氏香谱·卷三·凝和诸香",
+    "type": "香饼",
+    "method": "右除脑、麝别研外，余捣罗为末，入脑、麝拌匀；杉木炭烧存性为末，炼蜜和剂，入臼杵三五百下，瓷器内收贮，旋取分爇之。",
+    "note": "较厚重的三木质野花香本，适合作为香饼结构参考。",
+    "originalText": "野花香（栈檀降真三两本）\n[出处] 陈氏香谱·卷三·凝和诸香\n[药物] 栈香、檀香、降真香各三两，丁香皮一两，韶脑二钱，麝香一字。\n[制备] 右除脑、麝别研外，余捣罗为末，入脑、麝拌匀；杉木炭三两烧存性为末，炼蜜和剂，入臼杵三五百下，瓷器内收贮，旋取分爇之。",
+    "ingredients": [
+      {
+        "name": "栈香",
+        "originalAmount": "三两",
+        "amount": 3,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "三两",
+        "amount": 3,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "降真香",
+        "originalAmount": "三两",
+        "amount": 3,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "丁香皮",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "龙脑",
+        "originalAmount": "二钱",
+        "amount": 2,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作韶脑"
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "一字",
+        "amount": 1,
+        "unit": "字",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "杉木炭",
+        "originalAmount": "三两",
+        "amount": 3,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作杉木炭三两烧存性为末"
+      },
+      {
+        "name": "白蜜",
+        "originalAmount": "适量",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作炼蜜和剂"
+      }
+    ],
+    "unitProfileId": "sui_tang_song_yuan_research",
+    "unitProfileConfidence": "high",
+    "flags": []
+  },
+  {
+    "id": "web_chenshi_3_lizhixiang",
+    "layer": "web",
+    "name": "荔枝香（陈氏香谱本）",
+    "source": "陈氏香谱·卷三·凝和诸香",
+    "type": "香饼",
+    "method": "右先将金颜香于乳钵内细研，次入牙硝、脑、麝别研；诸香为末，入金颜研匀，滴水和剂，脱花爇。",
+    "note": "荔枝皮、豆蔻、肉桂入方，适合作果皮辛香系香饼参考。",
+    "originalText": "荔枝香（陈氏香谱本）\n[出处] 陈氏香谱·卷三·凝和诸香\n[药物] 沉香、檀香、白豆蔻仁、西香附子、肉桂、金颜香各一钱，马牙硝、龙脑、麝香各半钱，白芨、新荔枝皮各二钱。\n[制备] 右先将金颜香于乳钵内细研，次入牙硝、脑、麝别研；诸香为末，入金颜研匀，滴水和剂，脱花爇。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "白豆蔻仁",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作白豆蔻仁"
+      },
+      {
+        "name": "香附子",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作西香附子"
+      },
+      {
+        "name": "肉桂",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "金颜香",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "马牙硝",
+        "originalAmount": "半钱",
+        "amount": 0.5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "龙脑",
+        "originalAmount": "半钱",
+        "amount": 0.5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "半钱",
+        "amount": 0.5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "白及",
+        "originalAmount": "二钱",
+        "amount": 2,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作白芨"
+      },
+      {
+        "name": "荔枝皮",
+        "originalAmount": "二钱",
+        "amount": 2,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作新荔枝皮"
+      }
+    ],
+    "unitProfileId": "sui_tang_song_yuan_research",
+    "unitProfileConfidence": "high",
+    "flags": []
+  },
+  {
+    "id": "web_chenshi_3_baihuaxiang",
+    "layer": "web",
+    "name": "百花香（陈氏香谱本）",
+    "source": "陈氏香谱·卷三·凝和诸香",
+    "type": "香饼",
+    "method": "右为细末，罗匀，以生蜜搜和，捣百卅杵，捻作饼子，入瓷盒封窨如常法爇。",
+    "note": "甘松、栈香、沉香、檀香、砂仁、肉豆蔻等多层结构，可作百花香系参考。",
+    "originalText": "百花香（陈氏香谱本）\n[出处] 陈氏香谱·卷三·凝和诸香\n[药物] 甘松、栈香、沉香、玄参各一两，檀香半两，丁香、腊茶半钱，麝香另研，缩砂仁、肉豆蔻各一钱，龙脑半钱。\n[制备] 右为细末，罗匀，以生蜜搜和，捣百卅杵，捻作饼子，入瓷盒封窨如常法爇。",
+    "ingredients": [
+      {
+        "name": "甘松",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作甘松去土"
+      },
+      {
+        "name": "栈香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作锉碎如米"
+      },
+      {
+        "name": "沉香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文与腊茶末同煮半日"
+      },
+      {
+        "name": "玄参",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作筋脉少者洗净槌碎炒焦"
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作锉如豆，以鹅梨汁蒸"
+      },
+      {
+        "name": "丁香",
+        "originalAmount": "半钱",
+        "amount": 0.5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文与腊茶半钱同煮半日"
+      },
+      {
+        "name": "腊茶",
+        "originalAmount": "半钱",
+        "amount": 0.5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "适量",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作另研"
+      },
+      {
+        "name": "砂仁",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作缩砂仁"
+      },
+      {
+        "name": "肉豆蔻",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "龙脑",
+        "originalAmount": "半钱",
+        "amount": 0.5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "白蜜",
+        "originalAmount": "适量",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作生蜜搜和"
+      }
+    ],
+    "unitProfileId": "sui_tang_song_yuan_research",
+    "unitProfileConfidence": "high",
+    "flags": []
+  },
+  {
+    "id": "web_xiangcheng_25_yuelinxiang",
+    "layer": "web",
+    "name": "越邻香",
+    "source": "香乘·卷二十五·猎香新谱",
+    "type": "线香参考",
+    "method": "以白芨汁上竹篾。",
+    "note": "原方有“上竹篾”成型线索，适合作签香/线香结构参考。",
+    "originalText": "越邻香\n[出处] 香乘·卷二十五·猎香新谱\n[药物] 檀香六两，沉香四两，黑香四两，丁香一两五钱，木香一两，黄脂、乳香各一两，藿香二两，郎苔二两，速香六两，麝香五钱，片脑一钱，广零陵二两，榄油一两五钱，甲香五钱。\n[制备] 以白芨汁上竹篾。",
+    "ingredients": [
+      {
+        "name": "檀香",
+        "originalAmount": "六两",
+        "amount": 6,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "沉香",
+        "originalAmount": "四两",
+        "amount": 4,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "黑香",
+        "originalAmount": "四两",
+        "amount": 4,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "丁香",
+        "originalAmount": "一两五钱",
+        "amount": 1.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "木香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "黄脂",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "乳香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "藿香",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "郎台",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作郎苔"
+      },
+      {
+        "name": "速香",
+        "originalAmount": "六两",
+        "amount": 6,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "五钱",
+        "amount": 5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "龙脑",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作片脑"
+      },
+      {
+        "name": "零陵香",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作广零陵"
+      },
+      {
+        "name": "橄榄油",
+        "originalAmount": "一两五钱",
+        "amount": 1.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作榄油"
+      },
+      {
+        "name": "甲香",
+        "originalAmount": "五钱",
+        "amount": 5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "白及",
+        "originalAmount": "汁适量",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作白芨汁上竹篾"
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "high",
+    "flags": []
+  },
+  {
+    "id": "web_xiangcheng_25_gongshun_shoubing",
+    "layer": "web",
+    "name": "恭顺寿香饼",
+    "source": "香乘·卷二十五·猎香新谱",
+    "type": "香饼",
+    "method": "以白芨随用为末，印饼。",
+    "note": "原文有白芨成型与印饼线索，适合香饼/线香改作参考。",
+    "originalText": "恭顺寿香饼\n[出处] 香乘·卷二十五·猎香新谱\n[药物] 檀香四两，沉香二两，速香四两，黄脂一两，郎苔一两，零陵二两，丁香五钱，乳香五钱，藿香三钱，黑香五钱，肉桂五钱，木香五钱，甲香一两，苏合一两五钱，大黄二钱，三柰一钱，官桂一钱，片脑一钱，麝香一钱五，龙涎一钱五分。\n[制备] 以白芨随用为末，印饼。",
+    "ingredients": [
+      {
+        "name": "檀香",
+        "originalAmount": "四两",
+        "amount": 4,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "沉香",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "速香",
+        "originalAmount": "四两",
+        "amount": 4,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "黄脂",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "郎台",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作郎苔"
+      },
+      {
+        "name": "零陵香",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作零陵"
+      },
+      {
+        "name": "丁香",
+        "originalAmount": "五钱",
+        "amount": 5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "乳香",
+        "originalAmount": "五钱",
+        "amount": 5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "藿香",
+        "originalAmount": "三钱",
+        "amount": 3,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "黑香",
+        "originalAmount": "五钱",
+        "amount": 5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "肉桂",
+        "originalAmount": "五钱",
+        "amount": 5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "木香",
+        "originalAmount": "五钱",
+        "amount": 5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "甲香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "苏合香",
+        "originalAmount": "一两五钱",
+        "amount": 1.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作苏合，不细化为苏合油"
+      },
+      {
+        "name": "大黄",
+        "originalAmount": "二钱",
+        "amount": 2,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "山柰",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作三柰"
+      },
+      {
+        "name": "官桂",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "龙脑",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作片脑"
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "一钱五分",
+        "amount": 1.5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "龙涎香",
+        "originalAmount": "一钱五分",
+        "amount": 1.5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作龙涎"
+      },
+      {
+        "name": "白及",
+        "originalAmount": "随用为末",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作白芨随用为末"
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "high",
+    "flags": []
+  },
+  {
+    "id": "web_xiangcheng_25_juanhui_shoudai",
+    "layer": "web",
+    "name": "卷灰寿带香",
+    "source": "香乘·卷二十五·猎香新谱",
+    "type": "线香",
+    "method": "右共为极细末，滚水和，作绝细线香。",
+    "note": "原文明确“作绝细线香”，是线香试做参考中的高价值条目；其中特殊辅料仅作原文保留。",
+    "originalText": "卷灰寿带香\n[出处] 香乘·卷二十五·猎香新谱\n[药物] 檀香六两，速香四两，片脑三分，茅香一两，降香一钱，丁香二钱，木香一两，大黄五钱，桂枝三钱，硝二钱，连翘五钱，柏铃三钱，荔枝核五钱，蚯蚓粪八钱，榆面六钱。\n[制备] 右共为极细末，滚水和，作绝细线香。",
+    "ingredients": [
+      {
+        "name": "檀香",
+        "originalAmount": "六两",
+        "amount": 6,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "速香",
+        "originalAmount": "四两",
+        "amount": 4,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "龙脑",
+        "originalAmount": "三分",
+        "amount": 3,
+        "unit": "分",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作片脑"
+      },
+      {
+        "name": "茅香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "降真香",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作降香"
+      },
+      {
+        "name": "丁香",
+        "originalAmount": "二钱",
+        "amount": 2,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "木香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "大黄",
+        "originalAmount": "五钱",
+        "amount": 5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "桂枝",
+        "originalAmount": "三钱",
+        "amount": 3,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文即桂枝，不并入官桂"
+      },
+      {
+        "name": "硝",
+        "originalAmount": "二钱",
+        "amount": 2,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文仅作硝，具体硝类未明"
+      },
+      {
+        "name": "连翘",
+        "originalAmount": "五钱",
+        "amount": 5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "柏铃",
+        "originalAmount": "三钱",
+        "amount": 3,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "荔枝核",
+        "originalAmount": "五钱",
+        "amount": 5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "蚯蚓粪",
+        "originalAmount": "八钱",
+        "amount": 8,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "特殊辅料，保留原文，不作现代使用建议"
+      },
+      {
+        "name": "榆皮粉",
+        "originalAmount": "六钱",
+        "amount": 6,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作榆面"
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "high",
+    "flags": []
+  },
+  {
+    "id": "web_xiangcheng_23_sishi_qingwei",
+    "layer": "web",
+    "name": "四时清味香",
+    "source": "香乘·卷二十三·晦斋香谱",
+    "type": "香饼",
+    "method": "右为末，炼蜜和剂作饼，用铅粉黄为衣焚之。",
+    "note": "晦斋香谱五方真炁香之一；前台仅作焚香方资料和比例参考，铅粉衣不作为现代试作建议。",
+    "originalText": "四时清味香\n[出处] 香乘·卷二十三·晦斋香谱\n[药物] 茴香一钱半，丁香一钱半，零陵香五钱，檀香八钱，甘松一两，脑麝少许另研。\n[制备] 右为末，炼蜜和剂作饼，用铅粉黄为衣焚之。",
+    "ingredients": [
+      {
+        "name": "茴香",
+        "originalAmount": "一钱半",
+        "amount": 1.5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "丁香",
+        "originalAmount": "一钱半",
+        "amount": 1.5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "零陵香",
+        "originalAmount": "五钱",
+        "amount": 5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "八钱",
+        "amount": 8,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "甘松",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "龙脑",
+        "originalAmount": "少许",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作脑麝少许，另研"
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "少许",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作脑麝少许，另研"
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "high",
+    "flags": []
+  },
+  {
+    "id": "web_xiangcheng_23_tihu",
+    "layer": "web",
+    "name": "醍醐香",
+    "source": "香乘·卷二十三·晦斋香谱",
+    "type": "香饼",
+    "method": "右为末，入麝少许，炼蜜和剂作饼焚之。",
+    "note": "据中哲网《香乘卷二十三》整理，保留古方原文语境，制作前仍需小样试作。",
+    "originalText": "醍醐香\n[出处] 香乘·卷二十三·晦斋香谱\n[药物] 乳香、沉香各二钱半，檀香一两半。\n[制备] 右为末，入麝少许，炼蜜和剂作饼焚之。",
+    "ingredients": [
+      {
+        "name": "乳香",
+        "originalAmount": "二钱半",
+        "amount": 2.5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "沉香",
+        "originalAmount": "二钱半",
+        "amount": 2.5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "一两半",
+        "amount": 1.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "少许",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作入麝少许"
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "high",
+    "flags": []
+  },
+  {
+    "id": "web_xiangcheng_23_ruihe",
+    "layer": "web",
+    "name": "瑞和香",
+    "source": "香乘·卷二十三·晦斋香谱",
+    "type": "香饼",
+    "method": "右为末，炼蜜和剂作饼焚之。",
+    "note": "据中哲网《香乘卷二十三》整理，保留古方原文语境，制作前仍需小样试作。",
+    "originalText": "瑞和香\n[出处] 香乘·卷二十三·晦斋香谱\n[药物] 金沙降、檀香、丁香、茅香、零陵香、乳香各一两，藿香二钱。\n[制备] 右为末，炼蜜和剂作饼焚之。",
+    "ingredients": [
+      {
+        "name": "金沙降",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "归入降真香体系，方内保留原称"
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "丁香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "茅香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "零陵香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "乳香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "藿香",
+        "originalAmount": "二钱",
+        "amount": 2,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "high",
+    "flags": []
+  },
+  {
+    "id": "web_xiangcheng_23_baolu",
+    "layer": "web",
+    "name": "宝炉香",
+    "source": "香乘·卷二十三·晦斋香谱",
+    "type": "香饼",
+    "method": "右为末，入麝一字，白芨水和剂作饼焚之。",
+    "note": "据中哲网《香乘卷二十三》整理，保留古方原文语境，制作前仍需小样试作。",
+    "originalText": "宝炉香\n[出处] 香乘·卷二十三·晦斋香谱\n[药物] 丁香皮、甘草、藿香、樟脑各一钱，香芷五钱，乳香二钱。\n[制备] 右为末，入麝一字，白芨水和剂作饼焚之。",
+    "ingredients": [
+      {
+        "name": "丁香皮",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "甘草",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "藿香",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "樟脑",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "白芷",
+        "originalAmount": "五钱",
+        "amount": 5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作香芷"
+      },
+      {
+        "name": "乳香",
+        "originalAmount": "二钱",
+        "amount": 2,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "一字",
+        "amount": 1,
+        "unit": "字",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "白及",
+        "originalAmount": "白芨水",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作白芨水和剂"
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "high",
+    "flags": []
+  },
+  {
+    "id": "web_xiangcheng_23_cuiping",
+    "layer": "web",
+    "name": "翠屏香",
+    "source": "香乘·卷二十三·晦斋香谱",
+    "type": "香饼",
+    "method": "右为末，炼蜜和剂作饼焚之。",
+    "note": "原文称宜花馆翠屏间焚之，前台仅保留为场景语境，不做功效表达。",
+    "originalText": "翠屏香\n[出处] 香乘·卷二十三·晦斋香谱\n[药物] 沉香二钱半，檀香五钱，速香略炒、苏合香各七钱五分。\n[制备] 右为末，炼蜜和剂作饼焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "originalAmount": "二钱半",
+        "amount": 2.5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "五钱",
+        "amount": 5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "速香",
+        "originalAmount": "七钱五分",
+        "amount": 7.5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作速香略炒"
+      },
+      {
+        "name": "苏合香",
+        "originalAmount": "七钱五分",
+        "amount": 7.5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "high",
+    "flags": [
+      "editorial_efficacy"
+    ]
+  },
+  {
+    "id": "web_xiangcheng_23_jinsi",
+    "layer": "web",
+    "name": "金丝香",
+    "source": "香乘·卷二十三·晦斋香谱",
+    "type": "香饼",
+    "method": "右为末，炼蜜和剂作饼焚之。",
+    "note": "据中哲网《香乘卷二十三》整理，保留古方原文语境，制作前仍需小样试作。",
+    "originalText": "金丝香\n[出处] 香乘·卷二十三·晦斋香谱\n[药物] 茅香一两，金沙降、檀香、甘松、白芷各一钱。\n[制备] 右为末，炼蜜和剂作饼焚之。",
+    "ingredients": [
+      {
+        "name": "茅香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "金沙降",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "归入降真香体系，方内保留原称"
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "甘松",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "白芷",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "high",
+    "flags": []
+  },
+  {
+    "id": "web_xiangcheng_23_yaochi_qingwei",
+    "layer": "web",
+    "name": "瑶池清味香",
+    "source": "香乘·卷二十三·晦斋香谱",
+    "type": "线香",
+    "method": "右为末，将芸香、脑、麝、硝另研同拌匀；每香末四升兑柏泥二升，共六升，加白芨末一升，清水和杵匀，造作线香。",
+    "note": "原文明确“造作线香”，为线香试作参考重点条目；方中柏泥、白芨为成型结构线索。",
+    "originalText": "瑶池清味香\n[出处] 香乘·卷二十三·晦斋香谱\n[药物] 檀香、金沙降、丁香各七钱半，沉速香、速香、官桂、藁本、蜘蛛香、羌活各一两，三柰、良姜、白芷各一两半，甘松、大黄各二两，芸香、樟脑各二钱，硝六钱，麝香三分。\n[制备] 右为末，将芸香、脑、麝、硝另研同拌匀；每香末四升兑柏泥二升，共六升，加白芨末一升，清水和杵匀，造作线香。",
+    "ingredients": [
+      {
+        "name": "檀香",
+        "originalAmount": "七钱半",
+        "amount": 7.5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "金沙降",
+        "originalAmount": "七钱半",
+        "amount": 7.5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "归入降真香体系，方内保留原称"
+      },
+      {
+        "name": "丁香",
+        "originalAmount": "七钱半",
+        "amount": 7.5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "沉速香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "速香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "官桂",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "藁本",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "底文作本，按香材语境校作藁本"
+      },
+      {
+        "name": "蜘蛛香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "羌活",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "山柰",
+        "originalAmount": "一两半",
+        "amount": 1.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作三柰"
+      },
+      {
+        "name": "高良姜",
+        "originalAmount": "一两半",
+        "amount": 1.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作良姜"
+      },
+      {
+        "name": "白芷",
+        "originalAmount": "一两半",
+        "amount": 1.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "甘松",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "大黄",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "芸香",
+        "originalAmount": "二钱",
+        "amount": 2,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "樟脑",
+        "originalAmount": "二钱",
+        "amount": 2,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "硝",
+        "originalAmount": "六钱",
+        "amount": 6,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文仅作硝，具体硝类未明"
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "三分",
+        "amount": 3,
+        "unit": "分",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "柏泥",
+        "originalAmount": "二升",
+        "amount": 2,
+        "unit": "升",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "成型辅料，体积单位保留原文"
+      },
+      {
+        "name": "白及",
+        "originalAmount": "一升",
+        "amount": 1,
+        "unit": "升",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作白芨末，体积单位保留原文"
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "high",
+    "flags": []
+  },
+  {
+    "id": "web_xiangcheng_23_qionglin_qingyuan",
+    "layer": "web",
+    "name": "璚林清远香",
+    "source": "香乘·卷二十三·晦斋香谱",
+    "type": "线香",
+    "method": "右为末，依瑶池清味香前方造。",
+    "note": "原文承接前方造线香法，属于线香参考条目。",
+    "originalText": "璚林清远香\n[出处] 香乘·卷二十三·晦斋香谱\n[药物] 沉速香、甘松、白芷、良姜、大黄、檀香各七钱，丁香、丁皮、三柰、藁本各五钱，牡丹皮、羌活、蜘蛛香各二钱，樟脑、零陵香各一钱。\n[制备] 右为末，依前方造。",
+    "ingredients": [
+      {
+        "name": "沉速香",
+        "originalAmount": "七钱",
+        "amount": 7,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "甘松",
+        "originalAmount": "七钱",
+        "amount": 7,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "白芷",
+        "originalAmount": "七钱",
+        "amount": 7,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "高良姜",
+        "originalAmount": "七钱",
+        "amount": 7,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作良姜"
+      },
+      {
+        "name": "大黄",
+        "originalAmount": "七钱",
+        "amount": 7,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "七钱",
+        "amount": 7,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "丁香",
+        "originalAmount": "五钱",
+        "amount": 5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "丁香皮",
+        "originalAmount": "五钱",
+        "amount": 5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作丁皮"
+      },
+      {
+        "name": "山柰",
+        "originalAmount": "五钱",
+        "amount": 5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作三柰"
+      },
+      {
+        "name": "藁本",
+        "originalAmount": "五钱",
+        "amount": 5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "底文作本，按香材语境校作藁本"
+      },
+      {
+        "name": "牡丹皮",
+        "originalAmount": "二钱",
+        "amount": 2,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "羌活",
+        "originalAmount": "二钱",
+        "amount": 2,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "蜘蛛香",
+        "originalAmount": "二钱",
+        "amount": 2,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "樟脑",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "零陵香",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "high",
+    "flags": []
+  },
+  {
+    "id": "web_xiangcheng_23_zhenhe_rouyuan",
+    "layer": "web",
+    "name": "真和柔远香",
+    "source": "香乘·卷二十三·晦斋香谱",
+    "type": "线香",
+    "method": "右为末，入麝三字，清水和造。",
+    "note": "原文使用速香末、柏泥、白芨末，以清水和造，线香结构清楚。",
+    "originalText": "真和柔远香\n[出处] 香乘·卷二十三·晦斋香谱\n[药物] 速香末二升，柏泥四升，白芨末一升。\n[制备] 右为末，入麝三字，清水和造。",
+    "ingredients": [
+      {
+        "name": "速香",
+        "originalAmount": "二升",
+        "amount": 2,
+        "unit": "升",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作速香末，体积单位保留原文"
+      },
+      {
+        "name": "柏泥",
+        "originalAmount": "四升",
+        "amount": 4,
+        "unit": "升",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "成型辅料，体积单位保留原文"
+      },
+      {
+        "name": "白及",
+        "originalAmount": "一升",
+        "amount": 1,
+        "unit": "升",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作白芨末，体积单位保留原文"
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "三字",
+        "amount": 3,
+        "unit": "字",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "high",
+    "flags": []
+  },
+  {
+    "id": "web_xiangcheng_23_heiyun",
+    "layer": "web",
+    "name": "黑芸香",
+    "source": "香乘·卷二十三·晦斋香谱",
+    "type": "线香",
+    "method": "右为末，入白芨三合，依前方造。",
+    "note": "原文以芸香、柏泥、柳炭末为主体，承接前方线香造法。",
+    "originalText": "黑芸香\n[出处] 香乘·卷二十三·晦斋香谱\n[药物] 芸香五两，柏泥二升，柳炭末二升。\n[制备] 右为末，入白芨三合，依前方造。",
+    "ingredients": [
+      {
+        "name": "芸香",
+        "originalAmount": "五两",
+        "amount": 5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "柏泥",
+        "originalAmount": "二升",
+        "amount": 2,
+        "unit": "升",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "成型辅料，体积单位保留原文"
+      },
+      {
+        "name": "柳炭",
+        "originalAmount": "二升",
+        "amount": 2,
+        "unit": "升",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作柳炭末，体积单位保留原文"
+      },
+      {
+        "name": "白及",
+        "originalAmount": "三合",
+        "amount": 3,
+        "unit": "合",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作白芨，体积单位保留原文"
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "high",
+    "flags": []
+  },
+  {
+    "id": "web_xiangcheng_24_siye_bingzi",
+    "layer": "web",
+    "name": "四叶饼子香",
+    "source": "香乘·卷二十四·墨娥小录香谱",
+    "type": "香饼",
+    "method": "右各等分为细末，梨汁和丸，小鸡头大，捻作饼子；或搓如粗灯草大，阴干烧之；加降真屑、檀末同尤佳。",
+    "note": "墨娥小录香谱果皮类香饼方；梨汁和丸与阴干线索清楚，可作为低门槛香饼/线香改作参考。",
+    "originalText": "四叶饼子香\n[出处] 香乘·卷二十四·墨娥小录香谱\n[药物] 荔枝壳、松子壳、梨皮、甘蔗柤，各等分。\n[制备] 右各等分为细末，梨汁和丸，小鸡头大，捻作饼子；或搓如粗灯草大，阴干烧之；加降真屑、檀末同尤佳。",
+    "ingredients": [
+      {
+        "name": "荔枝皮",
+        "originalAmount": "等分",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作荔枝壳，保留为果皮类材料"
+      },
+      {
+        "name": "松子壳",
+        "originalAmount": "等分",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文称松子壳"
+      },
+      {
+        "name": "梨皮",
+        "originalAmount": "等分",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文称梨皮"
+      },
+      {
+        "name": "甘蔗渣",
+        "originalAmount": "等分",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作甘蔗柤"
+      },
+      {
+        "name": "梨",
+        "originalAmount": "梨汁",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作梨汁和丸"
+      },
+      {
+        "name": "降真香",
+        "originalAmount": "未注明",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作加降真屑，属加味建议，未记用量"
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "未注明",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作檀末，属加味建议，未记用量"
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "high",
+    "flags": []
+  },
+  {
+    "id": "web_xiangcheng_24_muxi_yinxiang",
+    "layer": "web",
+    "name": "木犀印香",
+    "source": "香乘·卷二十四·墨娥小录香谱",
+    "type": "印香",
+    "method": "木犀研一次，晒干为末；右为末和匀，作印香烧。",
+    "note": "花材入印香的清晰条目，适合用于香材库木犀/桂花的炮制与古方关联。",
+    "originalText": "木犀印香\n[出处] 香乘·卷二十四·墨娥小录香谱\n[药物] 木犀不以多少，研一次晒干为末，每用五两；檀香二两，赤苍脑末四钱，金颜香三钱，麝香一钱半。\n[制备] 右为末和匀，作印香烧。",
+    "ingredients": [
+      {
+        "name": "木犀花",
+        "originalAmount": "五两",
+        "amount": 5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作木犀，先研一次晒干为末"
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "龙脑",
+        "originalAmount": "四钱",
+        "amount": 4,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作赤苍脑末"
+      },
+      {
+        "name": "金颜香",
+        "originalAmount": "三钱",
+        "amount": 3,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "一钱半",
+        "amount": 1.5,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "high",
+    "flags": []
+  },
+  {
+    "id": "web_xiangcheng_24_qiangwei",
+    "layer": "web",
+    "name": "蔷薇香",
+    "source": "香乘·卷二十四·墨娥小录香谱",
+    "type": "佩香/烧香",
+    "method": "右七味为末，可佩可烧。",
+    "note": "原文明示可佩可烧；用料较少，适合作为轻量试作参考，但细辛需提示谨慎。",
+    "originalText": "蔷薇香\n[出处] 香乘·卷二十四·墨娥小录香谱\n[药物] 茅香一两，零陵一两，白芷半两，细辛半两，丁皮一两微炒，白檀半两，茴香一钱。\n[制备] 右七味为末，可佩可烧。",
+    "ingredients": [
+      {
+        "name": "茅香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "零陵香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作零陵"
+      },
+      {
+        "name": "白芷",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "细辛",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "丁香皮",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作丁皮，微炒"
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作白檀"
+      },
+      {
+        "name": "茴香",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "high",
+    "flags": []
+  },
+  {
+    "id": "web_xiangcheng_24_qiongxin",
+    "layer": "web",
+    "name": "琼心香（墨娥小录）",
+    "source": "香乘·卷二十四·墨娥小录香谱",
+    "type": "香饼",
+    "method": "右为末，面糊作饼子焚之。",
+    "note": "二味简方，结构清楚；梅脑按龙脑体系暂链，原文名保留。",
+    "originalText": "琼心香\n[出处] 香乘·卷二十四·墨娥小录香谱\n[药物] 白檀三两，梅脑一钱。\n[制备] 右为末，面糊作饼子焚之。",
+    "ingredients": [
+      {
+        "name": "檀香",
+        "originalAmount": "三两",
+        "amount": 3,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作白檀"
+      },
+      {
+        "name": "龙脑",
+        "originalAmount": "一钱",
+        "amount": 1,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作梅脑"
+      },
+      {
+        "name": "面糊",
+        "originalAmount": "作饼",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "成型辅料，原文作面糊作饼子"
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "high",
+    "flags": []
+  },
+  {
+    "id": "web_xiangcheng_24_changchun",
+    "layer": "web",
+    "name": "长春香",
+    "source": "香乘·卷二十四·墨娥小录香谱",
+    "type": "香饼",
+    "method": "右为末，入白芨末四两作剂，阴干，不可见大日色。",
+    "note": "原方强调白芨成型与阴干避日，可作为线香/香饼试作工艺参考。",
+    "originalText": "长春香\n[出处] 香乘·卷二十四·墨娥小录香谱\n[药物] 川芎、辛夷、大黄、江黄、乳香、檀香、甘松去土各半两；丁皮、丁香、广芸香、三赖各一两；千金草一两；茅香、玄参、牡皮、本、白芷、独活、马蹄香去土各二两；藿香一两五钱；荔枝壳新者一两。\n[制备] 右为末，入白芨末四两作剂，阴干，不可见大日色。",
+    "ingredients": [
+      {
+        "name": "川芎",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "辛夷",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "大黄",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "姜黄",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作江黄"
+      },
+      {
+        "name": "乳香",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "甘松",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作甘松去土"
+      },
+      {
+        "name": "丁香皮",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作丁皮"
+      },
+      {
+        "name": "丁香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "芸香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作广芸香"
+      },
+      {
+        "name": "山柰",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作三赖"
+      },
+      {
+        "name": "千金草",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "《香乘》称孩儿菊曰千金草，现代本草考据对应佩兰；不是老鹳草"
+      },
+      {
+        "name": "茅香",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "玄参",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "牡丹皮",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作牡皮"
+      },
+      {
+        "name": "藁本",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作本"
+      },
+      {
+        "name": "白芷",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "独活",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "蜘蛛香",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作马蹄香去土"
+      },
+      {
+        "name": "藿香",
+        "originalAmount": "一两五钱",
+        "amount": 1.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "荔枝皮",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作荔枝壳新者"
+      },
+      {
+        "name": "白及",
+        "originalAmount": "四两",
+        "amount": 4,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作白芨末，成型辅料"
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "high",
+    "flags": []
+  },
+  {
+    "id": "web_xiangcheng_24_sailongxian_bingzi",
+    "layer": "web",
+    "name": "赛龙涎饼子",
+    "source": "香乘·卷二十四·墨娥小录香谱",
+    "type": "香饼",
+    "method": "将土以薄荷自然汁和成剂，日中晒干；再捣、再以汁浸、再晒，如此五度。候干研末，入樟脑末和匀，更用汁和作饼，阴干，为香钱，隔火焚。",
+    "note": "此方重点在薄荷自然汁反复和晒、浸晒五度，再作饼隔火焚；东壁土为原文特殊材料，保留而不作现代建议。",
+    "originalText": "赛龙涎饼子\n[出处] 香乘·卷二十四·墨娥小录香谱\n[药物] 樟脑一两，东壁土三两，薄荷自然汁。\n[制备] 右将土汁和成剂，日中晒干，再捣汁浸再晒，如此五度。候干研为末，入樟脑末和匀，更用汁和作饼阴干，为香钱，隔火焚。",
+    "ingredients": [
+      {
+        "name": "樟脑",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "东壁土",
+        "originalAmount": "三两",
+        "amount": 3,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文特殊材料，保留原称"
+      },
+      {
+        "name": "薄荷汁",
+        "originalAmount": "自然汁",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作薄荷自然汁，反复和晒浸润"
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "high",
+    "flags": []
+  },
+  {
+    "id": "web_xiangcheng_24_xianxiang_2",
+    "layer": "web",
+    "name": "墨娥线香（二）",
+    "source": "香乘·卷二十四·墨娥小录香谱",
+    "type": "线香参考",
+    "method": "右为极细末，又于合香石上挞之，令十分稠密细腻，却依法制造。原文并记：入蚯蚓粪则灰烬连绵不断；入松上圆钱苔藓及带柄小莲蓬，则烟直而圆。",
+    "note": "明确为线香条目，重点不是单味功效，而是细末、挞料、灰烬连续和烟形控制，适合作为线香工艺参考。",
+    "originalText": "线香（又）\n[出处] 香乘·卷二十四·墨娥小录香谱\n[药物] 檀香、藿香、白芷、樟脑、马蹄香、荆皮、牡丹皮、丁皮各半两；玄参、零陵、大黄各一两；甘松、三赖、辛夷花各一两半；芸香、茅香二两；甘菊花四两。\n[制备] 右为极细末，又于合香石上挞之令十分稠密细腻，却依法制造。前件料内入蚯蚓粪则灰烬奉连不断；若入松树上成窠苔藓如圆钱者及带柄小莲蓬，则烟直而圆。",
+    "ingredients": [
+      {
+        "name": "檀香",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "藿香",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "白芷",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "樟脑",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "蜘蛛香",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作马蹄香"
+      },
+      {
+        "name": "荆皮",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "牡丹皮",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "丁香皮",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作丁皮"
+      },
+      {
+        "name": "玄参",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "零陵香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作零陵"
+      },
+      {
+        "name": "大黄",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "甘松",
+        "originalAmount": "一两半",
+        "amount": 1.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "山柰",
+        "originalAmount": "一两半",
+        "amount": 1.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作三赖"
+      },
+      {
+        "name": "辛夷",
+        "originalAmount": "一两半",
+        "amount": 1.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作辛夷花"
+      },
+      {
+        "name": "芸香",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "茅香",
+        "originalAmount": "二两",
+        "amount": 2,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "菊花",
+        "originalAmount": "四两",
+        "amount": 4,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作甘菊花"
+      },
+      {
+        "name": "蚯蚓粪",
+        "originalAmount": "未注明",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "烟灰连续辅料；原文未记用量，不作现代使用建议"
+      },
+      {
+        "name": "苔藓",
+        "originalAmount": "未注明",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作松树上成窠苔藓如圆钱者，未记用量"
+      },
+      {
+        "name": "莲蓬",
+        "originalAmount": "未注明",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作带柄小莲蓬，未记用量"
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "high",
+    "flags": [
+      "editorial_efficacy"
+    ]
+  },
+  {
+    "id": "web_xiangcheng_24_honglv_ruanxiang",
+    "layer": "web",
+    "name": "红绿软香",
+    "source": "香乘·卷二十四·墨娥小录香谱",
+    "type": "软香",
+    "method": "右和匀；红用板朱，绿用砂绿。约用三钱，以黄蜡熔化和就。",
+    "note": "此方有明确软香成型和调色线索，适合记录为器物/软香参考；辰砂、砂绿等仅作原文资料，不作现代使用建议。",
+    "originalText": "红绿软香\n[出处] 香乘·卷二十四·墨娥小录香谱\n[药物] 金颜香牙子四两，檀香末半两，苏合油半两，麝香五分。\n[制备] 右和匀；红用板朱，绿用砂绿，约用三钱，以黄蜡熔化和就。古人止有红者，盖用辰砂在内。",
+    "ingredients": [
+      {
+        "name": "金颜香",
+        "originalAmount": "四两",
+        "amount": 4,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作金颜香牙子"
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作檀香末"
+      },
+      {
+        "name": "苏合油",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "麝香",
+        "originalAmount": "五分",
+        "amount": 5,
+        "unit": "分",
+        "gram": null,
+        "conversionStatus": "",
+        "note": ""
+      },
+      {
+        "name": "黄蜡",
+        "originalAmount": "约三钱",
+        "amount": 3,
+        "unit": "钱",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "成型辅料"
+      },
+      {
+        "name": "辰砂",
+        "originalAmount": "红用",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作板朱/辰砂，调色材料"
+      },
+      {
+        "name": "砂绿",
+        "originalAmount": "绿用",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "调色材料，原文保留"
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "high",
+    "flags": []
+  },
+  {
+    "id": "web_xiangcheng_24_muxi_xiangzhu_qiwu",
+    "layer": "web",
+    "name": "合木犀香珠器物",
+    "source": "香乘·卷二十四·墨娥小录香谱",
+    "type": "器物香",
+    "method": "右并挞碎，随意制造。",
+    "note": "此条不是单纯焚香方，而是木犀香珠/器物制作线索；可为用户理解花材保存、挞碎和器物成型提供参考。",
+    "originalText": "合木犀香珠器物\n[出处] 香乘·卷二十四·墨娥小录香谱\n[药物] 木犀拣浸过年压干者一斤，锦纹大黄半两，黄檀香炒一两，白墡土折二钱大一块。\n[制备] 右并挞碎，随意制造。",
+    "ingredients": [
+      {
+        "name": "木犀花",
+        "originalAmount": "一斤",
+        "amount": 1,
+        "unit": "斤",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作木犀拣浸过年压干者"
+      },
+      {
+        "name": "大黄",
+        "originalAmount": "半两",
+        "amount": 0.5,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作锦纹大黄"
+      },
+      {
+        "name": "檀香",
+        "originalAmount": "一两",
+        "amount": 1,
+        "unit": "两",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文作黄檀香炒"
+      },
+      {
+        "name": "白墡土",
+        "originalAmount": "二钱大一块",
+        "amount": null,
+        "unit": "",
+        "gram": null,
+        "conversionStatus": "",
+        "note": "原文特殊材料，按原文保留"
+      }
+    ],
+    "unitProfileId": "ming_qing_research",
+    "unitProfileConfidence": "high",
+    "flags": []
+  }
+]

@@ -1,4 +1,5 @@
-import type { FormulaStep } from '@/types/canon'
+import type { Formula, FormulaStep } from '@/types/canon'
+import { sourceBatchFormulas } from './sources'
 
 /**
  * 真方写「制过」「炼蜜」时用。原文摘自《陈氏香谱》脩製诸香。
@@ -38,3 +39,49 @@ export const materialPrepSteps: Record<string, FormulaStep[]> = {
     },
   ],
 }
+
+export const prepBatchFormulas: Formula[] = [
+  {
+    id: 'yanrui',
+    name: '延安郡公蕊香',
+    aliases: ['蕊香', '延安郡公香'],
+    pattern: '炼蜜搓丸',
+    use: 'burn',
+    method: '玄参半斤煮熟再炒，甘松四两，白檀二两，麝乳各二钱，炼蜜搓丸。',
+    usage: '搓丸密封，随时取出点燃。玄参须先煮再炒。按十分之一试作。',
+    ingredients: [
+      { materialId: 'xuanshen', amount: '半斤', grams: 320, note: '原文作元参；煮熟再炒令微烟出' },
+      { materialId: 'gansong', amount: '四两', grams: 160, note: '细剉，去草土' },
+      { materialId: 'tanxiang', amount: '二两', grams: 80, note: '原文作白檀' },
+      { materialId: 'shexiang', amount: '二钱', grams: 8, note: '当门子，别研后入' },
+      { materialId: 'ruxiang', amount: '二钱', grams: 8, note: '原文作滴乳' },
+      { materialId: 'lianmi', amount: '炼蜜和匀', note: '粘合，不入折算' },
+    ],
+    sourceId: 'xiangpu',
+    juan: '香之法',
+    summary: '洪刍《香谱》延安郡公蕊香。玄参半斤须煮熟再炒，甘松、白檀为辅。原方半斤，今语按十分之一。',
+    original: '玄参半斤（洗去土，煮令熟，炒令微烟出），甘松四两，白檀二两，麝香二钱，滴乳二钱。右捣罗为末，炼蜜和匀，捻作鸡头大，贮瓷器，旋取爇之。',
+  },
+  {
+    id: 'xiaofenji',
+    name: '小芬积香',
+    aliases: ['芬积香'],
+    pattern: '蜜和地埋',
+    use: 'burn',
+    method: '栈香一两，檀香半两，樟脑半两飞过，降真一钱，麸炭三两。蜜和，地埋一月。',
+    usage: '埋满一个月后取出点燃。麸炭只助燃。樟脑气烈，火要小。',
+    ingredients: [
+      { materialId: 'zhanxiang', amount: '一两', grams: 40 },
+      { materialId: 'tanxiang', amount: '半两', grams: 20 },
+      { materialId: 'zhangnao', amount: '半两', grams: 20, note: '飞过；气烈，试作宜减' },
+      { materialId: 'jiangzhen', amount: '一钱', grams: 4, note: '别本作一分' },
+      { materialId: 'futan', amount: '三两', grams: 120, note: '助燃，不入香气' },
+      { materialId: 'lianmi', amount: '生蜜或熟蜜和匀', note: '粘合，不入折算' },
+    ],
+    sourceId: 'chenshi',
+    juan: '卷二',
+    summary: '《陈氏香谱》卷二小芬积香。栈檀为骨，樟脑飞过后入，麸炭助燃。蜜和后地埋一月。',
+    original: '栈香一两，檀香半两，樟脑半两（飞过），降真香一钱（别本作一分），麸炭三两。右以生蜜或熟蜜和匀，磁盒盛，地埋一月，取烧之。',
+  },
+  ...sourceBatchFormulas,
+]

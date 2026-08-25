@@ -26,3 +26,8 @@ export function formatGrams(grams: number) {
 export function sumIngredientGrams(items: Array<{ grams?: number }>) {
   return items.reduce((total, item) => total + (item.grams ?? 0), 0)
 }
+
+/** 把本典克数换到另一套「两」的克值下，只作古衡对照。 */
+export function gramsUnderProfile(canonGrams: number, liangGrams: number) {
+  return canonGrams * (liangGrams / LIANG_TO_GRAM)
+}

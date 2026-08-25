@@ -1,0 +1,69 @@
+{
+  "canon": {
+    "id": "xiangdian",
+    "name": "本典尺",
+    "liang": 40,
+    "qian": 4,
+    "fen": 0.4,
+    "jin": 640,
+    "zi": 1,
+    "note": "本典以 1 两 = 40 克折算，便于入手，不充古秤。"
+  },
+  "profiles": [
+    {
+      "id": "unverified",
+      "name": "未选择基准",
+      "liang": null,
+      "qian": null,
+      "fen": null,
+      "jin": null,
+      "note": "不自动换算克重，只保留原方剂量。"
+    },
+    {
+      "id": "qin_western_han_research",
+      "name": "秦西汉衡制",
+      "liang": 15.6,
+      "qian": 1.56,
+      "fen": 0.156,
+      "jin": 249.6,
+      "note": "一两约 15.6 克。适合明确为秦、西汉体系的古方校勘。"
+    },
+    {
+      "id": "eastern_han_research",
+      "name": "东汉衡制",
+      "liang": 13.8,
+      "qian": 1.38,
+      "fen": 0.138,
+      "jin": 220.8,
+      "note": "一两约 13.8 克至 15.4 克。本基准取 13.8 克，适合经方小两校勘。"
+    },
+    {
+      "id": "wei_jin_research",
+      "name": "魏晋衡制",
+      "liang": 17.7,
+      "qian": 1.77,
+      "fen": 0.177,
+      "jin": 283.2,
+      "note": "一两约 17.7 克。适合明确为魏晋南北朝体系的古方校勘。"
+    },
+    {
+      "id": "sui_tang_song_yuan_research",
+      "name": "隋唐宋元衡制",
+      "liang": 41.3,
+      "qian": 4.13,
+      "fen": 0.413,
+      "jin": 660.8,
+      "note": "一两约 41.3 克，一钱约 4.13 克。适合明确为隋唐宋元体系的香方。"
+    },
+    {
+      "id": "ming_qing_research",
+      "name": "明清衡制",
+      "liang": 37.3,
+      "qian": 3.73,
+      "fen": 0.373,
+      "jin": 596.8,
+      "note": "一两约 37.3 克，一钱约 3.73 克。适合明确为明清体系的香方。"
+    }
+  ],
+  "ziXiangjie": 0.4
+}

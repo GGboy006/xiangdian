@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { FEN_TO_GRAM, JIN_TO_GRAM, LIANG_TO_GRAM, formatGrams, liangToGram, qianToGram, sumIngredientGrams } from './scale'
+import { FEN_TO_GRAM, JIN_TO_GRAM, LIANG_TO_GRAM, formatGrams, gramsUnderProfile, liangToGram, qianToGram, sumIngredientGrams } from './scale'
 
 describe('scale', () => {
   it('一两折四十克', () => {
@@ -24,5 +24,10 @@ describe('scale', () => {
   it('克数读法', () => {
     expect(formatGrams(40)).toBe('40 克')
     expect(formatGrams(0.4)).toBe('0.4 克')
+  })
+
+  it('古衡对照按两的克值换算', () => {
+    expect(gramsUnderProfile(40, 41.3)).toBe(41.3)
+    expect(gramsUnderProfile(40, 37.3)).toBe(37.3)
   })
 })

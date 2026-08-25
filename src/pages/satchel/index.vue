@@ -9,8 +9,6 @@ definePage({
     navigationBarBackgroundColor: '#F4EDE0',
     navigationBarTextStyle: 'black',
     backgroundColor: '#F4EDE0',
-    enableShareAppMessage: true,
-    enableShareTimeline: true,
   },
 })
 
@@ -32,7 +30,7 @@ onShareTimeline(() => shareHome())
         关于本典
       </view>
       <view class="item__desc">
-        三书关系、整理原则与版权说明
+        三书、本典尺、古衡对照；校勘、辑录、粗编凡例
       </view>
     </view>
   </view>

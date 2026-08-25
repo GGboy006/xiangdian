@@ -15,9 +15,12 @@ onShow(() => {
     isCurrentPageTabbar.value = isPageTabbar(path)
   }
   tabbarStore.syncCurIdxByCurrentPage()
+  // 微信 custom:true 后禁止 hideTabBar；App/H5 仍要藏原生栏
+  // #ifndef MP-WEIXIN
   if (needHideNativeTabbar) {
     uni.hideTabBar({ animation: false })
   }
+  // #endif
 })
 </script>
 

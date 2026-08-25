@@ -4,7 +4,6 @@ import AdapterUniapp from '@alova/adapter-uniapp'
 import { createAlova } from 'alova'
 import { createServerTokenAuthentication } from 'alova/client'
 import VueHook from 'alova/vue'
-import { toLoginPage } from '@/utils/toLoginPage'
 import { ContentTypeEnum, ResultEnum, ShowMessage } from './tools/enum'
 
 // 配置动态Tag
@@ -30,8 +29,6 @@ const { onAuthRequired, onResponseRefreshToken } = createServerTokenAuthenticati
         // await authLogin();
       }
       catch (error) {
-        // 切换到登录页
-        toLoginPage({ mode: 'reLaunch' })
         throw error
       }
     },
@@ -56,16 +53,7 @@ const alovaInstance = createAlova({
     }
 
     const { config } = method
-    const ignoreAuth = !config.meta?.ignoreAuth
-    console.log('ignoreAuth===>', ignoreAuth)
-    // 处理认证信息   自行处理认证问题
-    if (ignoreAuth) {
-      const token = 'getToken()'
-      if (!token) {
-        throw new Error('[请求错误]：未登录')
-      }
-      // method.config.headers.token = token;
-    }
+    // 一期无登录，请求前不拦认证
 
     // 处理动态域名
     if (config.meta?.domain) {

@@ -15,8 +15,6 @@ const paperStyle = {
   navigationBarBackgroundColor: '#F4EDE0',
   navigationBarTextStyle: 'black',
   backgroundColor: '#F4EDE0',
-  enableShareAppMessage: true,
-  enableShareTimeline: true,
 }
 
 const pages = {

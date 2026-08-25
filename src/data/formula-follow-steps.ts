@@ -1,4 +1,5 @@
-import type { FormulaStep } from '@/types/canon'
+import type { Formula, FormulaStep } from '@/types/canon'
+import { sourceBatchSteps } from './sources'
 
 export const followSteps: Record<string, FormulaStep[]> = {
   meizhen: [
@@ -69,6 +70,34 @@ export const followSteps: Record<string, FormulaStep[]> = {
       text: '生蜜拌匀，不要煮过热。装进瓷罐封好，埋在阴凉处满一个月。取出搓丸，再放入香炉点燃。',
     },
   ],
+  tihu: [
+    {
+      original: '乳香、沉香各二钱半，檀香一两半',
+      text: '乳、沉各 10 克，檀香 60 克。量不大，可按原方称。锉成细末。',
+    },
+    {
+      original: '入麝少许',
+      text: '原书只写少许，不折克。麝香几小粒，另研，最后拌。',
+    },
+    {
+      original: '炼蜜和剂作饼焚之',
+      text: '炼蜜拌到能搓团，捏成小饼，阴干后炉中点燃。',
+    },
+  ],
+  lamei: [
+    {
+      original: '沉香、檀香各三钱，丁香六钱',
+      text: '原方沉、檀各 12 克，丁香 24 克。量不大，可按原方称，也可再减半试作。',
+    },
+    {
+      original: '龙脑半钱，麝香一钱',
+      text: '原方龙脑 2 克、麝香 4 克。另研成粉，最后才入。',
+    },
+    {
+      original: '右为细末，生蜜和剂',
+      text: '生蜜拌匀，不要煮过热。搓饼或丸，阴干后点燃。火要小，免得丁香先冲。',
+    },
+  ],
 }
 
 export const followUsage: Record<string, string> = {
@@ -77,3 +106,51 @@ export const followUsage: Record<string, string> = {
   yaxiang: '搓成小饼或丸，阴干后炉中点燃。书斋、宾客都合适。火要小，免得脑麝先冲。',
   gongzhong: '窨满一个月后取出，搓丸点燃。不要刚和完就焚。烟宜缓。',
 }
+
+export const moreFollowFormulas: Formula[] = [
+  {
+    id: 'sishi',
+    name: '四时清味香',
+    aliases: ['清味香'],
+    pattern: '炼蜜作饼',
+    use: 'burn',
+    method: '茴丁各一钱半，零陵五钱，檀八钱，甘松一两，脑麝少许，炼蜜作饼。',
+    usage: '搓成小饼点燃。原方裹铅粉，本典不作。',
+    ingredients: [
+      { materialId: 'huixiang', amount: '一钱半', grams: 6 },
+      { materialId: 'dingxiang', amount: '一钱半', grams: 6 },
+      { materialId: 'lingling', amount: '五钱', grams: 20 },
+      { materialId: 'tanxiang', amount: '八钱', grams: 32 },
+      { materialId: 'gansong', amount: '一两', grams: 40 },
+      { materialId: 'longnao', amount: '少许', note: '另研' },
+      { materialId: 'shexiang', amount: '少许', note: '另研' },
+      { materialId: 'lianmi', amount: '炼蜜和剂', note: '粘合，不入折算' },
+    ],
+    sourceId: 'xiangcheng',
+    juan: '卷二十三',
+    summary: '《香乘》晦斋香谱四时清味香。草香为骨。原方裹铅粉，有毒，本典不作。',
+    original: '茴香一钱半，丁香一钱半，零陵香五钱，檀香八钱，甘松一两，脑麝少许另研。右为末，炼蜜和剂作饼，用铅粉黄为衣焚之。',
+  },
+  {
+    id: 'xunling',
+    name: '荀令十里香',
+    aliases: ['十里香', '荀令香'],
+    pattern: '贮囊佩之',
+    use: 'wear',
+    method: '丁香半两强，檀、甘松、零陵各一两，生脑少许，茴香半钱弱略炒。为末，薄纸裹，贮囊佩之。',
+    usage: '薄纸包好，放入纱囊佩之。茴香须略炒。不可火焙。',
+    ingredients: [
+      { materialId: 'dingxiang', amount: '半两强', grams: 20, note: '原文作半两强，按半两折' },
+      { materialId: 'tanxiang', amount: '一两', grams: 40 },
+      { materialId: 'gansong', amount: '一两', grams: 40 },
+      { materialId: 'lingling', amount: '一两', grams: 40 },
+      { materialId: 'huixiang', amount: '半钱弱', grams: 2, note: '略炒；一作五分' },
+      { materialId: 'longnao', amount: '少许', note: '原文作生脑' },
+    ],
+    sourceId: 'chenshi',
+    juan: '佩熏诸香',
+    summary: '沈立谱入《陈氏香谱》。丁香半两强，檀、松、零陵各一两，茴香略炒，生脑少许。为末贮囊，不和蜜。',
+    original: '丁香半两强，檀香、甘松、零陵香各一两，生脑少许，茴香半钱弱略炒。右为末，薄纸裹，贮囊佩之。',
+  },
+]
+Object.assign(followSteps, sourceBatchSteps)

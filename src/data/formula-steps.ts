@@ -1,4 +1,4 @@
-import type { FormulaStep } from '@/types/canon'
+import type { Formula, FormulaStep } from '@/types/canon'
 
 /**
  * 今语步骤覆写。
@@ -120,6 +120,20 @@ export const formulaStepOverrides: Record<string, FormulaStep[]> = {
       text: '印之前拌一点点杏仁粉，不容易起尘，也更好从模子里脱出来。杏仁不入本典折算。',
     },
   ],
+  huairui: [
+    {
+      original: '沉香、栈香各三两，檀香、乳香各一两，甲香一两',
+      text: '原方沉、栈各 120 克，檀、乳、甲各 40 克。第一次可按十分之一：沉、栈各 12 克，檀、乳、甲各 4 克。甲香须制过。',
+    },
+    {
+      original: '生蜜拌匀，入瓷盒重汤煮十数沸，取出窨七日',
+      text: '生蜜拌到能成团，装进瓷盒，隔水煮十来开，取出放阴凉处满七天。',
+    },
+    {
+      original: '龙脑半钱、麝香一钱。作饼爇之',
+      text: '原方龙脑 2 克、麝香 4 克，试作各 0.2 克、0.4 克。另研，窨后拌入，捏饼点燃。原方有炭皮末、朴硝各一钱助燃，试作可不入。',
+    },
+  ],
 }
 
 /** 用法今语。有则盖过谱中文言。 */
@@ -130,3 +144,28 @@ export const formulaUsageOverrides: Record<string, string> = {
   yixiang: '薄纸包好，放入纱囊，佩在衣带或枕边。汗水浸过会更香。不要用火焙干。',
   dingzhou: '香灰上用印模压成回纹，炉中依印焚。一印大约一时。不要和蜜。',
 }
+
+export const stepBatchFormulas: Formula[] = [
+  {
+    id: 'dazhen',
+    name: '大真香',
+    aliases: ['大真'],
+    pattern: '蒸蜜作饼',
+    use: 'burn',
+    method: '沉一两半、白檀一两，白蜜半盏相和蒸干。栈二两，甲香一两，脑麝各一钱。作饼，窨一月烧。',
+    usage: '窨满一个月后取出点燃。白蜜半盏不折克。',
+    ingredients: [
+      { materialId: 'chenxiang', amount: '一两半', grams: 60 },
+      { materialId: 'tanxiang', amount: '一两', grams: 40, note: '原文作白檀' },
+      { materialId: 'zhanxiang', amount: '二两', grams: 80 },
+      { materialId: 'jiaxiang', amount: '一两', grams: 40 },
+      { materialId: 'longnao', amount: '一钱', grams: 4 },
+      { materialId: 'shexiang', amount: '一钱', grams: 4 },
+      { materialId: 'lianmi', amount: '白蜜半盏', note: '不入折算' },
+    ],
+    sourceId: 'chenshi',
+    juan: '卷三',
+    summary: '《陈氏香谱》卷三大真香。沉檀先与白蜜半盏蒸干，再入栈、甲、脑麝，窨一月。半盏不折克。',
+    original: '沉香一两半，白檀一两，白蜜半盏相和蒸干，栈香二两，甲香一两，脑、麝各一钱。右为细末，和匀，重汤煮蜜为膏，作饼子，窨一月烧。',
+  },
+]

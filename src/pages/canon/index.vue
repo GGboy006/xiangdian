@@ -13,8 +13,6 @@ definePage({
     navigationBarBackgroundColor: '#F4EDE0',
     navigationBarTextStyle: 'black',
     backgroundColor: '#F4EDE0',
-    enableShareAppMessage: true,
-    enableShareTimeline: true,
   },
 })
 
@@ -22,7 +20,11 @@ onShareAppMessage(() => shareHome())
 onShareTimeline(() => shareHome())
 
 const keyword = ref('')
-const picks = todayPicks()
+const picks = ref(todayPicks())
+
+onShow(() => {
+  picks.value = todayPicks()
+})
 
 function handleSearch() {
   openSearch(keyword.value.trim())
